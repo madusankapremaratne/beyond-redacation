@@ -24,7 +24,7 @@ dataset = load_dataset("corbt/enron-emails", split="train")
 
 # Convert to Pandas DataFrame for downstream validation profiling
 df = dataset.to_pandas()
-print(f"Successfully loaded {len(df)} records for validation.")
+print(f"Successfully loaded {len(df)} records for validation.") ```
 
 ### Active Validation Notebooks
 Select a notebook below to inspect or run the interactive data processing and distribution checks:
