@@ -1,6 +1,3 @@
-Here is the correctly formatted Markdown block for your `README.md`. The broken code block syntax from the snippet has been fixed, and trailing spacing has been cleaned up for seamless rendering on GitHub.
-
-```markdown
 # Beyond Redaction: Hybrid EdgeLLM Architectures for Query-Time Privacy
 
 This repository contains the official experimental framework, dataset validation pipelines, and evaluation benchmarks for the *Beyond Redaction* research project. The core framework introduces an intent-preserving semantic generalization layer running entirely on-device across heterogeneous edge platforms (Android, iOS, and macOS via Ollama) to secure cloud-bound LLM queries.
@@ -30,10 +27,6 @@ df = dataset.to_pandas()
 print(f"Successfully loaded {len(df)} records for validation.")
 
 ```
-
-Here is the updated Markdown block with the Google Colab badge syntax fixed.
-
-The issue usually happens if the raw HTML image tag or markdown link formatting has a typo or gets stripped by GitHub's markdown renderer. Replacing them with direct standard Markdown image links resolves the issue:
 
 ### Active Validation Notebooks
 Select a notebook below to inspect or run the interactive data processing and distribution checks:
