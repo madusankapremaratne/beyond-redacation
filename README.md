@@ -6,9 +6,25 @@ This repository contains the official experimental framework, dataset validation
 
 ## 📊 Dataset Validation & Reproducibility
 
-To ensure maximum transparency, reproducibility, and architectural compliance before executing our core hybrid experiments, the raw data distribution is validated using open-access notebook environments. 
+To ensure maximum transparency, reproducibility, and architectural compliance before executing our core hybrid experiments, the data distribution is validated using open-access notebook environments. 
 
-We utilize the **Enron Email Corpus** to benchmark organic human communication containing sensitive structural entity features (PII, operational schedules, proprietary data structures).
+We utilize the **Enron Email Corpus** to benchmark organic human communication containing sensitive structural entity features (PII, operational schedules, proprietary data structures). For clean, reproducible data validation, we use the structured Hugging Face mirror:
+
+* **Dataset Repository:** [Hugging Face - corbt/enron-emails](https://huggingface.co/datasets/corbt/enron-emails)
+
+### Programmatic Ingestion (Google Colab)
+You can directly stream and parse the target dataset within your validation pipeline using the following snippet:
+
+```python
+!pip install datasets pandas
+from datasets import load_dataset
+
+# Stream the dataset to bypass local storage constraints in edge simulations
+dataset = load_dataset("corbt/enron-emails", split="train")
+
+# Convert to Pandas DataFrame for downstream validation profiling
+df = dataset.to_pandas()
+print(f"Successfully loaded {len(df)} records for validation.")
 
 ### Active Validation Notebooks
 Select a notebook below to inspect or run the interactive data processing and distribution checks:
