@@ -104,6 +104,3 @@ Simulations of hardware execution environments demonstrate the following data de
 * `/framework` — The core semantic generalization implementation logic.
 * `/evaluation` — Scripts tracking downstream utility metrics vs. information leakage rates.
 
-```
-
-```
