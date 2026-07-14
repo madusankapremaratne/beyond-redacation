@@ -54,8 +54,6 @@ df = pd.DataFrame(sample_records)
 ```
 
 
-Here is the cleaned and formatted Markdown snippet, removing the excessive blank lines so it renders perfectly in your `README.md`:
-
 ### Active Validation Notebooks
 
 Select a notebook below to inspect or run the interactive data processing and distribution checks:
