@@ -31,15 +31,21 @@ print(f"Successfully loaded {len(df)} records for validation.")
 
 ```
 
-### Active Validation Notebooks
+Here is the updated Markdown block with the Google Colab badge syntax fixed.
 
+The issue usually happens if the raw HTML image tag or markdown link formatting has a typo or gets stripped by GitHub's markdown renderer. Replacing them with direct standard Markdown image links resolves the issue:
+
+```markdown
+### Active Validation Notebooks
 Select a notebook below to inspect or run the interactive data processing and distribution checks:
 
 | Validation Task | Focus Area | Environment Link |
-| --- | --- | --- |
-| **01_Enron_Structural_Validation** | Verifying raw text integrity, formatting parsing, and volume distribution. | [](https://www.google.com/search?q=YOUR_COLAB_LINK_HERE) |
-| **02_Privacy_Baseline_Profiling** | Statistical analysis of sensitive entities and PII density within the target corpus. | [](https://www.google.com/search?q=YOUR_COLAB_LINK_HERE) |
-| **03_Context_Window_Simulation** | Profiling token limits and formatting variations for constrained EdgeLLM runtimes. | [](https://www.google.com/search?q=YOUR_COLAB_LINK_HERE) |
+| :--- | :--- | :--- |
+| **01_Enron_Structural_Validation** | Verifying raw text integrity, formatting parsing, and volume distribution. | [![Open In Colab](https://camo.githubusercontent.com/84f0902c556b2d02aa9b1faa7b0559ac4e25e039bfe08fe40d7c752496d0da3c/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](YOUR_COLAB_LINK_HERE) |
+| **02_Privacy_Baseline_Profiling** | Statistical analysis of sensitive entities and PII density within the target corpus. | [![Open In Colab](https://camo.githubusercontent.com/84f0902c556b2d02aa9b1faa7b0559ac4e25e039bfe08fe40d7c752496d0da3c/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](YOUR_COLAB_LINK_HERE) |
+| **03_Context_Window_Simulation** | Profiling token limits and formatting variations for constrained EdgeLLM runtimes. | [![Open In Colab](https://camo.githubusercontent.com/84f0902c556b2d02aa9b1faa7b0559ac4e25e039bfe08fe40d7c752496d0da3c/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](YOUR_COLAB_LINK_HERE) |
+
+```
 
 ---
 
