@@ -1,6 +1,3 @@
-Here is the updated `README.md` with an expanded introduction section. It explicitly articulates the shift from traditional token-level redaction to mitigating **Inference-Time Structural Leakage** and preventing **Organizational/Employee Profile Reconstruction**, giving your supervisor a clear view of the academic and architectural contribution.
-
-```markdown
 # Beyond Redaction: Hybrid EdgeLLM Architectures for Query-Time Privacy
 
 This repository contains the official experimental framework, dataset validation pipelines, and evaluation benchmarks for the *Beyond Redaction* research project. 
