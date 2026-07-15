@@ -12,7 +12,7 @@ Traditional privacy-preserving methods focus strictly on *Instance-Level Anonymi
 
 The cloud-bound LLM receives a highly generalized prompt that preserves processing utility while ensuring the underlying organizational infrastructure remains completely closed to reverse-engineering.
 
----
+
 
 ## 📁 Storage Architecture & Persistence Layer
 
@@ -27,7 +27,7 @@ To bridge active notebook memory spaces and survive volatile cloud container rec
 
 ```
 
----
+
 
 ## 🚀 Active Evaluation Pipelines
 
@@ -51,7 +51,7 @@ The downstream validation framework is driven sequentially across dedicated runt
 * **Mechanism:** Re-injects the sanitized text block back into the DeepSeek-V4-Pro profiling gateway to compute the operational metric delta.
 * **Output Artifact:** `adversarial_protected_reconstruction.json` (cached to Drive).
 
----
+
 
 ## 📊 Dataset Validation & Reproducibility
 
@@ -129,7 +129,7 @@ Simulations of hardware execution environments demonstrate the following data de
 | **High-End Mobile (4K)** | 4096 Tokens | 1.40% | 0.56% |
 | **Desktop Ollama (8K)** | 8192 Tokens | 0.51% | 0.22% |
 
----
+
 
 ## 🛠️ Repository Architecture
 
