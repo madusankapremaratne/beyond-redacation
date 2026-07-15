@@ -143,7 +143,7 @@ Simulations of hardware execution environments demonstrate the following data de
 
 
 
-
+<!--
 
 # Beyond Redaction: Hybrid EdgeLLM Architectures for Query-Time Privacy
 
@@ -247,5 +247,5 @@ Simulations of hardware execution environments demonstrate the following data de
 * `/validation` — Google Colab synchronization scripts, local text validation parsers, and profile artifacts.
 * `/edge-runtime` — Local deployment configuration layers for mobile (Android/iOS) and desktop (macOS via Ollama).
 * `/framework` — The core semantic generalization implementation logic.
-* `/evaluation` — Scripts tracking downstream utility metrics vs. information leakage rates.
+* `/evaluation` — Scripts tracking downstream utility metrics vs. information leakage rates. -->
 
