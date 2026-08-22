@@ -36,7 +36,7 @@ The downstream validation framework is driven sequentially across dedicated runt
 ### 04_Adversarial_Profile_Reconstruction
 
 * **Objective:** Establish the baseline leakage vulnerabilities of the raw corpus.
-* **Mechanism:** Routes unredacted narrative sequences directly to `deepseek-ai/deepseek-v4-pro` to construct a structural organizational map.
+* **Mechanism:** Routes unredacted narrative sequences directly to `deepseek-ai/deepseek-r1` (pinned 2026-08-22, replacing deprecated `deepseek-ai/deepseek-v4-pro`) to construct a structural organizational map.
 * **Output Artifact:** `adversarial_baseline_reconstruction.json` (cached to Drive).
 
 ### 05_Semantic_Generalization_Defensive_Layer
@@ -48,7 +48,7 @@ The downstream validation framework is driven sequentially across dedicated runt
 ### 06_Adversarial_Evaluation_Comparison
 
 * **Objective:** Expose the protected context layer to the original profiling vector to calculate defense efficacy.
-* **Mechanism:** Re-injects the sanitized text block back into the DeepSeek-V4-Pro profiling gateway to compute the operational metric delta.
+* **Mechanism:** Re-injects the sanitized text block back into the DeepSeek-R1 profiling gateway to compute the operational metric delta.
 * **Output Artifact:** `adversarial_protected_reconstruction.json` (cached to Drive).
 
 
@@ -133,10 +133,13 @@ Simulations of hardware execution environments demonstrate the following data de
 
 ## 🛠️ Repository Architecture
 
+**Built:**
 * `/validation` — Google Colab synchronization scripts, local text validation parsers, and profile artifacts.
+* `/evaluation` — Notebooks running the adversarial-reconstruction and semantic-generalization proof-of-concept against NVIDIA NIM-hosted models.
+
+**Planned (not yet built):**
 * `/edge-runtime` — Local deployment configuration layers for mobile (Android/iOS) and desktop (macOS via Ollama).
 * `/framework` — The core semantic generalization implementation logic.
-* `/evaluation` — Scripts tracking downstream utility metrics vs. information leakage rates.
 
 
 
