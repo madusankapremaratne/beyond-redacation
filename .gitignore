@@ -1,7 +1,7 @@
 .DS_Store
 .madus/
 .venv/
-.env
+.env*
 data/
 results/
 __pycache__/

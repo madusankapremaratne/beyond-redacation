@@ -2,7 +2,10 @@ import os
 
 try:
     from dotenv import load_dotenv
-    load_dotenv()
+    if os.path.exists(".env.local"):
+        load_dotenv(".env.local")
+    else:
+        load_dotenv()
 except ImportError:
     pass
 
@@ -19,13 +22,19 @@ def get_api_key(key_name: str = "NVIDIA_API_KEY") -> str:
     except Exception:
         pass
 
-    # 2. Fall back to local environment / .env file
+    # 2. Fall back to local environment / .env / .env.local file
     val = os.environ.get(key_name)
     if val:
         return val
 
     print(f"[WARNING] Key '{key_name}' not found in Colab secrets or environment variables.")
     return ""
+
+def get_hf_token() -> str:
+    """
+    Retrieve Hugging Face API Token (HF_TOKEN) securely.
+    """
+    return get_api_key("HF_TOKEN")
 
 def get_data_dir() -> str:
     """
@@ -47,3 +56,4 @@ def get_data_dir() -> str:
     data_dir = os.path.abspath(data_dir)
     os.makedirs(data_dir, exist_ok=True)
     return data_dir
+
