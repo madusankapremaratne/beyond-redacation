@@ -100,6 +100,27 @@ Relation-aware generalization improved SER on 29/50 samples, was worse on 8/50, 
 
 **Item 5 (relation-aware vs. reframe) is resolved as of this evaluation: relation-aware generalization was built and measurably outperforms the holistic rewrite on the same 50 samples.** See `.madus/plans/Item5-Findings-N50.md` for the pre-build decision brief.
 
+### 09_Edge_Runtime_Benchmark_Comparison
+
+* **Objective:** Validate the paper's own thesis claim — a defense running "entirely on-device across heterogeneous edge platforms (Android, iOS, and macOS via Ollama)" — with real measurements on all three named platforms, not just macOS.
+* **Scope (Phase 1, explicit):** benchmarks the **deterministic half** of the relation-aware framework only — entity detection + consistent-placeholder mapping + substitution. Relation extraction and the LLM fluency pass require bundling a mobile LLM runtime per platform (llama.cpp/MLC-LLM on iOS, MediaPipe LLM Inference/llama.cpp on Android) and are **Phase 2, not started** — this notebook does not measure them and does not imply they exist.
+* **Hardware:** iOS and Android numbers are from **real physical devices**, not simulator/emulator — iPhone 16 Pro Max (iOS 26.6) and Pixel 7 Pro (Android 17), both deployed and run via `xcrun devicectl` / `adb` with results pulled back programmatically. macOS uses the same Python + spaCy detector as `framework/extraction.py`.
+* **Entity detection per platform** (a deliberate difference, documented not hidden): iOS uses Apple's `NaturalLanguage` (`NLTagger`) framework — genuinely on-device, comparable in approach to spaCy. Android has no equivalent on-device general-NER API (ML Kit's Entity Extraction only covers structured entities like dates/addresses, and would need an online model download); it uses a simpler deterministic regex/heuristic detector instead, which over-redacts (privacy-safe, lower utility) rather than under-detects.
+* **All three platforms ran the identical N=20 sample subset** — `edge-runtime/shared/benchmark_samples.json`, the first 20 of the same seeded 50-sample draw used in Notebooks 07/08.
+* **Output Artifacts:** `edge-runtime/results/{macos,ios,android}_*.json` (raw per-sample timings), plus source: `edge-runtime/ios/` (Xcode/Swift), `edge-runtime/android/` (Gradle/Kotlin).
+
+#### Deterministic pipeline latency (N=20, real hardware, 2026-08-24)
+
+| Platform | Cold start (ms) | Steady-state mean (ms) | Steady-state median (ms) | Peak memory (mean, MB) |
+| --- | --- | --- | --- | --- |
+| macOS (Python/spaCy) | 10.5 | 19.04 | 14.18 | n/a |
+| **iOS** (NLTagger, real device) | 114.0 | **1.20** | **0.83** | 72.7 |
+| **Android** (heuristic, real device) | 9.5 | 16.17 | 5.83 | 50.4 |
+
+All three platforms run the deterministic entity-detection + substitution pipeline in low single-digit-to-low-double-digit milliseconds at steady state on real hardware — confirming this half of the framework is genuinely edge-viable, not just viable in principle. iOS's higher cold-start cost is NLTagger's one-time model load; its steady-state numbers are the fastest of the three. Android's numbers reflect its simpler detector and aren't directly comparable in *what* they're detecting to iOS/macOS, only in raw substitution-pipeline throughput.
+
+Full-pipeline on-device latency (matching Notebook 08's Mac/Ollama numbers, including relation extraction and the LLM fluency pass) remains future work — see Phase 1 scope note above.
+
 
 
 ## 📊 Dataset Validation & Reproducibility
@@ -184,9 +205,7 @@ Simulations of hardware execution environments demonstrate the following data de
 
 **Built:**
 * `/validation` — Google Colab synchronization scripts, local text validation parsers, and profile artifacts.
-* `/evaluation` — Notebooks running the adversarial-reconstruction and semantic-generalization mechanism: 04–06 as a single-sample proof-of-concept against NVIDIA NIM-hosted models, 07 as an automated N=50 holistic-rewrite benchmark, 08 as the relation-aware benchmark — both 07/08 against local Ollama models.
+* `/evaluation` — Notebooks running the adversarial-reconstruction and semantic-generalization mechanism: 04–06 as a single-sample proof-of-concept against NVIDIA NIM-hosted models, 07 as an automated N=50 holistic-rewrite benchmark, 08 as the relation-aware benchmark, 09 as the cross-platform (macOS/iOS/Android) real-device latency comparison.
 * `/framework` — The core relation-aware semantic generalization implementation: entity extraction, relation extraction, and consistent-placeholder generalization (`extraction.py`, `generalization.py`). Evaluated in Notebook 08.
-
-**Planned (not yet built):**
-* `/edge-runtime` — Local deployment configuration layers for mobile (Android/iOS) and desktop (macOS via Ollama).
+* `/edge-runtime` — Native iOS (Swift/Xcode) and Android (Kotlin/Gradle) ports of the deterministic half of the framework (entity detection + mapping + substitution), benchmarked on real hardware in Notebook 09. LLM-based relation extraction and fluency-pass steps are not yet ported (Phase 2).
 
