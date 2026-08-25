@@ -1,6 +1,8 @@
 # Beyond Redaction: Hybrid EdgeLLM Architectures for Query-Time Privacy
 
-This repository contains the official experimental framework, dataset validation pipelines, and evaluation benchmarks for the *Beyond Redaction* research project. 
+This repository contains the official experimental framework, dataset validation pipelines, and evaluation benchmarks for the *Beyond Redaction* research project.
+
+> New to this project? [`overview.md`](overview.md) is a short, non-technical What / Why / How, with the architecture and current results — start there before this README.
 
 ## 🎯 Research Core & Thesis
 
@@ -21,7 +23,7 @@ To bridge active notebook memory spaces and survive volatile cloud container rec
 ```text
 📁 /content/drive/MyDrive/beyond-redaction-data/
 ├── 📦 enron_mail.tar.gz                     # Raw target transaction corpus archive
-├── 📄 protected_generalized_context.txt     # Anonymized semantic text output from Gemma-4
+├── 📄 protected_generalized_context.txt     # Anonymized semantic text output from edge defense layer
 ├── 📊 adversarial_baseline_reconstruction.json  # Raw unprotected vulnerability profile (Notebook 04)
 └── 🛡️ adversarial_protected_reconstruction.json # Post-defense metric matrix (Notebook 06)
 
@@ -36,25 +38,25 @@ The downstream validation framework is driven sequentially across dedicated runt
 ### 04_Adversarial_Profile_Reconstruction
 
 * **Objective:** Establish the baseline leakage vulnerabilities of the raw corpus.
-* **Mechanism:** Routes unredacted narrative sequences directly to `deepseek-ai/deepseek-r1` (pinned 2026-08-22, replacing deprecated `deepseek-ai/deepseek-v4-pro`) to construct a structural organizational map.
+* **Mechanism:** Routes unredacted narrative sequences directly to the adversarial profiler (`deepseek-ai/deepseek-r1` in early proof-of-concept; pinned to local `qwen3-local:latest` / `Qwen2.5-7B-Instruct` in the N=50 evaluation suite) to construct a structural organizational map.
 * **Output Artifact:** `adversarial_baseline_reconstruction.json` (cached to Drive).
 
 ### 05_Semantic_Generalization_Defensive_Layer
 
-* **Objective:** Simulate localized text-to-text transformation via a reasoning-capable edge layer.
-* **Mechanism:** Sanitizes raw communication metadata streams using regular expressions and forwards the payload to `google/gemma-4-31b-it` with latent reasoning active (`enable_thinking: True`).
+* **Objective:** Simulate localized text-to-text transformation via an on-device edge layer.
+* **Mechanism:** Sanitizes raw communication metadata streams using regular expressions and forwards the payload to an edge LLM (early proof-of-concept evaluated hosted edge simulation; N=50 automated benchmark transitioned to local on-device `llama3.2:latest` / `Llama-3.2-3B-Instruct` via Ollama).
 * **Output Artifact:** `protected_generalized_context.txt` (cached to Drive).
 
 ### 06_Adversarial_Evaluation_Comparison
 
 * **Objective:** Expose the protected context layer to the original profiling vector to calculate defense efficacy.
-* **Mechanism:** Re-injects the sanitized text block back into the DeepSeek-R1 profiling gateway to compute the operational metric delta.
+* **Mechanism:** Re-injects the sanitized text block back into the adversarial profiling model (`deepseek-ai/deepseek-r1` in proof-of-concept; `qwen3-local:latest` in the N=50 suite) to compute the operational metric delta.
 * **Output Artifact:** `adversarial_protected_reconstruction.json` (cached to Drive).
 
 ### 07_Evaluation_Harness_N50
 
 * **Objective:** Scale the single-sample proof-of-concept above (04→05→06) into an automated N=50 benchmark — real repeated measurement instead of one manually-compared example.
-* **Mechanism:** For each of 50 seeded-random Enron samples, runs baseline reconstruction → semantic generalization → post-defense reconstruction, using **local Ollama models** (`qwen3-local` for adversarial reconstruction, `llama3.2` for generalization) rather than the hosted NIM models above — chosen after live testing found the originally-planned NIM models unreliable, and because on-device inference better matches the "edge LLM" framing being evaluated. The generalization step includes two deterministic safety nets (personal-name and email-address redaction) layered on top of the LLM's own rewrite.
+* **Mechanism:** For each of 50 seeded-random Enron samples, runs baseline reconstruction → semantic generalization → post-defense reconstruction, using **local Ollama models** (`qwen3-local:latest` [`Qwen2.5-7B-Instruct`] for adversarial reconstruction, `llama3.2:latest` [`Llama-3.2-3B-Instruct`] for generalization) rather than hosted APIs — chosen after live testing found remote hosted endpoints unreliable and because on-device inference directly evaluates the "edge LLM" threat model. The generalization step includes two deterministic safety nets (personal-name and email-address redaction) layered on top of the LLM's own rewrite.
 * **Scoring:** Structural Exposure Retention (SER) — the fraction of baseline-extracted structural facts (roles, project names, vendors/clients) that survive into the post-defense reconstruction via fuzzy string match — plus a per-sample personal-name-leak flag, since SER as an aggregate can mask a severe single-name leak.
 * **Output Artifacts:** 150 cached raw JSON/text files (baseline, generalized, post-defense per sample) plus `ser_scores.csv`, all under `evaluation/results/07_evaluation_harness_n50/` (gitignored — regenerate by rerunning the notebook against a local Ollama install).
 * **Status:** SER is an explicitly-labeled *starting proxy metric*, not the paper's final SER/RER definition. This arm serves as the **holistic-rewrite baseline** against which the relation-aware framework (Notebook 08, below) is measured — see that section for the head-to-head comparison and the item-5 decision this evaluation motivated.
@@ -83,6 +85,7 @@ This pattern — name/role/org triples surviving together, and identity being re
   3. **Consistent placeholder mapping** — every entity gets exactly one typed placeholder for the whole document (`"Lynn Blair"` → `"Person-A"`, all occurrences), so intra-document utility is preserved (who did what stays legible) while identity linkability is severed.
   4. **Deterministic substitution** — applied by boundary-anchored string replacement, not by trusting an LLM to follow a redaction instruction. This is the core fix for the ~11% instruction-following failure rate measured in Notebook 07.
   5. **Guarded fluency pass** — an optional LLM smoothing pass, followed by re-scrubbing every mapped entity so the smoothing step cannot reintroduce a leak.
+* **Model Pins:** Defense edge pipeline (entity extension, relation extraction, fluency) runs against local on-device `llama3.2:latest` (`Llama-3.2-3B-Instruct`), adversary reconstruction uses `qwen3-local:latest` (`Qwen2.5-7B-Instruct`), and deterministic NER uses `en_core_web_sm` (spaCy v3.7+).
 * **Scoring:** Same SER and name-leak functions as Notebook 07 (directly comparable numbers) plus a new **Relation Exposure Retention (RER)** seed metric — the fraction of raw-text relation triples whose both endpoints co-survive into the post-defense reconstruction.
 * **Output Artifacts:** 250 cached files (entities/relations/mapping/generalized/post-defense per sample) plus `relation_aware_scores.csv`, under `evaluation/results/08_relation_aware_n50/` (gitignored).
 
