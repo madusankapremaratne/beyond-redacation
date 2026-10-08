@@ -1,0 +1,1455 @@
+[
+ {
+  "custodian": "rodrique-r",
+  "messages": [
+   {
+    "file": "maildir/rodrique-r/canada/35.",
+    "from": "kathy.reeves@enron.com",
+    "rcpt": [
+     "robin.rodrigue@enron.com",
+     "jeff.sears@enron.com",
+     "brian.kristjansen@enron.com"
+    ],
+    "subject": "Re: INTRA-CAND-WEST-PHY BOOK",
+    "body": "Robin, I took a look at the intra-cand-west-phy calc and there is nothing about the calc that is different from yesterday (which Kam set up). I took a look at the detail but it is very difficult to use because if does not tie into the summary page at all. I did note the following things though: You are not pulling in our CGPR-Aeco/Basis Positions into the summary (a quick look at Aug/Sept/of Oct will show this) July will NEVER tie out until systems is able to roll off 1/30th of the MI positions daily. This applies to physical, gas daily and Financial. Please continue to use the positions we send you until we are able to tie Kathy Kathy Robin Rodrigue 06/21/2000 07:50 PM To: Kathy Reeves/CAL/ECT@ECT, Jeff Sears/CAL/ECT@ECT, Brian Kristjansen/CAL/ECT@ECT cc: Subject: INTRA-CAND-WEST-PHY BOOK Hey Guys, We are still not pulling the Intra-Cand-West-Phy book into the benchmark. I have talked to the systems administrator and he thinks it might be in how the book is set up in the system. I have attached below a copy of the screen that shows how we have desigated the various codes for this book. Please look at this and verify that"
+   },
+   {
+    "file": "maildir/rodrique-r/canada/34.",
+    "from": "kathy.reeves@enron.com",
+    "rcpt": [
+     "gary.stadler@enron.com",
+     "robin.rodrigue@enron.com",
+     "frank.hayden@enron.com"
+    ],
+    "subject": "Canada IM positions",
+    "body": "Enclosed are Canada's IM positions in txt format. Please let me know if they work in your systems as I will be sending nightly. Kathy"
+   },
+   {
+    "file": "maildir/rodrique-r/canada/1.",
+    "from": "kathy.reeves@enron.com",
+    "rcpt": [
+     "robin.rodrigue@enron.com",
+     "jonathan.mckay@enron.com"
+    ],
+    "subject": "Canada's P&L",
+    "body": "This is what I have for Canada's p&l for January 2001. Can you let me know what you reported so that we can make sure that it is the same? Kathy"
+   },
+   {
+    "file": "maildir/rodrique-r/canada/31.",
+    "from": "kathy.reeves@enron.com",
+    "rcpt": [
+     "robin.rodrigue@enron.com",
+     "gary.stadler@enron.com",
+     "frank.hayden@enron.com"
+    ],
+    "subject": "Exotics",
+    "body": "Our net nymex equivalent position for today's exotics portolio is 21 contracts . I changed the pubcode for the spread options from a basis curve (CGPR-AECO/BASIS) to a Fixed Price Curve (AECOUS) so hopefully this will help us reconcile."
+   }
+  ]
+ },
+ {
+  "custodian": "geaccone-t",
+  "messages": [
+   {
+    "file": "maildir/geaccone-t/inbox/246.",
+    "from": "rod.hayslett@enron.com",
+    "rcpt": [
+     "steve.hotte@enron.com",
+     "tracy.geaccone@enron.com"
+    ],
+    "subject": "FW: Enron Net Works 2002 Budget Process",
+    "body": "FYI -----Original Message----- From: Beck, Sally Sent: Friday, October 05, 2001 3:03 PM To: Bowen Jr., Raymond; Brown, Michael - COO London; Buy, Rick; Causey, Richard; Delainey, David; Derrick Jr., James; Dietrich, Janet; Fallon, Jim; Fastow, Andrew; Frevert, Mark; Glisan, Ben; Haedicke, Mark E.; Horton, Stanley; Hughes, James A.; Kean, Steven J.; Kitchen, Louise; Koenig, Mark; Lavorato, John; Lay, Kenneth; Mcconnell, Mike; McMahon, Jeffrey; Shankman, Jeffrey A.; Sherriff, John; Whalley, Greg Cc: Colwell, Wes; Roper, Kerry; Price, Brent A.; Castleman, Kent; Dyson, Fernley; Hayslett, Rod; Piper, Greg; Pickering, Mark Subject: Enron Net Works 2002 Budget Process The 2002 Enron Net Works budget will for the first time combine allocations to business units for four key services: Enron Online, IT Infrastructure, Risk Management Operations and IT Maintenance and Development. We are providing a level of detail for expense and capital spend that is greater than that provided in past years, and that will allow business units to make informed choices regarding the services that they receive. We are meeting with individual business unit Offices of the Chair to review in detail the four service areas delivered through Enron Net Works. Some of these meetings have been completed and more will occur"
+   },
+   {
+    "file": "maildir/geaccone-t/inbox/269.",
+    "from": "joe.darensbourg@enron.com",
+    "rcpt": [
+     "pat.prendergast@enron.com",
+     "lee.baker@enron.com",
+     "tracy.geaccone@enron.com"
+    ],
+    "subject": "RE: Adaytum Invoices Issues",
+    "body": "Pat, I mentioned to Jan that I would provide ETS (and other BUs) with specific Adaytum project expense coding which has been used for previous training classes. She said it didn't matter to her if the business units coded their additional training classes to its own expense account, without charging the costs directly to the expense work order which Project Sunrise set up. Therefore, you do not need to transfer the costs which you have already coded to expense on ETS' books. Thanks ! Joe -----Original Message----- From: Geaccone, Tracy Sent: Friday, October 12, 2001 1:07 PM To: Darensbourg, Joe Subject: FW: Adaytum Invoices Issues Are you going to take care of this? -----Original Message----- From: Prendergast, Pat Sent: Thursday, October 11, 2001 3:36 PM To: Geaccone, Tracy Cc: Baker, Lee Subject: FW: Adaytum Invoices Issues Tracy, Joe Darensbourg called me today asking about some invoices he received from Adaytum for Contributor Administrator and Advanced Analyst training that I am scheduled to take. I told him that I had already expensed and sent a check to Adaytum for these two classes. He, Joe, called me later to ask if I had coded this training to one of the Adaytum projects,"
+   },
+   {
+    "file": "maildir/geaccone-t/inbox/431.",
+    "from": "a..howard@enron.com",
+    "rcpt": [
+     "tracy.geaccone@enron.com",
+     "james.saunders@enron.com"
+    ],
+    "subject": "Pipeline investments",
+    "body": "Does TPC or NNG have any investments in any non-pipeline assets (financial or otherwise)? I was not aware of any but we need to disclose these."
+   },
+   {
+    "file": "maildir/geaccone-t/inbox/61.",
+    "from": "dana.jones@enron.com",
+    "rcpt": [
+     "elaine.concklin@enron.com",
+     "steve.gilbert@enron.com",
+     "tracy.geaccone@enron.com"
+    ],
+    "subject": "FW: 2002 Aviation budget",
+    "body": "fyi -----Original Message----- From: Fitch, Gary Sent: Friday, August 24, 2001 12:52 PM To: Jones, Dana; Barnes, Caroline Subject: RE: 2002 Aviation budget Use $4,800 so there will be no surprises. That includes fixed and variable. The budget has not been approved yet, there could be an increase, but I feel confident with the $4,800 estimate. -----Original Message----- From: Jones, Dana Sent: Friday, August 24, 2001 12:08 PM To: Barnes, Caroline Cc: Fitch, Gary Subject: RE: 2002 Aviation budget Caroline, What I been told is the following: $3,775/hr fixed costs plus variable costs associated with specific trips i.e. fuel, landing fees, catering etc. Typically I think an average per hour cost of $4,500 is used. Gary, Does this sound reasonable for budgeting purposes? Dana -----Original Message----- From: Barnes, Caroline Sent: Friday, August 24, 2001 12:03 PM To: Jones, Dana Subject: RE: 2002 Aviation budget Dana what is the cost associated with the plane usage? cvb -----Original Message----- From: Jones, Dana Sent: Friday, August 24, 2001 11:41 AM To: Concklin, Elaine; Barnes, Caroline; Fitch, Gary Cc: Gilbert, Steve; Goradia, Pallavi; Geaccone, Tracy Subject: 2002 Aviation budget For the 2002 Plan NNG will budget aviation by function i.e commercial, operations etc. Therefore"
+   }
+  ]
+ },
+ {
+  "custodian": "taylor-m",
+  "messages": [
+   {
+    "file": "maildir/taylor-m/uk_trading/19.",
+    "from": "mark.elliott@enron.com",
+    "rcpt": [
+     "mark.taylor@enron.com",
+     "susan.gill@omgroup.com"
+    ],
+    "subject": "URGENT - OMLX IT Agreements",
+    "body": "Mark, See below e-mail from Susan Gill to which are attached the IT Agreements for execution. You will see that I have copied this e-mail to Susan Gill for her information. Kind regards Mark ---------------------- Forwarded by Mark Elliott/LON/ECT on 05/13/99 05:44 PM Enron Capital & Trade Resources Corp. From: susan.gill@omgroup.com 05/13/99 05:56 PM To: melliott@enron.co.uk cc: peter.akesson@omgroup.com, knut.lillienau@omgroup.com, paul.scott@omgroup.com (bcc: Mark Elliott/LON/ECT) Subject: ENRON electronic agreements As agreed here are the agreements for execution. Please return 2 signed copies of each to me. In order that the line is installed tomorrow, please arrange for the signature page of the OMnet agreement to be faxed to me tomorrow on 0171 815 8508. Many thanks Click (See attached file: Click NT Member .doc)(See attached file: fees click member.doc) OMnet (See attached file: OMnet Agreement.doc)(See attached file: Fees omnet Member.doc) Side Agreement (See attached file: Side Agreement.doc) - Click NT Member .doc - fees click member.doc - OMnet Agreement.doc - Fees omnet Member.doc - Side Agreement.doc"
+   },
+   {
+    "file": "maildir/taylor-m/uk_trading/13.",
+    "from": "maria.nartey@enron.com",
+    "rcpt": [
+     "jeff.harbert@enron.com",
+     "richard.sage@enron.com",
+     "barry.pearce@enron.com",
+     "mark.taylor@enron.com",
+     "janine.juggins@enron.com"
+    ],
+    "subject": "Re: Documentation from OM",
+    "body": "Jeff, Mark Elliot in Legal here in London is concerned that there may be tax or legal implications depending on how involved in the process London gets. It would be helpful to Mark if you could let him know what the problems you are experiencing with your clearing function are and what exactly London will be doing, this way Mark and tax can investigate. Monday is a bank holiday in London so Mark and myself will be out of the office. Regards, Maria. ---------------------- Forwarded by Maria Nartey/LON/ECT on 30/04/99 17:46 Mark Elliott 30/04/99 15:24 To: Maria Nartey/LON/ECT@ECT cc: Richard Sage/LON/ECT@ECT, Barry Pearce/LON/ECT@ECT, Mark - ECT Legal Taylor/HOU/ECT@ECT Subject: Re: Documentation from OM Maria, Not necessarily - it is just that the OMLX got hold of the idea (I am not sure wherefrom) that Enron wanted Merrills - I have previously asked Mark Taylor, the VP in Legal in Houston, whether or not Merrills would meet with the commercial peoples' approval and I know that Mark has been trying to find this out, but I have not received word on this as yet. May be you can endeavour to find this out?? As I say, I have already forwarded to"
+   },
+   {
+    "file": "maildir/taylor-m/uk_trading/14.",
+    "from": "mark.elliott@enron.com",
+    "rcpt": [
+     "mark.taylor@enron.com",
+     "bob.crane@enron.com",
+     "barry.pearce@enron.com",
+     "maria.nartey@enron.com"
+    ],
+    "subject": "OMLX application",
+    "body": "Mark, Two quick points:- 1. Have Houston IT yet had the opportunity to review the IP licence agreements from a technical standpoint and do they have any questions on the wording etc of the documents for discussion with the exchange?? I believe that we may be in a position to get signature copies of these documents out of the OMLX on Friday of this week, or certainly during the early part of next week, and I would hope that we can avoid having to go back to OMLX with IT Dept's queries on the docs after they are issued for signature. 2. Neither I, nor for that matter the OMLX Legal Dept in London, believe that Merrills should have a problem under CTFC Part 30 as clearer - in fact these Rules probably don't apply at all to them as a clearer (they would if they were acting as an execution broker) - and even if the Rules were to bite, Merrills should meet the requirements by being FSA regulated in the UK (the FSA has an MOU with the CFTC on this issue). Hence we can't understand what Merrills are talking about!! I wonder if we can short-circuit this"
+   },
+   {
+    "file": "maildir/taylor-m/uk_trading/10.",
+    "from": "mark.elliott@enron.com",
+    "rcpt": [
+     "maria.nartey@enron.com",
+     "richard.sage@enron.com",
+     "barry.pearce@enron.com",
+     "mark.taylor@enron.com"
+    ],
+    "subject": "Re: Documentation from OM",
+    "body": "Maria, The Clearing docs we got in from the Exchange showed Merrill Lynch in London as Houston's clearer. This is not to say this is fixed, but for some reason the OMLX were under the impression that it would be Merrills. By the way, we can have as many clearers as we like (provided, of course, that they are General Clearing Members at the OMLX). If you could let me now quite swiftly on this issue I would be very grateful as we finalised the legal points on Clearing docs a couple of weeks ago and I have already couriered the final versions for signature to Houston. Kind regards Mark Maria Nartey 04/30/99 09:00 AM To: Richard Sage/LON/ECT@ECT, Mark Elliott/LON/ECT@ECT cc: Subject: Re: Documentation from OM FYI ---------------------- Forwarded by Maria Nartey/LON/ECT on 30/04/99 09:03 Maria Nartey 29/04/99 19:22 To: Jeff Harbert/HOU/ECT@ECT cc: Barry Pearce/LON/ECT@ECT Subject: Re: Documentation from OM Jeff, We only use two London clearing houses, Bank Paribas and Carr. The back office at Carr was not very good when I used to deal with them but I've been told that they are much better now. Paribas was definitely the better of the two from a back office"
+   }
+  ]
+ },
+ {
+  "custodian": "tholt-j",
+  "messages": [
+   {
+    "file": "maildir/tholt-j/all_documents/43.",
+    "from": "laurie.ellis@enron.com",
+    "rcpt": [
+     "jane.tholt@enron.com",
+     "patti.sullivan@enron.com"
+    ],
+    "subject": "Re: Southwest Gas-Penalty Invoice",
+    "body": "Attached you will find the manual invoice to SWG which I billed today. ---------------------- Forwarded by Laurie Ellis/NA/Enron on 02/08/2001 03:43 PM --------------------------- Jane M Tholt@ECT 02/07/2001 10:28 AM To: Laurie Ellis/NA/Enron@ENRON cc: Subject: Re: Southwest Gas-Penalty Invoice I want the penalty billed and let them challenge it."
+   },
+   {
+    "file": "maildir/tholt-j/all_documents/60.",
+    "from": "mike.grigsby@enron.com",
+    "rcpt": [
+     "jane.tholt@enron.com",
+     "tori.kuykendall@enron.com"
+    ],
+    "subject": "New Generation Report 2/28/01",
+    "body": "---------------------- Forwarded by Mike Grigsby/HOU/ECT on 03/13/2001 08:33 AM --------------------------- From: Mike Swerzbin 03/13/2001 08:14 AM To: Mike Grigsby/HOU/ECT@ECT cc: Subject: New Generation Report 2/28/01 ---------------------- Forwarded by Mike Swerzbin/HOU/ECT on 03/13/2001 06:21 AM --------------------------- From: Jeffrey Oh on 02/28/2001 09:59 AM To: Phillip K Allen/HOU/ECT@ECT, Julie A Gomez/HOU/ECT@ECT, Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Matt Motley/PDX/ECT@ECT, Mike Swerzbin/HOU/ECT@ECT, Jim Gilbert/PDX/ECT@ECT, David Parquet/SF/ECT@ECT, Christopher F Calger/PDX/ECT@ECT, Jim Buerkle/PDX/ECT@ECT, Angela Cadena/PDX/ECT@ECT, Elliot Mainzer/PDX/ECT@ECT, Todd Perry/PDX/ECT@ECT, Laird Dyer/SF/ECT@ECT, Michael McDonald/SF/ECT@ECT, Ed Clark/PDX/ECT@ECT, Dave Fuller/PDX/ECT@ECT, Alan Comnes/PDX/ECT@ECT, Michael Etringer/HOU/ECT@ECT, John Malowney/HOU/ECT@ECT, Stewart Rosman/HOU/ECT@ECT, Jeff Shields/PDX/ECT@ECT, Julie Sarnowski/HOU/ECT@ECT, Kim Ward/HOU/ECT@ECT, Bill Williams III/PDX/ECT@ECT, Jeff Richter/HOU/ECT@ECT, Sean Crandall/PDX/ECT@ECT, Tom Alonso/PDX/ECT@ECT cc: Subject: New Generation Report 2/28/01"
+   },
+   {
+    "file": "maildir/tholt-j/all_documents/405.",
+    "from": "jane.tholt@enron.com",
+    "rcpt": [
+     "tori.kuykendall@enron.com",
+     "patti.sullivan@enron.com"
+    ],
+    "subject": "FW: (Firm) August 17 Pooling Technical Subcommittee Meeting",
+    "body": "Please give me any concerns you have with this by the end if the day-otherwise I am recommending adopting this proposal ---------------------- Forwarded by Jane M Tholt/HOU/ECT on 08/23/2000 12:23 PM --------------------------- \"Ishikawa, Richard - TPRMI\" <RIshikawa@socalgas.com> on 08/22/2000 04:27:10 PM To: \"'Tholt, Jane'\" <jane.m.tholt@enron.com> cc: Subject: FW: (Firm) August 17 Pooling Technical Subcommittee Meeting The original message did not go through so I am trying it again. -----Original Message----- From:?? Ishikawa, Richard - TPRMI Sent:?? Tuesday, August 22, 2000 2:13 PM To:???? 'bcantre@enron.com'; 'skinnml@texaco.com'; 'tcarlson@apsc.com'; 'pcervin@br-inc.com'; 'petersdd@bp.com'; 'sam.brown@swgas.com'; 'Cluff, Drew'; 'Minshew, Chuck'; 'Black, Larry'; 'Tholt, Jane'; 'King, Allen' Cc:???? Wah, Pauline C. - TPPCW Subject:??????? RE: (Firm) August 17 Pooling Technical Subcommittee Meeting Sensitivity:??? Confidential Attached for your review is a draft copy of the \"Goals to be Accomplished\" which has been revised pursuant to the last meeting of the El Paso Technical Pooling Subcommittee held on August 17.? Please let me have your comments as soon as possible so that we can forward this on to El Paso in a timely fashion.? Thanks. <<pooling goals.doc>> - pooling goals.doc"
+   },
+   {
+    "file": "maildir/tholt-j/all_documents/178.",
+    "from": "jane.tholt@enron.com",
+    "rcpt": [
+     "mike.grigsby@enron.com",
+     "patti.sullivan@enron.com",
+     "tori.kuykendall@enron.com"
+    ],
+    "subject": "QC2501, Sitara #504567",
+    "body": "---------------------- Forwarded by Jane M Tholt/HOU/ECT on 03/01/2001 03:17 PM --------------------------- Darla Saucier@ENRON 03/01/2001 08:24 AM To: Jane M Tholt/HOU/ECT@ECT cc: Subject: QC2501, Sitara #504567 Laurie Ellis said I should forward this to you. Please advise. ---------------------- Forwarded by Darla Saucier/NA/Enron on 03/01/2001 08:09 AM --------------------------- Darla Saucier 02/14/2001 10:41 AM To: Jerry Holt/EWC/Enron@ENRON cc: Subject: QC2501, Sitara #504567 National Fuel Marketing is invoicing us for penalty charges for the month of Dec 2000 on the above referenced deal. They say that they were cut on the firms deliveries by 4,344 mmbtu on El Paso Pipeline. The penalties they have calculated amount to $15,324,12. I have a letter from them if you need a fax copy. Please let me know if you agree with this penalty charge. See info below. Call me if you have any questions at X 3-4561. Thanks Darla Saucier Client Services"
+   }
+  ]
+ },
+ {
+  "custodian": "shackleton-s",
+  "messages": [
+   {
+    "file": "maildir/shackleton-s/argentina_tax/1.",
+    "from": "lynn.aven@enron.com",
+    "rcpt": [
+     "michael.guerriero@enron.com",
+     "brent.hendry@enron.com"
+    ],
+    "subject": "Argentina Financial Trading Acitivity - Tax Issues Associated with Alternative Operating Structures",
+    "body": "Here is the attachment. ---------------------- Forwarded by Lynn Aven/ENRON_DEVELOPMENT on 01/31/2000 09:03 AM --------------------------- Lynn Aven 01/31/2000 08:58 AM To: Michael Guerriero/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT cc: Brent Hendry/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Sara Shackleton@ENRON_DEVELOPMENT Subject: Argentina Financial Trading Acitivity - Tax Issues Associated with Alternative Operating Structures Mike: I have attached a copy of a matrix that I put together a few months ago for Don Black to help him undersstand the competing tax issues that were looked at in making the decision where to structure the Argentine financial business. I think this will help you understand where we are today and what sort of changes in the way the business is conducted in Argentina will allow us to change the strucute while still minimizing the overall tax cost of doing business in Argentina. I am available to discuss at your convenience. I will probably end up putting together a similar summary for the other trading activities that we are involved with. Lynn"
+   },
+   {
+    "file": "maildir/shackleton-s/confirms_power/16.",
+    "from": "david.dupre@enron.com",
+    "rcpt": [
+     "sara.shackleton@enron.com",
+     "bob.bowen@enron.com",
+     "larry.hunter@enron.com"
+    ],
+    "subject": "New EES Deals",
+    "body": "There is a second set of EES Confirms which need our attention. 1. NE POOL NE Pool is one of the points which we didn't have language for until now. I have attached a sample confirm with the new language and faxed a copy of the website page to you. 2. PJM We will also be confirming PJM deals. Since we used this language for PJM for the Enron Australia deal which we discussed in person before, it is unlikely that this PJM language will need to be updated, but wanted to attach that as well. Regards, David, 3-3528"
+   },
+   {
+    "file": "maildir/shackleton-s/confirms_power/13.",
+    "from": "david.dupre@enron.com",
+    "rcpt": [
+     "sara.shackleton@enron.com",
+     "larry.hunter@enron.com",
+     "bob.bowen@enron.com"
+    ],
+    "subject": "West Desk",
+    "body": "In working with the West Desk traders regarding the clause which is being questioned in my last email, the traders on the EES confirms are Tim Belden & Kevin McGowan. Regards, David"
+   },
+   {
+    "file": "maildir/shackleton-s/confirms_power/11.",
+    "from": "david.dupre@enron.com",
+    "rcpt": [
+     "larry.hunter@enron.com",
+     "sara.shackleton@enron.com"
+    ],
+    "subject": "Aquila Canada update",
+    "body": "I've updated the Aquila confirmation as we discussed last night. Please let me know if you agree with these changes and/or have additional modifications. Thanks, Dave"
+   }
+  ]
+ },
+ {
+  "custodian": "smith-m",
+  "messages": [
+   {
+    "file": "maildir/smith-m/all_documents/178.",
+    "from": "chris.gaskill@enron.com",
+    "rcpt": [
+     "tara.piazze@enron.com",
+     "matt.smith@enron.com"
+    ],
+    "subject": "Revised Long Range Hydro Forecast",
+    "body": "---------------------- Forwarded by Chris Gaskill/Corp/Enron on 03/05/2001 11:25 AM --------------------------- TIM HEIZENRADER@ECT 03/05/2001 11:06 AM To: Phillip K Allen/HOU/ECT@ECT cc: Tim Belden/HOU/ECT@ECT, Chris Gaskill/Corp/Enron@Enron Subject: Revised Long Range Hydro Forecast Phillip: Here's a summary of our current forecast(s) for PNW hydro. Please give me a call when you have time, and I'll explain the old BiOp / new BiOp issue. Tim"
+   },
+   {
+    "file": "maildir/smith-m/all_documents/241.",
+    "from": "matt.smith@enron.com",
+    "rcpt": [
+     "chris.hyde@enron.com",
+     "tara.piazze@enron.com"
+    ],
+    "subject": "Re: Northwest Foreign Key Problems",
+    "body": "Chris, The IHS DRN's are identified in red below. Please make one up for the 608 Novelty Hill M/S point. Thanks. Mat PS. This just reminded me that we need to start scraping that additional PG&E point that we discussed last week. From: Chris Hyde/ENRON@enronXgate on 04/17/2001 09:43 AM To: Matt Smith/NA/Enron@ENRON, Tara Piazze/NA/Enron@ENRON cc: Colin Tonks/ENRON@enronXgate Subject: Northwest Foreign Key Problems Hello...since I was working to reload some cycle 13 data for Northwest today, it seemed like a good a time as any to take care of these few foreign key violations as well. These 4 points are reported on the Northwest site, but do not appear in our PIPELINE_LOCATION table as of yet (hence the foreign key violation): 458 OWYHEE COMPRESSOR - 3553 611 NORTH DOUGLAS RECEIPT (2001) - 37032 608 NOVELTY HILL M/S - (mkup one) 612 FOUNDATION CREEK PLANT (2001) - 2603 If we can get these matched to their IHS DRN counterparts, that would be great. If not, we can make up the IHS number as we have in the past. Thanks, Chris"
+   },
+   {
+    "file": "maildir/smith-m/all_documents/25.",
+    "from": "kenneth.shulklapper@enron.com",
+    "rcpt": [
+     "stephen.harrington@enron.com",
+     "matt.smith@enron.com"
+    ],
+    "subject": "Enron Storage Model",
+    "body": "Steve, as we have discussed, I want to develop a model that can be used to determine the actual value of storage by looking at deals done in the past. In doing this, I need the model to be able to pull historical curves from Oracle by basis location. It will need to pull Interest Rate, Gas Daily, Balance of the month (Swing Swap), Nymex and Basis. Once all of the pricing curves are pulled, the model will make daily decisions based on price relative to each other to buy, sell or hold. This will probably be an extensive project so see about the pulling of the curves first, and we can move forward from there. Please call either myself or Matt Smith with any questions. Ken 3-7009"
+   },
+   {
+    "file": "maildir/smith-m/all_documents/28.",
+    "from": "joseph.wagner@enron.com",
+    "rcpt": [
+     "matt.smith@enron.com",
+     "vincent.wagner@enron.com"
+    ],
+    "subject": "Ready to quit yet?!",
+    "body": "Since your names are the only ones I know in the off cycle program I am forwarding you this email. please send this on to any and all off cycle associates you know. I am going to contact Ted Bland to get a comprehensive list but this will have to do for now. Joe ---------------------- Forwarded by Joseph Wagner/NA/Enron on 08/30/2000 04:13 PM --------------------------- Mike E Kelly 08/30/2000 04:11 PM To: Steve Gim/NA/Enron@Enron, Vikas Dwivedi/NA/Enron@Enron, Edmund Gaither/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Naveed Ahmed/NA/Enron@Enron, Christopher Ahn/NA/Enron@Enron, Andres Balmaceda/NA/Enron@ENRON, Bora Bariman/Enron Communications@Enron Communications, Kelli Little/NA/Enron@Enron, Ursula Brenner/HOU/EES@EES, Dustin Collins/HOU/ECT@ECT, Roberto Conterno/HOU/EES@EES, Sebastian Corbacho/ET&S/Enron@Enron, Teresa Dyar/NA/Enron@Enron, Eric Feitler/HOU/EES@EES, Daniel Ferrell/NA/Enron@Enron, Loftus Fitzwater/HOU/EES@EES, Santiago Garcia/NA/Enron@Enron, Eduardo Gil/HOU/EES@EES, Scott Griffin/NA/Enron@Enron, Jaime Gualy/Enron Communications@Enron Communications, Roshena Ham/NA/Enron@Enron, Pearce W Hammond/Corp/Enron@ENRON, George Huan/HOU/EES@EES, Felipe Jens/Enron Communications@Enron Communications, Stephanie Kimble/HOU/EES@EES, Sanjay Konur/NA/Enron@Enron, Ahmet Kose/HOU/EES@EES, Kyu-Bong Lee/NA/Enron@Enron, Enrique Lenci-Gonzalez/HOU/EES@EES, Barry Lewis/HOU/ECT@ECT, Fatimata Liamidi/NA/Enron@Enron, Ying Liu/NA/Enron@ENRON, David Maskell/Enron Communications@Enron Communications, Kelley McIntyre/NA/Enron@Enron, Bruno Messer/HOU/EES@EES, Abhijeet Naik/Enron Communications@Enron Communications, Murli Nagwani/HOU/ECT@ECT, Seung-Taek Oh/NA/Enron@ENRON, Olalekan Oladeji/NA/Enron@Enron, Juan Pazos/HOU/EES@EES, Elizabeth Peters/HOU/EES@EES, Philip Polsky/NA/Enron@Enron, Pauline Reyes/NA/Enron@Enron, Derrick Ross/HOU/ECT@ECT, Mark Schlueter/NA/Enron@Enron, Douglas Seaworth/HOU/EES@EES, Kim Stanley/NA/Enron@Enron, Li Sun/NA/Enron@Enron, Claude Tellis/NA/Enron@Enron, Yuan Tian/ET&S/Enron@ENRON, Tony Wolfe/Enron Communications@Enron Communications, Brian Wood/Enron Communications@Enron Communications, Richard Yeboah/NA/Enron@Enron, Jennifer Zales/NA/Enron@Enron, V Charles Weldon/HOU/ECT@ECT, Daniel Ferrell/NA/Enron@Enron, Philip"
+   }
+  ]
+ },
+ {
+  "custodian": "bass-e",
+  "messages": [
+   {
+    "file": "maildir/bass-e/all_documents/318.",
+    "from": "eric.bass@enron.com",
+    "rcpt": [
+     "shanna.husser@enron.com",
+     "timothy.blanchard@enron.com",
+     "matthew.lenhart@enron.com",
+     "chad.landry@enron.com"
+    ],
+    "subject": "Dream Matchup",
+    "body": "Unfortunately the Dream Matchup has been nixed by the Cotton Bowl. UT is no longer in consideration for a Cotton Bowl berth. It would have been fun to see how you fare against a top 5 team. Maybe we will see you next year. Of course, you will have to make it to the Rose Bowl. Good luck in Dallas! Hook 'Em Texas Longhorns - 2001 National Champs"
+   },
+   {
+    "file": "maildir/bass-e/all_documents/269.",
+    "from": "bthoskins@hotmail.com",
+    "rcpt": [
+     "brian.hoskins@enron.com",
+     "ebass@enron.com",
+     "hcampos@enron.com",
+     "leninej@hotmail.com"
+    ],
+    "subject": "gore",
+    "body": "November 29, 2000 Some Road to the Presidency Al Gore is contesting the Presidential election not from clawing ambition, his spinners tell us, but because he has divined that he really won. Maybe so. A mind that can count a dimpled chad as a vote is capable of believing about anything. Mr. Gore's professed high-mindedness would be easier to credit, though, if it were not washed in the casual attitude toward the truth that we have come to expect from the author of no controlling legal authority, the Buddhist Temple fund-raiser and the iced tea defense. The Vice President in his Monday speech to the nation repeated the professions of supermouthpiece David Boies, for example, that there were 10,000 votes in Miami-Dade uncounted. These are in fact votes that were machine-counted for other offices but did not register a vote for President. The common-sense view of such a ballot is that the voter wanted to be heard on other offices, but did not like either candidate for President. There were 175,000 such ballots across the state of Florida, and 1.25 million across the nation. What Mr. Gore really wants is to pour over the 10,000 Miami-Dade ballots in search of"
+   },
+   {
+    "file": "maildir/bass-e/all_documents/1693.",
+    "from": "eric.bass@enron.com",
+    "rcpt": [
+     "david.baumbach@enron.com",
+     "brian.hoskins@enron.com",
+     "hector.campos@enron.com",
+     "lenine.jeganathan@enron.com"
+    ],
+    "subject": "Tonight's Gathering - National Championship",
+    "body": "---------------------- Forwarded by Eric Bass/HOU/ECT on 01/04/2000 03:38 PM Enron North America Corp. From: Lisa Gillette 01/04/2000 03:23 PM To: Timothy Blanchard/HOU/EES@EES, Christopher Coffman/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Eric Bass/HOU/ECT@ECT, Matthew Lenhart/HOU/ECT@ECT, Nick Hiemstra/HOU/ECT@ECT, Benjamin Markey/HOU/ECT@ECT, Kyle Etter/HOU/ECT@ECT, Carrie Southard/HOU/ECT@ECT, Susan M Scott/HOU/ECT@ECT, Christa Winfrey/HOU/ECT@ECT, Misti Day/HOU/ECT@ECT, Shanna Husser/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Robert Norton/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Hang Bui/HOU/ECT@ECT, sbatch@unocal.com, Dan Feather/HOU/EES@EES, Heather Alon/HOU/ECT@ECT, Sheetal Patel/HOU/ECT@ECT, Michael Kolman/HOU/ECT@ECT, Kreg Hall/HOU/ECT@ECT, Mason Hamlin/HOU/ECT@ECT cc: Subject: Tonight's Gathering - National Championship Hello Everyone, I hope that you all enjoyed the holidays, and I'd venture to say that most of you enjoyed it more than I did. I did however have a great New Years. It actually inspired this email. On the 6 hour trip back to Houston from New Orleans yesterday Tim and I came to the conclusion that the analysts haven't gotten together in awhile and decided to arrange a gathering. We were thinking about doing Texadelphia tonight for the Sugar Bowl. It's located at 6025 Westheimer (ph # 713-785-6700). Also, I think we are going to do Woody's on Richmond Thursday night if anyone's interested. Please let me know if you plan on attending. I think we are going to head over there between 6:30 - 7:00. Hope to see"
+   },
+   {
+    "file": "maildir/bass-e/all_documents/1050.",
+    "from": "eric.bass@enron.com",
+    "rcpt": [
+     "matthew.lenhart@enron.com",
+     "timothy.blanchard@enron.com",
+     "bryan.hull@enron.com",
+     "hector.campos@enron.com",
+     "brian.hoskins@enron.com"
+    ],
+    "subject": "Austin",
+    "body": "Would you rather get two rooms at the Marriot and pay an extra $25 or just cram in the one room and pay a total of $25?"
+   }
+  ]
+ },
+ {
+  "custodian": "griffith-j",
+  "messages": [
+   {
+    "file": "maildir/griffith-j/monterrey_office/4.",
+    "from": "jaime.williams@enron.com",
+    "rcpt": [
+     "lvallest@gcc.com",
+     "john.griffith@enron.com"
+    ],
+    "subject": "Saludos, Feicitaciones y Follow up.",
+    "body": "EL FINANCIERO, Compra GCC activos de Dacotah Cement.- Grupo Cementos de Chihuahua (GCC) anunci? la adquisici?n de los activos de Dacotah Cement (estadounidese ubicada en Dakota del Sur), por 252 millones de d?lares que incluyen capital de trabajo. Las ventas anuales y el flujo operativo de GCC podr?an incrementarse respectivamente en 22 y 25% y la capacidad de producci?n pasar? de 2 mil 375 millones de toneladas m,tricas a 3 mil 235 millones. Luis, antes que nada, espero que hayas pasado una Navidad de primera con tu familia, y te deseo lo mejor para este a&o 2001. Ojala y todas tus metas se cumplan. Tambien queria provechar para felicitarte por lo de la dquisicion de Dacotah Cement...Creo que es una gran adicion a su grupo. Por otro lado, y ahable con Cynthia Kase y ella esta trabajando en un apropuesta para ustedes. Me comento que te la debe de hacer llegar pronto. Quisiera pedirte que hicieramos un conference call cuando tuvieras tiempo, para clarara las dudas que teniamos respecto a los precios de referencia de Pemex y los cargos de transporte. Tu dime cuando es conveniente para ti...SaLudos."
+   },
+   {
+    "file": "maildir/griffith-j/monterrey_office/1.",
+    "from": "agustin.perez@enron.com",
+    "rcpt": [
+     "errol.mclaughlin@enron.com",
+     "john.griffith@enron.com",
+     "jaime.williams@enron.com",
+     "agustin.perez@enron.com"
+    ],
+    "subject": "Vitro's annuity",
+    "body": "Errol, Do you have any news on the $579,708.72 payment for Vitro Corporativo? The customer is asking about this payment. Please let me know. Agustin Perez"
+   },
+   {
+    "file": "maildir/griffith-j/national_steel/3.",
+    "from": "tanya.rohauer@enron.com",
+    "rcpt": [
+     "frank.hayden@enron.com",
+     "john.griffith@enron.com"
+    ],
+    "subject": "Re: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions",
+    "body": "The structure is critical. I don't want to cash out the entire fixed price position and then turn around and sell them index gas at $8. Then I have a huge receivable risk that has no MTM offset. I'd rather reset the fixed price to somwhere in between, especially if they are hurting for cash. Enron North America Corp. From: Frank Hayden @ ENRON 01/05/2001 12:56 PM To: Tanya Rohauer/HOU/ECT@ECT cc: Subject: Re: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions I'm unclear, but evidently we sold $2 dollar gas to them (back in 1996) and they are asking to cash out...I think we end up paying them roughly 20 million dollars. I'll give you better/more details as I learn them. Frank To: Frank Hayden/Corp/Enron@ENRON cc: John Griffith/Corp/Enron@Enron Subject: Re: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions Please let me know the nature of the transaction with National Steel. Thanks!! Enron North America Corp. From: Frank Hayden @ ENRON 01/05/2001 09:24 AM To: John Griffith/Corp/Enron@Enron cc: Chip Schneider/NA/Enron@Enron, Tanya Rohauer/HOU/ECT@ECT, Lea Savala/GPGFIN/Enron@ENRON, Vladimir Gorny/HOU/ECT@ECT Subject: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions John, Thanks for stopping"
+   },
+   {
+    "file": "maildir/griffith-j/national_steel/4.",
+    "from": "frank.hayden@enron.com",
+    "rcpt": [
+     "troy.black@enron.com",
+     "jason.williams@enron.com",
+     "john.griffith@enron.com"
+    ],
+    "subject": "Re: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions",
+    "body": "I spoke with Jason in credit and he indicated that it does need to be DASHed due to funding reasons. Pleaase help the process along by completing the expediated DASH.. Thanks, Frank ---------------------- Forwarded by Frank Hayden/Corp/Enron on 01/05/2001 04:01 PM --------------------------- From: Tanya Rohauer@ECT on 01/05/2001 01:37 PM To: Frank Hayden/Corp/Enron@ENRON cc: John Griffith/Corp/Enron@Enron Subject: Re: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions The structure is critical. I don't want to cash out the entire fixed price position and then turn around and sell them index gas at $8. Then I have a huge receivable risk that has no MTM offset. I'd rather reset the fixed price to somwhere in between, especially if they are hurting for cash. Enron North America Corp. From: Frank Hayden @ ENRON 01/05/2001 12:56 PM To: Tanya Rohauer/HOU/ECT@ECT cc: Subject: Re: Expedited DASH Process for Prepaid and other Embedded Financings in Commodity Transactions I'm unclear, but evidently we sold $2 dollar gas to them (back in 1996) and they are asking to cash out...I think we end up paying them roughly 20 million dollars. I'll give you better/more details as I learn them. Frank To: Frank Hayden/Corp/Enron@ENRON cc: John"
+   }
+  ]
+ },
+ {
+  "custodian": "bailey-s",
+  "messages": [
+   {
+    "file": "maildir/bailey-s/all_documents/8.",
+    "from": "brant.reves@enron.com",
+    "rcpt": [
+     "frank.sayre@enron.com",
+     "susan.bailey@enron.com"
+    ],
+    "subject": "Glencore Commodities Ltd.",
+    "body": "Hello, Here is a spreadsheet from the confirmations group of all financial trades between ENA and this entity that have ever been entered into. Let me know what you think. brant"
+   },
+   {
+    "file": "maildir/bailey-s/notes_inbox/9.",
+    "from": "brant.reves@enron.com",
+    "rcpt": [
+     "frank.sayre@enron.com",
+     "susan.bailey@enron.com"
+    ],
+    "subject": "Glencore Commodities Ltd.",
+    "body": "Hello, Here is a spreadsheet from the confirmations group of all financial trades between ENA and this entity that have ever been entered into. Let me know what you think. brant"
+   },
+   {
+    "file": "maildir/bailey-s/inbox/4.",
+    "from": "craig.breslau@enron.com",
+    "rcpt": [
+     "susan.bailey@enron.com",
+     ".williams@enron.com",
+     ".taylor@enron.com"
+    ],
+    "subject": "FW: assignment",
+    "body": "PCS Nitrogen would like to assign their positions with Enron over to Bank of America. The structure of the deal would be for B of A to step in between Enron and PCS. Currently, PCS is out of the money to Enron. This trade would lower B of A's exposure to Enron. I would like to give an answer to PCS today. Could you please review and let me know how we proceed o n this assignment. Thanks, Craig -----Original Message----- From: ASHill@potashcorp.com [mailto:ASHill@potashcorp.com] Sent: Tuesday, November 20, 2001 4:06 PM To: Breslau, Craig Subject: assignment Craig, Attached is a sample assignment agreement sent to us by Bank of America. It was one they had used with another deal, and has not been customized for our particular situation. As I understand Bank of America's verbal intent is to have Bank of America step in between the obligations of our two companies. (See attached file: Assignment-sample doc.doc) Glad to discuss...Audrea Audrea S. Hill Director, Natural Gas Risk Management 847-849-4222 phone 847-849-4694 fax ashill@worldnet.att.net (See attached file: Assignment-sample doc.doc)"
+   },
+   {
+    "file": "maildir/bailey-s/sent_items/8.",
+    "from": "susan.bailey@enron.com",
+    "rcpt": [
+     "stewart.rosman@enron.com",
+     "f..calger@enron.com",
+     "sara.shackleton@enron.com",
+     "edward.sacks@enron.com"
+    ],
+    "subject": "Merced Irrigation District (\"Merced\")",
+    "body": "Gentlemen, Attached is an electronic version of the \"proposed\" First Amendment to ISDA Master Agreement, which was directed by FED EX to Gareth Krauss @ Merced on October 11, 2001. On November 5th, Gareth mentioned to me that their lawyer would be contacting Sara Shackleton (ENA-Legal) with any comments to the proposed First Amendment. Let me know if I may be of further assistance. Regards, Susan S. Bailey Senior Legal Specialist Enron Wholesale Services Legal Department 1400 Smith Street, Suite 3803A Houston, Texas 77002 phone: (713) 853-4737 fax: (713) 646-3490 email: susan.bailey@ enron.com"
+   }
+  ]
+ },
+ {
+  "custodian": "merriss-s",
+  "messages": [
+   {
+    "file": "maildir/merriss-s/all_documents/43.",
+    "from": "bill.iii@enron.com",
+    "rcpt": [
+     "portland.shift@enron.com",
+     "ryan.slinger@enron.com",
+     "bert.meyers@enron.com",
+     "leaf.harasin@enron.com",
+     "eric.linder@enron.com"
+    ],
+    "subject": "Length off-peak at Palo Verde",
+    "body": "We have length at PV all day on Sunday, and light load on Monday. That is HE 2-24 MST on Sunday, and HE1-6,23,24 on Monday. The energy is parked with PNM at PV. The cost is $125. We are long in position manager. Please route the sale to buy/resale #566175, and then make the sale under the ST-WBOM book. There is no HE 3 in Pacific time. This may require some creativity on your part. Please call me with any questions and good luck! Bill"
+   },
+   {
+    "file": "maildir/merriss-s/all_documents/46.",
+    "from": "cara.semperger@enron.com",
+    "rcpt": [
+     "portland.shift@enron.com",
+     "lisa.gang@enron.com",
+     "stacy.runswick@enron.com"
+    ],
+    "subject": "Anticipated problems with a PV hlh path that will flow on Monday",
+    "body": "This path just looks like it will be cut........... please take a moment to look at it. Also, It is very important that you document when you cannot Reach Morgan Stanley's real time. An e-mail will do, send it to me."
+   },
+   {
+    "file": "maildir/merriss-s/all_documents/94.",
+    "from": "barbara.hankins@enron.com",
+    "rcpt": [
+     "chad.landry@enron.com",
+     "marc.pederson@enron.com",
+     "sheila.knudsen@enron.com",
+     "imceanotes-ibuyit@enron.com"
+    ],
+    "subject": "RE: Reply Requested: Do You Code Or Approve Invoices?",
+    "body": "take me off as well. I have received several of these this morning. Thanks, Barb Chad Landry@ECT 04/11/2001 09:17 AM To: Marc Pederson/Contractor/Enron Communications@ENRON COMMUNICATIONS@ENRON cc: Sheila A Knudsen/ENRON@enronXgate@ENRON, All Enron Employees United States@ENRON, IMCEANOTES-iBuyit/40ENRON@ENRON.com@ENRON Subject: RE: Reply Requested: Do You Code Or Approve Invoices? Take me off this list, PLEASE. CKL From: Marc Pederson@ENRON COMMUNICATIONS on 04/11/2001 09:12 AM To: Sheila A Knudsen/ENRON@enronXgate@ENRON cc: All Enron Employees United States@ENRON, IMCEANOTES-iBuyit+40ENRON@ENRON.com@ENRON Subject: RE: Reply Requested: Do You Code Or Approve Invoices? No I do not."
+   },
+   {
+    "file": "maildir/merriss-s/all_documents/326.",
+    "from": "bill.iii@enron.com",
+    "rcpt": [
+     "steven.merris@enron.com",
+     "david.porter@enron.com"
+    ],
+    "subject": "Loss of Four Corners",
+    "body": "Steve and David, This morning APS lost FC#5. This outage should have appeared in the night note and should have been mentioned in the shift change. Where possible the cause of the outage and ETR should be noted. This was important information for the SW traders as well as for the real-time trader coming on shift and it did not get communicated as it should have. Please leave as much information concerning your shift as you can. Thanks, Bill"
+   }
+  ]
+ },
+ {
+  "custodian": "dean-c",
+  "messages": [
+   {
+    "file": "maildir/dean-c/info/210.",
+    "from": "dgagliardi@reliantenergy.com",
+    "rcpt": [
+     "chay@reliantenergy.com",
+     "clint.dean@enron.com"
+    ],
+    "subject": "True Orange Fax/E-Mail #95",
+    "body": "---------------------- Forwarded by David M Gagliardi/TTG/HouInd on 10/11/2000 08:07 AM --------------------------- mggagliardi@duke-energy.com on 10/11/2000 07:48:29 AM To: DGagliardi@reliantenergy.com cc: Subject: True Orange Fax/E-Mail #95 ---------------------- Forwarded by Michael Gagliardi/Hou-ComOps/EnergyTrading/PEC on 10/11/2000 07:58 AM TruOrange@aol.com on 10/10/2000 09:47:05 PM To: TruOrange@aol.com cc: Subject: True Orange Fax/E-Mail #95 True Orange Fax/E-Mail Service Volume 8, Fax/E-Mail #95, Tuesday, October 10, 2000 Jerry Scarbrough's True Orange, P. O. Box 26530, Austin, Texas 78755 - Phone 512-795-8536 Brown Says Applewhite, Freshmen WRs Will Start at Colorado The quarterback shuffle is over and the blue-chip freshmen wide receivers are ready for prime time, coach Mack Brown said Tuesday in announcing Major Applewhite as the starting quarterback against Colorado and Roy Williams and B. J. Johnson as the starting wide receivers. Brown said sophomore Chris Simms probably will play, too, but he said Applewhite will be the starter. He also said Hodges Mitchell will continue to start at tailback, but said he and sophomore Kenny Hayter will alternate. \"When you play as poorly across the board as we did Saturday, you need to make some changes to try to improve what you are doing,\" he said. Brown said the team also showed a lot of spark in"
+   },
+   {
+    "file": "maildir/dean-c/info/72.",
+    "from": "dgagliardi@reliant.com",
+    "rcpt": [
+     "bbutler2@enron.com",
+     "chay@reliant.com",
+     "clint.dean@enron.com"
+    ],
+    "subject": "Fw: True Orange E-Mail Fax #51",
+    "body": "----- Forwarded by David M Gagliardi/TTG/HouInd on 05/22/01 11:33 AM ----- \"Michael Gagliardi\" To: <dgagliardi@reliantenergy.com>, david_ricks@gsdm.com, <mikegag@msn. tony.a.rogers@fritolay.com com> cc: Subject: Fw: True Orange E-Mail Fax #51 05/22/01 10:33 AM ----- Original Message ----- From: TruOrange@aol.com Sent: Monday, May 21, 2001 9:38 PM To: TruOrange@aol.com; judy.roach@bakerbotts.com Subject: True Orange E-Mail Fax #51 True Orange Fax/E-Mail Service Volume 9, Fax/E-Mail #51, Monday, May 21, 2001 Jerry Scarbrough's True Orange, P. O. Box 26530, Austin, Texas 78755 - Phone= =20 512-795-8536 UT Baseball Team in Regional; Football Recruiting Picking Up Steam The slumping Longhorn baseball team made the 64-team NCAA Touarnment field,=20 getting a No. 3 seed in a sub-regional at Stanford. The Longhorns, 34-24 overall after going 0-2 despite a No. 3 seed in the Big= =20 12 Tournament, also got a No. 3 seed in the Palo Alto tourney. The Longhorns= =20 will play No. 2 seed Long Beach State (35-21) in a first-round game Friday =20 at 5 p. m. Texas time (3 p.m. Pacific time) in the double-elimination=20 tournament. Stanford, the top seed at 42-14, will play No. 4 seed Marisa (32-19) in the=20 other first round game Friday. The first-round losers will play an elimination game at"
+   },
+   {
+    "file": "maildir/dean-c/info/141.",
+    "from": "dgagliardi@reliantenergy.com",
+    "rcpt": [
+     "clint.dean@enron.com",
+     "david_ricks@gsdm.com"
+    ],
+    "subject": "FW: True Orange Fax/E-Mail #56",
+    "body": "---------------------- Forwarded by David M Gagliardi/TTG/HouInd on 06/23/2000 09:01 AM --------------------------- Tracy Ralston <wdr3@swbell.net> on 06/22/2000 10:30:48 PM To: wdr3@swbell.net cc: Subject: FW: True Orange Fax/E-Mail #56 -----Original Message----- From: TruOrange@aol.com [mailto:TruOrange@aol.com] Sent: Wednesday, June 21, 2000 8:45 PM To: TruOrange@aol.com Subject: True Orange Fax/E-Mail #56 True Orange Fax/E-Mail Service Volume 8, Fax/E-Mail #56, Wednesday, June 21, 2000 Jerry Scarbrough's True Orange, P. O. Box 26530, Austin, Texas 78755 - Phone 512-795-8536 Longhorns Get Pledge from Euless Trinity Defensive Back Braden Johnson, 6-2, 200, 4.4, a defensive back from Euless Trinity who came to one of Texas' three-day summer camps earlier this month, committed to the Longhorns Wednesday. Johnson, a hard-hitting safety who had 42 tackles last season for the 9-2 Trojans, who had one of the top defenses in the Dallas-Fort Worth area, is moving to quarterback this season. His father, David, told me his son decided to commit to the Longhorns because \"the Texas coaches really impressed him with their coaching methods and with the classy way they operate. They were very open and very straightforward.\" David Johnson said his son also attended a TCU camp this summer and went to a Texas A&M camp last summer. He"
+   },
+   {
+    "file": "maildir/dean-c/info/149.",
+    "from": "mdenney@nortelnetworks.com",
+    "rcpt": [
+     "clint.dean@enron.com",
+     "bdenney@momentumsoftware.com"
+    ],
+    "subject": "RE:",
+    "body": "We had a quiet, uneventful fourth.? We helped my parents move to Humble over the weekend and then came home Monday afternoon.? This weekend we're headed to Dallas to see friends.? Bryan, Brackhahn, Tom Kimpel, Jenn Price, and some of our friends are going to the Metallica concert on Sunday.? If we don't see y'all this summer, then we'll have to get together for the first football game on September 9th. Take care and tell Jenn we said hello. --Monica, Bryan, & Tori ?-----Original Message----- From: ? Clint.Dean@enron.com [mailto:Clint.Dean@enron.com] Sent:?? Wednesday, July 05, 2000 1:55 PM To:???? Denney, Monica [CTH:RE77:EXCH] Subject:??????? Monica, Just wanted to say hi.? Jenn moved to Houston last Thursday.? We were busy getting her apartment set up over the holiday weekend, but she still has a long way to go.? She started her new job today at Conoco.? We went to watch fireworks last night in downtown Houston.? It was pretty cool.? They had the Beach Boys there.? It looks like she may be buying a new car soon. Hers is not doing so well.? In fact, she is borrowing my Celica right now. I hope y'all had a good Fourth, and tell Bryan we said"
+   }
+  ]
+ },
+ {
+  "custodian": "lavorato-j",
+  "messages": [
+   {
+    "file": "maildir/lavorato-j/all_documents/29.",
+    "from": "angela.mcculloch@enron.com",
+    "rcpt": [
+     "attila.pazmandi@enron.com",
+     "dan.dietrich@enron.com"
+    ],
+    "subject": "National Fun Day",
+    "body": "THIS IS NO JOKE PLEASE SENDTHIS TO ALL OF CALGARY. THANKS ANGELA TODAY IS NATIONAL FUN DAY AT WORK (so get to work!) THANKS FOR ALL YOUR HARD WORK! JOHN LAVORATO"
+   },
+   {
+    "file": "maildir/lavorato-j/all_documents/375.",
+    "from": "kimberly.hillis@enron.com",
+    "rcpt": [
+     "rick.buy@enron.com",
+     "ted.murphy@enron.com"
+    ],
+    "subject": "VAR Limit Increase",
+    "body": "Given our current views of the natural gas markets, we are requesting an increase in our VAR limits from 40 million to 45 million until next Tuesday. John"
+   },
+   {
+    "file": "maildir/lavorato-j/all_documents/30.",
+    "from": "aleck.dadson@enron.com",
+    "rcpt": [
+     "john.lavorato@enron.com",
+     "robert.hemstock@enron.com"
+    ],
+    "subject": "Memo re Ontario/Alberta power markets",
+    "body": "John, attached is a brief memo for you to pass on to J. Sutton. It address both Ontario and Alberta. My understanding is that the two people that Mr. Sutton is meeting next Wednesday at the Canadian Embassy are Jim Wilson (Ontario Minister of Energy) and Tony Clement (Ontario Minister of the Environment , also Minister of Municipal Affairs). Accordingly, I suspect that the part on Ontario will be most relevant for Mr. Sutton's purposes. It occurs to me that Mr. Sutton might want: a) a brief profile of each of Wilson and Clement (i.e there is some personal data that he may find of interest for conversation purposes - i.e. Wilson is very proud of the fact that his great- uncle, Father Jim Wilson, founded Little League baseball in Houston); and b) a memo setting out some key messages which Mr. Sutton might deliver regarding the Ontario market. Let me know and I can get that stuff to you on Monday to forward on."
+   },
+   {
+    "file": "maildir/lavorato-j/all_documents/43.",
+    "from": "john.lavorato@enron.com",
+    "rcpt": [
+     "rob.milnthorp@enron.com",
+     "kyle.kitagawa@enron.com"
+    ],
+    "subject": "",
+    "body": "I have a meeting at 1:15, I assume in my office, with some Houston folks. The topic a potential purchase of Westcoast. I would like both of you to attend."
+   }
+  ]
+ },
+ {
+  "custodian": "ruscitti-k",
+  "messages": [
+   {
+    "file": "maildir/ruscitti-k/all_documents/19.",
+    "from": "mark.schrab@enron.com",
+    "rcpt": [
+     "nelson.ferries@enron.com",
+     "tom.donohoe@enron.com",
+     "kevin.ruscitti@enron.com"
+    ],
+    "subject": "Francis Berry - Johnson Bayou Gas for Oct 2000",
+    "body": "Nelson, As you know, Grand Cheniere was under maintenance in October and we had to shut in Johson Bayou. Francis wants us to reallocate (trespass gas) that they continued to flow onto ANR in the amout of 54,536mm to us at an agreed upon price of $5.20. ANR has agreed to do this next week. Since you are out today Francis asked us to make sure you called him about this as well as another issue. Mark"
+   },
+   {
+    "file": "maildir/ruscitti-k/all_documents/115.",
+    "from": "tom.donohoe@enron.com",
+    "rcpt": [
+     "kelli.stevens@enron.com",
+     "kevin.ruscitti@enron.com",
+     "jesse.villarreal@enron.com"
+    ],
+    "subject": "Hee!Haw!",
+    "body": "---------------------- Forwarded by Tom Donohoe/HOU/ECT on 07/28/2000 03:40 PM --------------------------- Ragan Bond@ENRON 07/28/2000 11:08 AM To: tom.donohoe@enron.com cc: Subject: Hee!Haw! ---------------------- Forwarded by Ragan Bond/Corp/Enron on 07/28/2000 11:05 AM --------------------------- Elizabeth Rivera 07/27/2000 10:31 AM To: Elizabeth Rivera/Corp/Enron@ENRON cc: (bcc: Ragan Bond/Corp/Enron) Subject: Hee!Haw! - frens2.mpg"
+   },
+   {
+    "file": "maildir/ruscitti-k/all_documents/33.",
+    "from": "ruth.concannon@enron.com",
+    "rcpt": [
+     "kevin.ruscitti@enron.com",
+     "martin.cuilla@enron.com",
+     "lisa.kinsey@enron.com",
+     "hunter.shively@enron.com",
+     "diane.cook@enron.com"
+    ],
+    "subject": "December 2000 --- Sithe Gas Sales Agreement Volumes & Buyback Volumes for MW Turndown",
+    "body": "For the December sale to Sithe under our long term gas sales agreement, please use the following volumes for every day in the month: Chippawa: 28,400 Dth/day PEPL: 37,776 Dth/day ANR-OK 41,933 Dth/day ANR-LA: 83,915 Dth/day For the volumes that ENA would buy back from Sithe in the field due to the MW Turndown deal, please use the following volumes: Chippawa: 0 Dth/day PEPL: 0 Dth/day ANR-OK 24,554 Dth/day ANR-LA: 83,915 Dth/day Total 108,469 Dth/day We are meeting with John Lavorato at 9:30 this morning to talk about hedging the power side of this transaction. Besides the gas bid we talked about yesterday, please come up with a back-up plan to price the gas on a fixed price basis just in case it takes us another day to address any other concerns that John may have. Thanks, Ruth"
+   },
+   {
+    "file": "maildir/ruscitti-k/all_documents/221.",
+    "from": "chris.germany@enron.com",
+    "rcpt": [
+     "dkinney@columbiaenergygroup.com",
+     "kevin.ruscitti@enron.com",
+     "cora.pendergrass@enron.com"
+    ],
+    "subject": "Re: NIPSCO Choice",
+    "body": "dkinney@columbiaenergygroup.com on 03/16/2000 10:53:20 AM To: \" - *steve.gillespie@enron.com\" <steve.gillespie@enron.com> cc: \" - *Porter, Jeffrey\" <jporte1@columbiaenergygroup.com>, \" - *Perrone, Brian\" <bperron@columbiaenergygroup.com>, Chris Germany/HOU/ECT@ECT Subject: NIPSCO Choice Steve--The attached file contains estimates for the upcoming 12-month period of our monthly flowing volume requirements for the NIPSCO Choice program, including estimated peak-day requirements (part of which come out of storage). I am referring to the values in Cols. L,M, and N in the attached. Can you please give us a price quote for getting these volumes to the NIPSCO citygate? Please call me if you have questions. Thanks. Doug Kinney Ph: 703-561-6339 Fax: 703-561-7317 - NIPSCO Choice Est Vol Reqs.xls"
+   }
+  ]
+ },
+ {
+  "custodian": "solberg-g",
+  "messages": [
+   {
+    "file": "maildir/solberg-g/inbox/133.",
+    "from": "julie.kearney@enron.com",
+    "rcpt": [
+     "center.dl-portland@enron.com",
+     "grace.rodriguez@enron.com"
+    ],
+    "subject": "Addt'l Enron Q&A Info",
+    "body": "You have many questions about how the bankruptcy will affect you. The HR team is endeavoring to answer these questions. Due to simple logistics, answering each question individually is very difficult. We are working to solve this issue by compiling answers to the important questions concerning employee benefits, expense payments and so on. Answers to the most frequently-asked-questions will be posted on the corporate website at www.enron.com. Click on Information for Enron Alumni Affected by Chapter 11 Filing </corp/alumni/> . These Q&A Facts are regularly updated when accurate and factual information is received. In addition, we will have updates on 1-800-97-ENRON. (Option 9) If you have questions that have not been answered, please submit them to the following email address: questions@enron.com A team of people will be answering these questions and posting answers as soon as possible. An updated FAQ's was posted yesterday on www.home.enron.com Attached below in a word document are the new FAQ's. Please continue to view the corporate website for updates and new information. Thank you for your patience. Julie Kearney 503) 464-7404 julie.kearney@enron.com"
+   },
+   {
+    "file": "maildir/solberg-g/inbox/82.",
+    "from": "announcements.enron@enron.com",
+    "rcpt": [
+     "dl-ga-all_enron_worldwide3@enron.com",
+     "energy.dl-ga-all_ubsw@enron.com"
+    ],
+    "subject": "Ken Lay Resigns from Board",
+    "body": "Ken Lay announced today that he has resigned from Enron's Board of Directors. His resignation is effective immediately. In a press release, Ken said, \"I want to see Enron survive and successfully emerge from reorganization. Due to the multiple inquiries and investigations, some of which are focused on me personally, I believe that my involvement has become a distraction to achieving this goal.\" He added, \"My concern is for current and former Enron employees and other stakeholders, and I feel that it is in their best interest for me to step down from the Board.\""
+   },
+   {
+    "file": "maildir/solberg-g/inbox/124.",
+    "from": "dale.rasmussen@enron.com",
+    "rcpt": [
+     "christian.yoder@enron.com",
+     "center.dl-portland@enron.com"
+    ],
+    "subject": "RE: Lunch on Thursday",
+    "body": "I'm in. -----Original Message----- From: Yoder, Christian Sent: Tuesday, December 18, 2001 5:12 PM To: DL-Portland World Trade Center Subject: Lunch on Thursday Friends and Co-Workers: You are hereby cordially invited to a pre-holiday office lunch this Thursday at approximately 11:30 a.m, courtesy of the Trading Attorneys. LEGAL NOTICE: Christian Yoder and Steve Hall (hereinafter \"we\" or \"our\" or \"us\" ) intend to pay for the food (which will probably, but not necessarily, be pizza and salad) with post-petition Chapter 11 salary dollars that have already cleared our respective individual bank accounts and, therefore, by joining us in the meal (\"Lunch\") you will not be exposed to any retroactive claw-back risk by way of the Cash Account Committee. We are also investigating the possibility of providing a limited quantity of a certain kind of beverage (\"Beer\") under a provisional waiver of the defunct pre-petition Company's drinking policies, subject to approval by the Estate's Liquor Control Board which is being sought on an expedited basis. We feel like making this modest holiday gesture for several reasons: 1. It has been a pleasure working with you all during the past year. 2. We are optimistic about this office's prospects in the upcoming"
+   },
+   {
+    "file": "maildir/solberg-g/inbox/138.",
+    "from": "julie.kearney@enron.com",
+    "rcpt": [
+     "center.dl-portland@enron.com",
+     "francisco.dl-san@enron.com"
+    ],
+    "subject": "Q&A Process",
+    "body": "You have many questions about how the bankruptcy will affect you personally. The HR team is endeavoring to answer these questions. Due to simple logistics, answering each question individually is very difficult. We are working to solve this issue by compiling answers to the important questions concerning employee benefits, expense payments and so on. Answers to the most frequently-asked questions will be posted on the corporate website at www.enron.com. Click on Information for Enron Alumni Affected by Chapter 11 Filing </corp/alumni/> . These Q&A Facts are regularly updated as soon as accurate and factual information is received. In addition, we will have updates on 1-800-97-ENRON. (Option 9) If you have questions that have not been answered, please submit them to the following email address: questions@enron.com A team of people will be answering these questions and posting answers on the above sites as soon as possible. The HR team will also be posting initial Q&A's within the next few days on www.home.enron.com for our current, retained employees. Thank you for your patience as we work through the complexities of the situation. Julie Kearney 503) 464-7404 julie.kearney@enron.com"
+   }
+  ]
+ },
+ {
+  "custodian": "keavey-p",
+  "messages": [
+   {
+    "file": "maildir/keavey-p/all_documents/30.",
+    "from": "larry.hunter@enron.com",
+    "rcpt": [
+     "peter.keavey@enron.com",
+     "kam.keiser@enron.com",
+     "william.kelly@enron.com",
+     "jeffrey.gossett@enron.com"
+    ],
+    "subject": "EOL trades doubled up?",
+    "body": "Pete, I'm seeing some trades with your name as Trader which are at extremely high prices. Transco Z6 vs. Henry Hub trades at prices of $15.6025 from Trade Date of 12/5. Are these errors? EOL numbers are 658961 and 658985 (both with Reliant). No confirmation has been sent on these. Please have your Book Admin notify me as soon as you get a chance to look at these. Thanks, Joe Hunter"
+   },
+   {
+    "file": "maildir/keavey-p/all_documents/210.",
+    "from": "peter.keavey@enron.com",
+    "rcpt": [
+     "rahil.jafry@enron.com",
+     "jeffrey.shankman@enron.com"
+    ],
+    "subject": "Re: User Testimonial from the UK Power Desk",
+    "body": "US Gas Liquidity EOL has allowed Enron to simultaneously provide internal and external customers with realtime markets in many of the physical and financial products that we trade. The ability of all customers to execute trades and receive instantaneous confimations has resulted in rapidly growing volumes and growing customer participation. One of the benefits of this system is to allow all customers access to the market prices rather than being funnelled through third party brokers. Enron has committed to providing both depth of volume and tight bid/offer spreads. This committment has been main driver of the growth in volume since rollout last Nov.29. Transparency The existence of our two way market has removed all doubt about the firmness of bids and offers. We will trade on the price and volume on our bid and offer. The growing volumes over our system has lessened our dependance on the sometimes unreliable broker served market. Many of our customers and competitors now use EOL as an information source as well as a trading vehicle. EOL is the only service that provides free real time information on as many traded markets in the physical and financial worlds. We have no competition in this regard."
+   },
+   {
+    "file": "maildir/keavey-p/all_documents/170.",
+    "from": "peter.keavey@enron.com",
+    "rcpt": [
+     "mike.grigsby@enron.com",
+     "tori.kuykendall@enron.com"
+    ],
+    "subject": "San Juan",
+    "body": "---------------------- Forwarded by Peter F Keavey/HOU/ECT on 09/19/2000 05:44 PM --------------------------- \"Haywood, Tom\" <THaywood@ftenergy.com> on 09/19/2000 03:47:19 PM To: \"'peter.f.keavey@enron.com'\" <peter.f.keavey@enron.com> cc: \"Behrman, David\" <DBehrman@ftenergy.com> Subject: San Juan Hey Peter, Could you pass this on to the proper person. For the past week or so, we've been getting some very low prices from Enron in the San Juan Basin. The non-Bondad and Bondad price have been the same, and non-Bondad been very much below the rest of the market especially considering the volume reported. Today, I understand you posted a 4.145 for your online trading average. You reported 4.07 for 600,000 to us. What gives? Thanks. T Tom Haywood Gas Daily markets editor 713-939-5846 thaywood@ftenergy.com"
+   },
+   {
+    "file": "maildir/keavey-p/all_documents/113.",
+    "from": "mfortugno@poseidon1.com",
+    "rcpt": [
+     "riordm@tdusa.com",
+     "pkeavey@enron.com",
+     "acolangelo@ur.com",
+     "fortugno3@aol.com"
+    ],
+    "subject": "FW: goe supporters",
+    "body": "> -----Original Message----- > From: Kelsey, Allison > Sent: Wednesday, November 15, 2000 3:21 PM > To: Brunson, Richard; Drzyzga, Jane; Fortugno, Michael; Iessi, Anthony; > Kelly, Molly; McHale, Keith; Reyman, Arlene > Subject: goe supporters > <<ballot3.jpg>> - ballot3.jpg"
+   }
+  ]
+ },
+ {
+  "custodian": "shankman-j",
+  "messages": [
+   {
+    "file": "maildir/shankman-j/old_email/8.",
+    "from": "gwdorsey@aol.com",
+    "rcpt": [
+     "jeffrey.a.shankman@enron.com",
+     "whalley@enron.com"
+    ],
+    "subject": "Re: fert",
+    "body": "John and I have not yet spoken. I will overnight the financial data to you to arrive before Thursday of this week. Kind Regards George Dorsey 713 302 2047"
+   },
+   {
+    "file": "maildir/shankman-j/old_email/33.",
+    "from": "douglas.friedman@enron.com",
+    "rcpt": [
+     "jeffrey.shankman@enron.com",
+     "john.nowlan@enron.com"
+    ],
+    "subject": "ENVERA DEAL DESCRIPTION",
+    "body": "Jeff: Attached you will find three files: 1) The brief description of the Envera deal you requested. (\"deal summary final\") 2) A diagram showing one potential view of how the e-Marketplace for Chemicals will look and where Enron would fit in. (\"deal summary e-commerce marketplace\") 3) A slide from Envera displaying their connectivity concept. Enron will participate as a Member, a Service Provider and an Owner. (\"basic envera concept\") Deals obviously are never done till they're done, but this one is 95+ % there. We've received Envera Board Approval and signatures from 1/3 of the Owners' granting consent to issue equity to Enron. Thanks to both you and John for your support. We could not have come this far without it. Doug"
+   },
+   {
+    "file": "maildir/shankman-j/old_email/57.",
+    "from": "karen.marshall@enron.com",
+    "rcpt": [
+     "a..shankman@enron.com",
+     "christie.patrick@enron.com",
+     "billy.lemmons@enron.com"
+    ],
+    "subject": "feedback on the Video Conference this past Friday",
+    "body": "Jeff, Thanks again for being the featured speaker for the video conference series. SEE THE COMMENTS BELOW! ----- Forwarded by Karen Marshall/HOU/ECT on 04/03/01 02:48 PM ----- \"Charles Earthman\" <Charles.Earthman@mba02.bus.utexas.edu> 04/03/01 10:39 AM To: <Karen.Marshall@enron.com> cc: Subject: feedback on the Video Conference this past Friday Karen, Please extend my personal thanks to Jeff and the others involved for the video conference last Friday. A few highlights for me: Jeff/Enron's attention to the speaker's background--referencing the questioner's resume in formulation of his response--was impressive. Further, as the vast majority of the attendees on the UT side were first year students concerned with future employment, the fact that someone as high-level as Jeff looked at the resumes was of real value. That level of exposure can be hard to come by. The relaxed atmosphere was also pleasant and encouraged the question-and-answer process. It was abundantly clear that Jeff was eager and able to authoriatatively speak on a wide variety of topics. This was the heart of the value of the conference. Thanks again and best regards, Charles Earthman Class of 2002"
+   },
+   {
+    "file": "maildir/shankman-j/old_email/53.",
+    "from": "rick.buy@enron.com",
+    "rcpt": [
+     "mike.mcconnell@enron.com",
+     "a..shankman@enron.com"
+    ],
+    "subject": "FW: EGM books",
+    "body": "EGM has the largest number of trading books in the company with over 500 active books and despite this you guys do the best job getting worldwide information to us in a timely and accurate fashion. (I wish I could get the rest of the company to this point). I'm told that the people referenced below have contributed in a big way to this effort. Thanks for the effort. Rick -----Original Message----- From: Brackett, Debbie R. Sent: Tuesday, May 22, 2001 7:36 PM To: Buy, Rick Subject: EGM books Rick, Following up on our discussion this morning, Scott Earnest and his staff ( including Michelle Bruce) need to be recognized for their outstanding efforts in providing timely information to Risk. Their initiative came along about the same time Jeff Shankman took over Global Markets; it enables them to run a same day VaR for worldwide trading ( Houston, London and Singapore books are all closed in Houston ) as well as for us to to get our \"official \" information reliably by the the opening of business next day."
+   }
+  ]
+ },
+ {
+  "custodian": "rapp-b",
+  "messages": [
+   {
+    "file": "maildir/rapp-b/marketing_affiliate/2.",
+    "from": "frazier.king@enron.com",
+    "rcpt": [
+     "martha.braddy@enron.com",
+     "joe.hartsoe@enron.com",
+     "janet.butler@enron.com",
+     "lori.pinder@enron.com",
+     "bill.rapp@enron.com"
+    ],
+    "subject": "RE: Global Risk Markets Companies",
+    "body": "Martha, As we discussed today, it is OK to leave Derrick on these boards. None of these companies are marketing affiliates. Moreover, none of the officers and directors of these companies are officers or directors of any of the companies in the marketing affiliate groups of companies (i.e., ENA, EES and LNG). (See, attached Corporate Data Sheet.) Please call if you have any other questions. Frazier -----Original Message----- From: Braddy, Martha Sent: Friday, October 26, 2001 4:25 PM To: King Jr., Frazier Subject: Global Risk Markets Companies Frazier, I know you are very busy and I apologize for having to contact you regarding this, but it was suggested to me today by Lance Schuler, that I should check with you (once again) regarding Mr. Derrick's serving on the Board of Directors of the Bermudian insurance companies in Global Risk Markets. These are not marketing affiliates. We have discussed this before, and you had no concerns with Mr. Derrick serving on these boards. Please advise when you get a moment. Thank you. Martha G. Braddy Enron Global Markets LLC 1400 Smith Street, Suite 3864 Houston, TX 77002-7361 Ph: 713-345-7858 Fax: 713-646-6058 E-mail: martha.braddy@enron.com"
+   },
+   {
+    "file": "maildir/rapp-b/inbox/354.",
+    "from": "linda.trevino@enron.com",
+    "rcpt": [
+     "bill.rapp@enron.com",
+     "teb.lokey@enron.com"
+    ],
+    "subject": "TW Request Form",
+    "body": "Bill, Teb, Attached is an electronic version of the request for gas transportation form that we would like to implement for TW in the new contract system.. It is very similiar to FGT's. Would you please review and let me know if this looks okay. Thanks Linda"
+   },
+   {
+    "file": "maildir/rapp-b/inbox/377.",
+    "from": "frazier.king@enron.com",
+    "rcpt": [
+     "maria.pavlou@enron.com",
+     "bill.rapp@enron.com"
+    ],
+    "subject": "RE: marketing affiliate",
+    "body": "Bill and Maria, one of you should check with Cindy first to make sure she is ok with it. -----Original Message----- From: Pavlou, Maria Sent: Friday, November 02, 2001 2:07 PM To: Rapp, Bill; King Jr., Frazier Subject: FW: marketing affiliate I checked with Dari who checked with Drew, seems like we are ok with Cindy Olsen replacing Andy Fastow. Thanks, Maria Pavlou -----Original Message----- From: Dornan, Dari Sent: Friday, November 02, 2001 8:09 AM To: Pavlou, Maria Cc: Fossum, Drew Subject: RE: marketing affiliate I think Cindy is fine. -----Original Message----- From: Pavlou, Maria Sent: Thursday, November 01, 2001 3:09 PM To: Dornan, Dari Subject: marketing affiliate We need to take Andy Fastow off of our board of directors on our web site - he was the officer for our sales marketing division. What do you think about replacing him with Cindy Olsen? Maria"
+   },
+   {
+    "file": "maildir/rapp-b/inbox/226.",
+    "from": "paul.cherry@enron.com",
+    "rcpt": [
+     "steven.harris@enron.com",
+     "kimberly.watson@enron.com",
+     "bill.rapp@enron.com",
+     "a..howard@enron.com",
+     "louis.soldano@enron.com"
+    ],
+    "subject": "Pacific Gas and Electric - Transwestern Concerns",
+    "body": "I received a call from Jack Foley from the PG&E Credit Risk area regarding concerns to their exposure from TW. He cited that due to the' CC' S & P rating they had concerns regarding their monthly prepayment to TW of approximately $ 1.8 M, our marketing of their excess capacity, and the Operating Agreement at the interconnect regarding indemnification of the PCB cleanup. He stated that PG&E has exposure as a result of TW marketing their excess capacity which at present TW has paid PG & E it's portion. However, we are due to remarket in January for their Spring/Summer capacity where we bill, collect and remit to PG &E. Also, he advised that per the Operating Agreement at the interconnect, dated June 27, 1995, there is an indemnification for PCB cleanup and that we pay PG & E $ 300,000 to $ 400,000 per year and the agreement runs to 2007. He added that there is a reaffirmation of the 1995 agreement dated May 28,1999, with Steve and Lou as the signers. In order to alleviate their concerns, Foley proposed, 1) TW drop the prepayment requirement and 2) provide security/collateral to secure the remarketing and PCB cleanup. Please"
+   }
+  ]
+ },
+ {
+  "custodian": "whitt-m",
+  "messages": [
+   {
+    "file": "maildir/whitt-m/inbox/318.",
+    "from": "robert.neustaedter@enron.com",
+    "rcpt": [
+     "m..landwehr@enron.com",
+     "paul.kaufman@enron.com",
+     "mark.whitt@enron.com",
+     "harry.kingerski@enron.com"
+    ],
+    "subject": "RE: Colorado GCA Rules",
+    "body": "Sue, Well you would sure think they would file something, and I'm assuming they did, but the filings are probably sitting on somebody's desk. I am going to be calling one of the information resource people this morning to follow-up. I'll let you know. -----Original Message----- From: Landwehr, Susan M. Sent: Wednesday, October 24, 2001 5:09 PM To: Neustaedter, Robert; Kaufman, Paul; Whitt, Mark; Kingerski, Harry Subject: RE: Colorado GCA Rules Robert--isn't it kind of odd that the parties who had commented before would not at least file comments in support of the rules? Hey Mark--have you talked with your buddies over at Xcel? -----Original Message----- From: Neustaedter, Robert Sent: Wednesday, October 24, 2001 3:50 PM To: Landwehr, Susan M.; Kaufman, Paul; Whitt, Mark; Kingerski, Harry Subject: Colorado GCA Rules I spoke with the \"WebMeister\" of the Colorado PUC today. He did not think that the PUC would post on its website the filings by other parties in this docket. He could only find one other party's filing (People's) and didn't see any other comments on file, either in the data base or on other analyst's desks. I will continue to check with him. The hearing is scheduled November 1."
+   },
+   {
+    "file": "maildir/whitt-m/inbox/354.",
+    "from": "jake.thomas@enron.com",
+    "rcpt": [
+     "mark.whitt@enron.com",
+     "steve.walton@enron.com"
+    ],
+    "subject": "RE: Buffalo Power Company LLC - Gas Turbine Power Plant Project",
+    "body": "I have already made plans for the 14th - How about later this weeks or early next. ? Jake Thomas 503-464-3803 -----Original Message----- From: Whitt, Mark Sent: Monday, October 22, 2001 12:36 PM To: Walton, Steve Cc: Thomas, Jake Subject: RE: Buffalo Power Company LLC - Gas Turbine Power Plant Project I have to go to the management meeting in San Antonio on the afternoon of the 14th. Would it be possible to meet in Denver on the morning of the 14th? -----Original Message----- From: Walton, Steve Sent: Monday, October 22, 2001 10:24 AM To: Whitt, Mark; Kaufman, Paul; Calger, Christopher F. Cc: Tycholiz, Barry; Bump, Dan J. Subject: RE: Buffalo Power Company LLC - Gas Turbine Power Plant Project Mark, I am committed to a meeting in Seattle with the Western Governors and the FERC on November 1 and 2 respectively. The next meeting of the Wyoming Energy Commission is on November 12-13 in Evanston and a meeting in Spokane on the 15th, leaving the 14th open. I know that is beyond your two week window, but it would be the best time for me. Steve -----Original Message----- From: Whitt, Mark Sent: Friday, October 19, 2001 3:51 PM To:"
+   },
+   {
+    "file": "maildir/whitt-m/inbox/810.",
+    "from": "t..lucci@enron.com",
+    "rcpt": [
+     "barry.tycholiz@enron.com",
+     "mark.whitt@enron.com"
+    ],
+    "subject": "FW:",
+    "body": "I received this email from Karen Taylor at Duke Field Services. I have been working with her on gathering deals whereby ENA could purchase 3rd party gas on the Jonah Gas Gathering system. As you can see, a numerber of our larger trading counterparties are not willing to trade with us, but are unwiling to tell us directly. I hope this is a short term problem, as most of the larger counterparties account for the majority of our transactions. I've included the second part of the email to show you both that I am willing to extend myself in whatever manner to bring value to the once mighty Enron. PS I haven't been able to close any deals with Karen, but I feel that I am very close! -----Original Message----- From: Karen L. Taylor [mailto:kltaylor@duke-energy.com] Sent: Thursday, November 15, 2001 8:35 AM To: plucci@enron.com Subject: heard last night that forest oil is marketing through aec again in december. also heard they have been instructed not to sell to enron. aec has also received directives not to sell to enron. are you hearing that a lot? sorry to open with negative news. hope you're doing well today. i'm a bit tired."
+   },
+   {
+    "file": "maildir/whitt-m/inbox/110.",
+    "from": "ken.choyce@enron.com",
+    "rcpt": [
+     "j..bump@enron.com",
+     "j..legler@enron.com",
+     "michelle.gross@enron.com",
+     "mark.whitt@enron.com"
+    ],
+    "subject": "FW: \"One Texan is better than one hundred taliban\".",
+    "body": "-----Original Message----- From: CWRentlInc@aol.com [mailto:CWRentlInc@aol.com] Sent: Thursday, December 6, 2001 9:37 PM To: bussfam@sprintmail.com; CalPilot73@aol.com; crysk@hotmail.com; MainWaves@aol.com; mkdeb1@hotmail.com; GEWhitaker@aol.com; PD62Pepsi@aol.com; Littlegeneralb@aol.com; Hencomprss@aol.com; Mkahook@aol.com; JCallCall@aol.com; JEBUSS@aol.com; BUnike@aol.com; BayPumpWks@aol.com; JUDYORTEGA3@aol.com; ASchaef795@aol.com; Kamberleeh@aol.com; KBuss9898@aol.com; Kellie@sgrcinsurance.com; Choyce, Ken; khutson@nwol.net; COHOMEIMP@aol.com; pastormr@swbell.net; mg@gwe.net; mhahn@vsta.com; andymail@sigecom.net; energycs@infi.net; DELTASTARINTL@aol.com; nltravel@infi.net; OTCBOSS@aol.com; WMHPRICE@att.net; rdearman@holtcompanies.net; rdeisenbarth@communicomm.com; KTinyDancer@aol.com; SITTER5413@aol.com; TEXBUZZARD@aol.com; Tracy@sgrcinsurance.com; Wayne.Caraway@natoil.com; Wayne@sgrcinsurance.com; VALVEPARTS@aol.com Subject: \"One Texan is better than one hundred taliban\". > A large group of Taliban soldiers are moving down a road when they hear a > voice call from behind a sand-dune. > \"One Texas soldier is better than ten taliban\". > The Taliban commander quickly sends 10 of his best soldiers over the dune > whereupon a gun-battle breaks out and continues for a few minutes, then > silence. > The voice then calls out \"One Texan is better than one hundred taliban\". > Furious, the taliban commander sends his next best 100 troops over the dune > and instantly a huge gunfight commences. After 10 minutes of battle, again > silence. > The Texan voice calls out again \"One Texan is better than one thousand > taliban\". > The enraged Taliban Commander musters one thousand fighters and sends > them across the dune. Cannon,"
+   }
+  ]
+ },
+ {
+  "custodian": "fischer-m",
+  "messages": [
+   {
+    "file": "maildir/fischer-m/all_documents/354.",
+    "from": "kim.nguyen@enron.com",
+    "rcpt": [
+     "jeff.duff@enron.com",
+     "ronald.brzezinski@enron.com",
+     "patricia.hunter@enron.com",
+     "mark.fisher@enron.com",
+     "john.ruiz@enron.com"
+    ],
+    "subject": "Auto-download tool",
+    "body": "Hi Jeff, The auto-download program has been deployed to all sites. The field operators should receive it today(Monday). Please let me know if you encounter any issues in its regard. Kim"
+   },
+   {
+    "file": "maildir/fischer-m/all_documents/246.",
+    "from": "jeff.duff@enron.com",
+    "rcpt": [
+     "mark.walker@enron.com",
+     "mark.fisher@enron.com"
+    ],
+    "subject": "Re: downtime allocation document and parameter list",
+    "body": "FYI ---------------------- Forwarded by Jeff Duff/EWC/Enron on 05/28/2002 01:14 PM --------------------------- Kim Nguyen 05/23/2002 12:20 PM To: Jeff Duff/EWC/Enron@ENRON cc: Subject: Re: downtime allocation document and parameter list attached is the file you've requested. My testing documentation is exactly the same, except in different format. hope this help! Kim ---------------------- Forwarded by Kim Nguyen/EWC/Enron on 05/23/2002 12:32 PM --------------------------- Garth Ripton 04/16/2002 12:33 AM To: Erik Ellis/EWC/Enron@Enron cc: Kim Nguyen/EWC/Enron@Enron Subject: Re: downtime allocation document and parameter list Hi Erik, I worked on this for a little while last night but I couldn't get a modem connection from the Hotel. I hope the timing is OK. The confirmed counters are highlighted in green. The counters that need to be corrected are highlighted in red. Most of the corrections are due to the fact that the fault/status messages that are the result of enabling a \"manual\" operation mode (for example, manual yaw) increment the maintenance counter not the \"turbine OK\" counter. Unfortunately, there are many faults that we could not confirm using the turbine simulator. If you have any questions Kim Nguyen is the person who did the actual testing. I forwarded the results to Mark Fischer and Mark Walker so"
+   },
+   {
+    "file": "maildir/fischer-m/all_documents/269.",
+    "from": "matthew.meyers@enron.com",
+    "rcpt": [
+     "hollis.kimbrough@enron.com",
+     "mark.fisher@enron.com"
+    ],
+    "subject": "ILDC Conference",
+    "body": "Greetings, The lightning paper was accepted for oral presentation at the International Lightning Detection Conference. Is this something I can beging preparing for? Matt Meyers ---------------------- Forwarded by Matthew Meyers/EWC/Enron on 06/04/2002 12:15 PM --------------------------- \"Cheryl Turner\" <cheryl.turner@vaisala.com> on 06/04/2002 11:45:24 AM To: \"Turner Cheryl CT\" <cheryl.turner@vaisala.com> cc: Subject: ILDC Conference 4 June 2002 RE: Paper acceptance for the 17th International Lightning Detection Conference Greetings, Thank you for submitting for your abstract for the 17th ILDC in Tucson, Arizona, on 16-18 October 2002. Your paper has been accepted for an oral presentation. Please be aware that Vaisala recently acquired Global Atmospherics, sponsor of ILDC. We are now Vaisala-GAI. Our name has changed, but our commitment to the ILDC remains the same. The following items require your immediate attention. If applicable, please share this information with your co-authors. Final paper deadline is 15 August 2002 .?????? Authors must submit their final papers by 15 August 2002. .?????? Please use e-mail to submit your paper: mailto:cheryl.turner@vaisala.com - ILDC 2002 Presenter_registration.pdf - ILDC 2002 Equipment_form.pdf - ILDC 2002 Release_form.pdf - ILDC 2002 PAPER TEMPLATE.doc - ILDC 2002 Paper_template_read only.pdf - ILDC 2002 Presenter_tips.pdf"
+   },
+   {
+    "file": "maildir/fischer-m/all_documents/110.",
+    "from": "hollis.kimbrough@enron.com",
+    "rcpt": [
+     "mark.walker@enron.com",
+     "mark.fisher@enron.com"
+    ],
+    "subject": "Re: 1.5 Fleet Availability",
+    "body": "Mark Walker, I have not heard anything from Germany. Please respond to Ilan with the update. Also, please be sure to include the definitions including the paper you wrote which identifies the contractual availability definitions. Thanks, Hollis ---------------------- Forwarded by Hollis Kimbrough/EWC/Enron on 04/15/2002 04:34 PM --------------------------- From: Ilan Caplan on 04/15/2002 02:38 PM To: Hollis Kimbrough/EWC/Enron@ENRON, Mark V Walker/EWC/Enron@ENRON, Mark Fisher/EWC/Enron@Enron cc: Subject: Re: 1.5 Fleet Availability Gentlemen - Good afternoon. I hope this email finds you well. Just wanted to see where we stood with following information: 1) Data from Germany 2) the contractual availability (soft-copy) 3) the machine availability (soft-copy) 4) the new availability number (2002) with the new definition of contractual availability Thanks, Ilan ---------------------- Forwarded by Ilan Caplan/EWC/Enron on 04/15/2002 02:42 PM --------------------------- Hollis Kimbrough 04/12/2002 11:49 AM To: Ilan Caplan/EWC/Enron@Enron cc: Mark Fisher/EWC/Enron@Enron, Mark V Walker/EWC/Enron@ENRON, Alan Nueman/EWC/Enron@ENRON Subject: Re: 1.5 Fleet Availability Ilan, Mark Walker will send a request to Germany for their availability data. Mark will also provide the definitions of Machine availability. The contractual availability is what was included in the memo I handed you when you were in my office on Wednesday. If you need an electronic copy of that"
+   }
+  ]
+ },
+ {
+  "custodian": "gang-l",
+  "messages": [
+   {
+    "file": "maildir/gang-l/inbox/27.",
+    "from": "mo.elafandi@enron.com",
+    "rcpt": [
+     "edward.baughman@enron.com",
+     "virginia.thompson@enron.com",
+     "jennifer.thome@enron.com",
+     "lisa.gang@enron.com"
+    ],
+    "subject": "BPA Cuts",
+    "body": "We were cut 40 MW today by BPA for peak hours on 6/18 at COB on enpower deal number 305699. Lisa purchased replacement power from Avista at $30. Enpower 897712 We presold power to Avista at $33.50 for the month and are now buying it back from them at $30 to book out. Of course, BPA should not charge us for the 27.25 supply price under their contract. Mo Elafandi Enron North America 121 SW Salmon, 3WTC0407 Portland, OR 97204 503-464-5106 Fax 503-464-7376 Cellular 503-860-8564"
+   },
+   {
+    "file": "maildir/gang-l/inbox/8.",
+    "from": "jennifer.thome@enron.com",
+    "rcpt": [
+     "virginia.thompson@enron.com",
+     "lisa.gang@enron.com"
+    ],
+    "subject": "FW:",
+    "body": "-----Original Message----- From: Turner, Maricar [mailto:MJTurner@caiso.com] Sent: Thursday, June 20, 2002 9:41 AM To: Schultz, Janelle; Anna Francis (E-mail); Cheryl Wolfersberge (E-mail); Debbie Chambers (E-mail); Dee Turner (E-mail); Thome, Jennifer; LaShawn Salery (E-mail); Michelle Copland (E-mail) Subject: FW: -----Original Message----- From: Khatri, Meghna Sent: Thursday, June 20, 2002 9:36 AM To: 'nileshk73@hotmail.com' Cc: Karuna Gupta (E-mail); Ketan Pardiwala (E-mail); Kusum Pardiwala (E-mail); Turner, Maricar; Nimita Chachra (E-mail); Suresh Pardiwala (E-mail) Subject: FW: Maybe God wants us to meet a few wrong people before meeting the right one so that when we finally meet the right person, we will know how to be grateful for that gift. When the door of happiness closes, another opens, but often times we look so long at the closed door that we don't see the one which has been opened for us. <http://www.funnygreetings.com/camel5/door_carpet_md_wht.gif> <http://www2.flowgo.com/images/bt/trans.gif?page_id=10005> The best kind of friend is the kind you can sit on a porch and swing with, never say a word, and then walk away feeling like it was the best conversation you've ever had. It's true that we don't know what we've got until we lose it, but it's also true that we don't know what we've been missing until"
+   },
+   {
+    "file": "maildir/gang-l/inbox/23.",
+    "from": "edward.baughman@enron.com",
+    "rcpt": [
+     "mo.elafandi@enron.com",
+     "virginia.thompson@enron.com",
+     "jennifer.thome@enron.com",
+     "lisa.gang@enron.com"
+    ],
+    "subject": "RE: BPA Cuts",
+    "body": "I assume that on all cuts on COB deliveries that we are charging BPA liquidated damages. In this case $3.50/MWhr for 6/18. Please let me know if this is not the case. Also, how do we track and record COB non-delivery LD's for BPA's? -----Original Message----- From: Elafandi, Mo Sent: Monday, June 17, 2002 10:34 AM To: Baughman, Edward Cc: Thompson, Virginia; Thome, Jennifer; Gang, Lisa Subject: BPA Cuts We were cut 40 MW today by BPA for peak hours on 6/18 at COB on enpower deal number 305699. Lisa purchased replacement power from Avista at $30. Enpower 897712 We presold power to Avista at $33.50 for the month and are now buying it back from them at $30 to book out. Of course, BPA should not charge us for the 27.25 supply price under their contract. Mo Elafandi Enron North America 121 SW Salmon, 3WTC0407 Portland, OR 97204 503-464-5106 Fax 503-464-7376 Cellular 503-860-8564"
+   },
+   {
+    "file": "maildir/gang-l/inbox/33.",
+    "from": "m..grace@enron.com",
+    "rcpt": [
+     "lisa.gang@enron.com",
+     "katina.smith@enron.com"
+    ],
+    "subject": "RE: Hafslund Energy",
+    "body": "Katina, Could you please get together with Lisa and get her what she needs. I think it might relate to that ECAR/Allegheny stuff you were working on the other day. Rebecca -----Original Message----- From: Gang, Lisa Sent: Thursday, June 13, 2002 3:55 PM To: Grace, Rebecca M. Subject: Hafslund Energy I'm working on a settlement issue with subject counterparty for December. The unique id is 12596. Can you send me Hafslund's detailed data for Dec 1? Lisa"
+   }
+  ]
+ },
+ {
+  "custodian": "ermis-f",
+  "messages": [
+   {
+    "file": "maildir/ermis-f/all_documents/219.",
+    "from": "russell.dyk@enron.com",
+    "rcpt": [
+     "frank.ermis@enron.com",
+     "caroline.abramo@enron.com",
+     "stephen.plauche@enron.com",
+     "robyn.zivic@enron.com",
+     "mog.heu@enron.com"
+    ],
+    "subject": "PGE/Malin",
+    "body": "Frank, Robyn thinks you don't check your email, but we'll see....Harvard wants to buy 1/2 day of the PGE/Malin (buy PGE/sell Malin) at 50 cents. We would like to make at least 1/2 cent on the deal. They haven't even seen the historical data yet, but they trust your explanation, which is why they're anxious to start building a position. Thanks, Russ ps I'm at 212 702 3914 if you have any questions"
+   },
+   {
+    "file": "maildir/ermis-f/all_documents/226.",
+    "from": "kristann.shireman@enron.com",
+    "rcpt": [
+     "frank.ermis@enron.com",
+     "keith.holst@enron.com"
+    ],
+    "subject": "Purchase Malin and Socal Topock",
+    "body": "Please provide me with your basis offer for the following volumes: The volumes are in monthly volumes. Thanks Kris Shireman Socal 01/2002: 78,829 02/2002: 41,064 03/2002: 69,577 04/2002: 87,050 05/2002: 72,295 06/2002: 88,023 07/2002: 91,313 08/2002; 134,442 09/2002: 102,023 10/2002: 120,795 11/2002: 127,928 12/2002: 101,339 01/2003: 276,152 02/2003: 241,093 03/2003: 268,558 04/2003: 285,661 05/2003: 271,098 06/2003: 286,691 07/2003: 289,711 08/2003: 332,381 09/2003: 300,389 10/2003: 318,878 11/2003: 325,782 12/2003: 299,756 01/2004: 174,942 02/2004: 139,055 03/2004: 167,466 04/2004: 184,189 05/2004: 169,990 06/2004: 185,301 07/2004: 188,137 08/2004: 230,351 09/2004: 198,782 10/2004: 216,972 11/2004: 223,764 12/2004; 198,071 01/2005: 193,751 02/2005; 158,434 03/2005: 186,391 04/2005: 202,743 05/2005: 188,899 06/2005: 203,933 07/2005: 120,549 08/2005: 120,857 09/2005: 120,375 10/2005: 120,494 11/2005: 120,534 12/2005: 120,412 MALIN 06/2001: 44,997 07/2001: 41,838 08/2001: 46,070 09/2001: 39,859 10/2001: 37,283 11/2001: 28,038 12/2001: 31,431 01/2002: 23,643 02/2002: 21,228 03/2002: 10,546 04/2002: 15,851 05/2002: 23,528 06/2002: 33,978 07/2002: 32,611 08/2002; 34,332 09/2002: 30,093 10/2002: 28,214 11/2002: 23,518 12/2002: 23,030 01/2003: 17,963 02/2003: 17,820 03/2003: 16,651 04/2003: 15,640 05/2003: 23,212 06/2003: 33,520 07/2003: 32,117 08/2003: 33,878 09/2003: 29,681 10/2003: 27,869 11/2003: 23,155 12/2003: 22,721 01/2004: 17,721 02/2004: 16,973 03/2004: 16,430 04/2004: 15,419 05/2004: 22,896 06/2004: 33,057 07/2004: 31,628 08/2004: 33,431 09/2004: 29,273 10/2004: 27,491"
+   },
+   {
+    "file": "maildir/ermis-f/all_documents/23.",
+    "from": "phillip.allen@enron.com",
+    "rcpt": [
+     "mike.grigsby@enron.com",
+     "keith.holst@enron.com",
+     "frank.ermis@enron.com"
+    ],
+    "subject": "DJ Cal-ISO Pays $10M To Avoid Rolling Blackouts Wed -Sources, DJ Calif ISO, PUC Inspect Off-line Duke South Bay Pwr Plant, DJ Calif Regula tors Visit AES,Dynegy Off-Line Power Plants",
+    "body": "---------------------- Forwarded by Phillip K Allen/HOU/ECT on 12/07/2000 09:08 AM --------------------------- Jeff Richter 12/07/2000 06:31 AM To: Phillip K Allen/HOU/ECT@ECT cc: Subject: DJ Cal-ISO Pays $10M To Avoid Rolling Blackouts Wed -Sources, DJ Calif ISO, PUC Inspect Off-line Duke South Bay Pwr Plant, DJ Calif Regula tors Visit AES,Dynegy Off-Line Power Plants ---------------------- Forwarded by Jeff Richter/HOU/ECT on 12/07/2000 08:38 AM --------------------------- Carla Hoffman 12/07/2000 06:19 AM To: Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Jeff Richter/HOU/ECT@ECT, Phillip Platter/HOU/ECT@ECT, Mike Swerzbin/HOU/ECT@ECT, Diana Scholtes/HOU/ECT@ECT, Sean Crandall/PDX/ECT@ECT, Matt Motley/PDX/ECT@ECT, Mark Guzman/PDX/ECT@ECT, Tom Alonso/PDX/ECT@ECT, Mark Fischer/PDX/ECT@ECT, Monica Lande/PDX/ECT@ECT cc: Subject: DJ Cal-ISO Pays $10M To Avoid Rolling Blackouts Wed -Sources, DJ Calif ISO, PUC Inspect Off-line Duke South Bay Pwr Plant, DJ Calif Regula tors Visit AES,Dynegy Off-Line Power Plants ---------------------- Forwarded by Carla Hoffman/PDX/ECT on 12/07/2000 06:29 AM --------------------------- Enron Capital & Trade Resources Corp. From: \"Pergher, Gunther\" <Gunther.Pergher@dowjones.com> 12/07/2000 06:11 AM To: undisclosed-recipients:; cc: Subject: DJ Cal-ISO Pays $10M To Avoid Rolling Blackouts Wed -Sources, DJ Calif ISO, PUC Inspect Off-line Duke South Bay Pwr Plant, DJ Calif Regula tors Visit AES,Dynegy Off-Line Power Plants 13:18 GMT 7 December 2000 DJ Cal-ISO Pays $10M To Avoid Rolling Blackouts Wed -Sources (This article was originally"
+   },
+   {
+    "file": "maildir/ermis-f/all_documents/230.",
+    "from": "tracy.cummins@nesanet.org",
+    "rcpt": [
+     "nesamembers@nesanet.org",
+     "nesa.staff@nesanet.org"
+    ],
+    "subject": "Offshore Museum Tour / Calgary Conference",
+    "body": "Greetings NESA / HEA Members! Attached below for your review is two flyers for upcoming NESA / HEA sponsored events. The first (you may have seen before) contains information regarding our Offshore Energy Museum Tour scheduled for May 17, 2001 in Houston / Galveston, Texas. The second contains information regarding the Second Annual Calgary Conference scheduled for June 7 & 8, 2001 in Calgary, Alberta, Canada. Please take a moment to review the attached flyers and make plans to attend these two events TODAY. Contact Tracy Cummins at (713) 856-6525 or via email at tracy.cummins@nesanet.org <mailto:tracy.cummins@nesanet.org> with any questions. <<FLYER 2001.doc>> <<OEC01.doc>> - FLYER 2001.doc - OEC01.doc"
+   }
+  ]
+ },
+ {
+  "custodian": "slinger-r",
+  "messages": [
+   {
+    "file": "maildir/slinger-r/inbox/23.",
+    "from": "feedback@intcx.com",
+    "rcpt": [
+     "iceuserslist@list.intcx.com",
+     "sales@intcx.com",
+     "icehelpdesk@intcx.com"
+    ],
+    "subject": "ICE Relocates Houston Office",
+    "body": "We at IntercontinentalExchange would like to announce the relocation of our= Houston office. = =20 The new address is:=09 = =20 1415 Lousiana, suite 3350 = =20 Houston, TX 77002 = =20 =20 New phone numbers:=09 = =20 Lance Leffingwell 713-571-6691 = =20 JC Kneale 713-571-7821 = =20 Fax 713-571-8243 = =20 =20 If you have any questions please feel free to contact us and we look forwar= d to serving you! = =20 =20 Thank you, = =20 IntercontinentalExchange = =20 =20 =20 =20 =20 =20 =20 =20 =20 =20 =20"
+   },
+   {
+    "file": "maildir/slinger-r/inbox/21.",
+    "from": "alan.comnes@enron.com",
+    "rcpt": [
+     "robert.badeer@enron.com",
+     ".hall@enron.com",
+     "ryan.slinger@enron.com"
+    ],
+    "subject": "FW: Calpine",
+    "body": "-----Original Message----- From: Comnes, Alan Sent: Wednesday, December 12, 2001 9:11 AM To: Buerkle, Jim; Foster, Chris H. Subject: Calpine Good detail ... -----Original Message----- From: Robert Weisenmiller [mailto:rbw@mrwassoc.com] Sent: Tuesday, December 11, 2001 6:19 PM To: Comnes, Alan Subject: fyi <x-flowed> > Calpine's Credibility Crumbles >By Peter Eavis >Senior Columnist >12/11/2001 06:49 PM EST >Calpine (CPN:NYSE - news - commentary - research - analysis) talks and the >market walks. >The fast-growing power producer received a ton of flak Monday for taking >no questions on a conference call designed at rebutting a critical article >by The New York Times. Calpine held another call Tuesday -- with the >stated aim of discussing talks to renegotiate power sale contracts with >the state of California -- and spent more than three hours responding to a >range of issues raised by concerned holders and snarky critics. >But soon after this marathon gabfest got under way, Calpine stock, already >down for the day, plummeted after a series of remarks by executives that >the market didn't like. It ended the day down 13% at $15.50, a 52-week low. >If Detox had to make a list of why the market biffed Calpine during the >call, these would"
+   },
+   {
+    "file": "maildir/slinger-r/inbox/39.",
+    "from": "ken.adams@intcx.com",
+    "rcpt": [
+     "stephanie.sever@enron.com",
+     "ryan.slinger@enron.com",
+     "bill.williams@enron.com"
+    ],
+    "subject": "Enron Power Marketing Inc / user ids ready",
+    "body": "Dear ICE Administrator, The attached sheet is a list of recently submitted users to the IntercontinentalExchange trading platform. Please call the ICE Helpdesk for the passwords to log onto the system. +1-770-738-2101 Sunday 6pm - Friday 5pm EDT If you need to enroll additional users contact the ICE Helpdesk (icehelpdesk@intcx.com <mailto:icehelpdesk@intcx.com>) for an enrollment form. You can also add on to the enrollment form you originally submitted. I n t e r c o n t i n e n t a l E x c h a n g e http://www.intcx.com | Rudy Reynolds | 770.738.2101 <<IDS Ready.xls>>"
+   },
+   {
+    "file": "maildir/slinger-r/inbox/24.",
+    "from": "julie.kearney@enron.com",
+    "rcpt": [
+     "center.dl-portland@enron.com",
+     "francisco.dl-san@enron.com"
+    ],
+    "subject": "Q&A Process",
+    "body": "You have many questions about how the bankruptcy will affect you personally. The HR team is endeavoring to answer these questions. Due to simple logistics, answering each question individually is very difficult. We are working to solve this issue by compiling answers to the important questions concerning employee benefits, expense payments and so on. Answers to the most frequently-asked questions will be posted on the corporate website at www.enron.com. Click on Information for Enron Alumni Affected by Chapter 11 Filing </corp/alumni/> . These Q&A Facts are regularly updated as soon as accurate and factual information is received. In addition, we will have updates on 1-800-97-ENRON. (Option 9) If you have questions that have not been answered, please submit them to the following email address: questions@enron.com A team of people will be answering these questions and posting answers on the above sites as soon as possible. The HR team will also be posting initial Q&A's within the next few days on www.home.enron.com for our current, retained employees. Thank you for your patience as we work through the complexities of the situation. Julie Kearney 503) 464-7404 julie.kearney@enron.com"
+   }
+  ]
+ },
+ {
+  "custodian": "donoho-l",
+  "messages": [
+   {
+    "file": "maildir/donoho-l/inbox/169.",
+    "from": "michelle.lokay@enron.com",
+    "rcpt": [
+     "rod.hayslett@enron.com",
+     "jan.moore@enron.com",
+     "steve.kleb@enron.com",
+     "tracy.geaccone@enron.com",
+     "lindy.donoho@enron.com"
+    ],
+    "subject": "RE: Tw",
+    "body": "I don't have access to this shared drive. Jan...do you? -----Original Message----- From: Hayslett, Rod Sent: Saturday, November 24, 2001 11:42 AM To: Donoho, Lindy; Lokay, Michelle Cc: Kleb, Steve; Geaccone, Tracy Subject: FW: Tw Importance: High Can either of you help me here? -----Original Message----- From: Hayslett, Rod Sent: Sat 11/24/2001 11:33 AM To: Geaccone, Tracy Cc: Taylor, Sarah; Desai, Jayshree Subject: Tw There are files that back up the revenue projections that Steve Kleb gave me hard copies of for 2001 and 2002. Can I get electronic copies of these, they have volumes and margins and appear to back up the revenue projections. 2002 File looks like s\\marketing\\twfinmkt_anly\\Tw\\twfin\\2001\\misc\\[plan_forecast_design.xls]\\summary. 2001 file looks like s\\marketing\\twfinmkt_anly\\tw\\twfin\\2001\\forecast-CE\\[ce 3-2001.xls]model _source_data. If the same exists for 2000 can we get it as well. I would like as soon as possible and you can email to the cc addresses as well. Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)"
+   },
+   {
+    "file": "maildir/donoho-l/inbox/77.",
+    "from": "tk.lohman@enron.com",
+    "rcpt": [
+     "lorraine.lindberg@enron.com",
+     "kimberly.watson@enron.com",
+     "lindy.donoho@enron.com"
+    ],
+    "subject": "Permian to Waha Differentials for Socal Discussions",
+    "body": "Attached please find Gas Daily daily prices for April/Oct 2001 for the Permian and Waha areas. The differential looks good for a support of our $.04 offer. Please let me know if you want me to pull more pricing information. TK"
+   },
+   {
+    "file": "maildir/donoho-l/inbox/46.",
+    "from": "elizabeth.brown@enron.com",
+    "rcpt": [
+     "lindy.donoho@enron.com",
+     "lachandra.fenceroy@enron.com",
+     "joanne.bisbee@enron.com",
+     "wendy.koh@enron.com"
+    ],
+    "subject": "RE: Bus Applications Meeting Follow Up",
+    "body": "Yes, Lindy is correct in her statement below. The shared cost surcharge is input in the current TW CBS system as contract-specific surcharges that are due to end on 10/31/01. There is no system impact. Thanks, Elizabeth -----Original Message----- From: Donoho, Lindy Sent: Mon 10/22/2001 9:53 AM To: Fenceroy, LaChandra; Bisbee, Joanne; Koh, Wendy Cc: Brown, Elizabeth Subject: FW: Bus Applications Meeting Follow Up I believe what Lisa (Sawyer?) was referring to is the termination of TW's shared cost surcharge effective October 31, 2001. I don't think there would be any system changes required. Typically, TW's rates are entered with a start and end date and (if this is correct) the surcharge should have an end date of 10/31/2001 and there wouldn't be anything else to do. If it's not entered that way, an end date could be entered now (whether at the surcharge level or at the contract level - the surcharge applies to just 14 firm contracts) and that should take care of it. Elizabeth, Is this correct? I know you're on a project, please let me know if you can check this or who can. Thank you! Lindy -----Original Message----- From: Fenceroy, LaChandra Sent: Monday, October 22,"
+   },
+   {
+    "file": "maildir/donoho-l/inbox/140.",
+    "from": "maria.pavlou@enron.com",
+    "rcpt": [
+     "kay.miller@enron.com",
+     "j..porter@enron.com",
+     "lindy.donoho@enron.com"
+    ],
+    "subject": "RE: bullets for ADR meeting",
+    "body": "Pls. see attached. -----Original Message----- From: Miller, Mary Kay Sent: Monday, November 19, 2001 5:59 PM To: Pavlou, Maria; Porter, Gregory J.; 'sstojic@gbmdc.com'; Harris, Steven; Donoho, Lindy Subject: RE: bullets for ADR meeting Maria, do you have a revised set after the changes we discussed?? MK -----Original Message----- From: Pavlou, Maria Sent: Tuesday, November 13, 2001 4:26 PM To: Porter, Gregory J.; Miller, Mary Kay; 'sstojic@gbmdc.com'; Harris, Steven; Donoho, Lindy Subject: bullets for ADR meeting Pls. review the attached draft and provide me with your comments. Thanks, Maria << File: billing strategy.doc >>"
+   }
+  ]
+ },
+ {
+  "custodian": "schwieger-j",
+  "messages": [
+   {
+    "file": "maildir/schwieger-j/bammel_stg/8.",
+    "from": "brian.redmond@enron.com",
+    "rcpt": [
+     "thomas.martin@enron.com",
+     "jim.schwieger@enron.com",
+     "jim.coffey@enron.com"
+    ],
+    "subject": "Transition Plan",
+    "body": "Tom/Jim/Jim: Please find the attached first draft of a presentation for Dave/John to deliver to them on Thursday (as requested). I would plan to attach the detailed Transition Plan being currently developed by Troy/Jim based on our meeting today. Initial Comments? Brian"
+   },
+   {
+    "file": "maildir/schwieger-j/bammel_stg/23.",
+    "from": "jim.schwieger@enron.com",
+    "rcpt": [
+     "gaswidensky@duke-energy.com",
+     "jim.schwieger@enron.com"
+    ],
+    "subject": "RE: Storage Proposal",
+    "body": "Greg: See what you think about these changes! Hope your feeling better! Swig -----Original Message----- From: Greg A. Swidensky [mailto:gaswidensky@duke-energy.com] Sent: Thursday, August 23, 2001 3:20 PM To: Schwieger, Jim Subject: Re: Storage Proposal the attached file represents our proposal todate.....this is subject to the settlement of the existing volumes in storage and direction from enron and aep on how we can handle. jim i look forward to your comment and suggestions...thanks (See attached file: enronstorageproposal.xls)"
+   },
+   {
+    "file": "maildir/schwieger-j/bammel_stg/13.",
+    "from": "kenny.soignet@enron.com",
+    "rcpt": [
+     "troy.denetsosie@enron.com",
+     "jim.coffey@enron.com"
+    ],
+    "subject": "Bammel Transition",
+    "body": "The exposure items I think may cause problems in the Bammel transition are: All trades, physical and financial, after March 2001 have been reversed. There are no open positions past his date on working gas. However, the trades are still out there. They respresent no P&L since there are no open positions. Is there any way these trades can change be cleared off the books so that Risk Management can stop running the book after the transition? These trades, buys and sells netting to zero, are for every month through April 2007. The cushion gas expected at the end of March is 60,000 bcf. If we have to pay it back to bring the level up to 65 bcf there will be fuel/compressor costs as well as the actual gas costs. This cost is usually a 1% percent of injection volume charge to the book itself. The total cost would be the actual electric compressor expenses which could be a lot higher than 1% of the volumes injected. The more changes or swings in volume on the electric compressors the higher the compressor cost. Royalties and Production costs are usually paid on withdrawal volumes. I believe we will have withdrawn"
+   },
+   {
+    "file": "maildir/schwieger-j/bammel_stg/14.",
+    "from": "bryan.hull@enron.com",
+    "rcpt": [
+     "jim.schwieger@enron.com",
+     "walter.guidroz@enron.com"
+    ],
+    "subject": "Westpark Resources",
+    "body": "Jim, Westpark was declined by our credit group for on-line trading access. Here are there comments: Credit declined 3/1; weak financials and company is a 1-man shop. All OTC trades are heavily collateralized; we will not transfer to on-line activity. The credit contact is Walter Guidroz if you want to talk to him, or you may want to let Patrick know that he will be getting a rejection letter. We can give him a long term guest id (read only) if you would like. We don't usually do this, but if a trader requests it and has a legitimate business reason, we can do it. Let me know if you need anything else. Bryan 3-9195"
+   }
+  ]
+ },
+ {
+  "custodian": "rogers-b",
+  "messages": [
+   {
+    "file": "maildir/rogers-b/all_documents/354.",
+    "from": "chris.meyer@enron.com",
+    "rcpt": [
+     "fred.mitro@enron.com",
+     "dave.kellermeyer@enron.com",
+     "benjamin.rogers@enron.com",
+     "rebecca.cantrell@enron.com"
+    ],
+    "subject": "Re: Lincoln - EIS issue",
+    "body": "Response - There is not enough info. in item four for me to fully answer. I also need to know what the content of document 2.02.12.G. However, I'll give it my best shot: The interconnect facilities upstream of the intersection of the lateral and N. Border's Manhattan Station are subject to FERC jurisdiction. N. Border completed the hot tap and interconnect facilities under its blanket authorization. I do not know what they mean by \"the rest of the Lincoln facility\". As for the question relating to the \"outcome of the EIS process for the pipeline\", do they mean the lateral or the interconnect facility? Fred Mitro 10/31/2000 08:16 AM To: Chris Meyer/HOU/ECT@ECT, Dave Kellermeyer/HOU/ECT@ECT cc: Subject: Lincoln - EIS issue Chris/Dave: Please take a look at question 4 in the attached file. It deals with the issue of whether the 2000 Peaker Facilities or associated gas laterals are FERC jurisdictional facilities and/or require an EIS statement. My initial recollection is that such an EIS was not required for either the Lincoln plant or the attached gas pipeline. Let me know your thoughts with a cc to Ben Rogers. Thanks, Fred ---------------------- Forwarded by Fred Mitro/HOU/ECT on 10/31/2000 08:15 AM Benjamin"
+   },
+   {
+    "file": "maildir/rogers-b/all_documents/1778.",
+    "from": "claire.broido@enron.com",
+    "rcpt": [
+     "bryan.garrett@enron.com",
+     "benjamin.rogers@enron.com",
+     "jason.wiesepape@enron.com",
+     "joseph.capasso@enron.com"
+    ],
+    "subject": "MS 150: Making a List & Checking it Twice!",
+    "body": "---------------------- Forwarded by Claire Broido/HOU/ECT on 03/01/2000 01:53 PM --------------------------- Amelia Alder@ENRON 03/01/2000 01:39 PM To: Amelia Alder/OTS/Enron@ENRON cc: (bcc: Claire Broido/HOU/ECT) Subject: Making a List & Checking it Twice! Hey Team! Here we are, 6 weeks away from the MS150, at 139 and growing. Please check the list and if your name is not here and you think it should be, please let me know ASAP. We have a VERY IMPORTANT DEADLINE on MARCH 15. That's the day the MS Society determines team size, and that's when we qualify for our SUPER START. The largest team, as of March 15, starts first. If you rode with us last year, you'll recall going out the gate first, which is the only way to travel! I can't count you as registered unless you let me know you've registered with the MS Society, or we have registered you through Enron. If you have any friends thinking about joining the team, it's really important to get that done by March 15. Of course, you can still register after that date, but the fee raises to $35, and we ask your support in getting all our riders listed as soon as possible. THANK YOU"
+   },
+   {
+    "file": "maildir/rogers-b/all_documents/668.",
+    "from": "stuart.zisman@enron.com",
+    "rcpt": [
+     "mitch.robinson@enron.com",
+     "benjamin.rogers@enron.com",
+     "don.miller@enron.com"
+    ],
+    "subject": "Re: Revised Wheatland Proposal",
+    "body": "I agree that this should be included in the due diligence files but only after the confidentiality issue is resolved. The portion of the contract dealing with confidentiality states that information designated as \"confidential\" must be safeguarded. It is unclear whether the agreement itself constitutes \"confidential\" information and therefore I would suggest that the counterparty be contacted in order to obtain permission to disclose the draft agreement. I am nearly certain that they will not have any problem as they are likely to want the business from the purchaser of the facility. Stuart"
+   },
+   {
+    "file": "maildir/rogers-b/all_documents/431.",
+    "from": "tirwin@alleghenyenergy.com",
+    "rcpt": [
+     "ron.coker@enron.com",
+     "benjamin.rogers@enron.com"
+    ],
+    "subject": "ENRON -- Access to Data Room",
+    "body": "Your Round II Schedule indicates that the data room availability is October 6 to October 30. Can the use of the Data Room be extended to the bid due date of November 3 to facilitate members of our team who are working out of the data room directly in preference to printing hard copies of required materials?"
+   }
+  ]
+ },
+ {
+  "custodian": "quigley-d",
+  "messages": [
+   {
+    "file": "maildir/quigley-d/fin_desk/27.",
+    "from": "ben.thomason@enron.com",
+    "rcpt": [
+     "dutch.quigley@enron.com",
+     "paul.burkhart@enron.com",
+     "jaime.araoz@enron.com"
+    ],
+    "subject": "ENA Q4 Settlement",
+    "body": "Dutch, I am working on pulling together due diligence information for Global Finance in regards to ENA trading activity. One number that stood out to us on the ENA PRMA detail was the Q4 2000 settlement of approximately negative $500MM. We discussed possible reasons for this figure with the ENA accounting group, and they suggested it might be the Dec 2000 Nymex settlement, which was more that negative $600MM. They suggested that I could contact you for further insight. Would you have a few minutes sometime today to talk about that settlement? Thanks, Ben 5-2047"
+   },
+   {
+    "file": "maildir/quigley-d/fin_desk/8.",
+    "from": "feedback@intcx.com",
+    "rcpt": [
+     "iceuserslist@list.intcx.com",
+     "sales@intcx.com",
+     "icehelpdesk@intcx.com"
+    ],
+    "subject": "Holiday Terms for NEXT DAY Strip (N.A. Natural Gas)",
+    "body": "The following terms will be recognized on the ICE System for trading of North American Natural Gas for the upcoming holiday season. ! ! Fri Dec21: NEXT DAY = Dec22-26 ! Mon Dec24: NEXT DAY = Dec25-26 (Canada only) ! Mon Dec24: SAME DAY = Dec24-26 (Canada only) ! Wed Dec26: NEXT DAY = Dec27 (normal) ! Thu Dec27: NEXT DAY = Dec28 (normal) ! Fri Dec28: NEXT DAY = Dec29-31 (normal; Fri afternoon trades Jan1-2) ! Mon Dec31: NEXT DAY = Jan1-2 ! ! Please make use of the Bal Month & Custom Strips for any terms that do not conform to the above standards. ! ! For further information contact: ! Bud Hum at 312.674.4915 or ! Joe Adevai at 646.792.2620 ! ! HELPDESK at 770.738.2101 ! ! ! ! ! ! ! ! ! ! ! ! ! !"
+   },
+   {
+    "file": "maildir/quigley-d/fin_desk/23.",
+    "from": "greg.mcelwee@csfb.com",
+    "rcpt": [
+     "dutch.quigley@enron.com",
+     "malle@enron.com",
+     "guillaume.malle@csfb.com"
+    ],
+    "subject": "RE:",
+    "body": "Hello Dutch, We have sent to you this evening a copy of our confirmation for the Nymex natural gas transaction. We have amended the original transaction confirmation dated 21-Nov-00 to include this new transaction (we are only authorized to amend the existing transaction, not enter into a new one). Attached is a blacklined version of the new confirmation so that you may see the additions made to the final sent by fax. We appreciate you review and return of a signed confirmation tomorrow so that we may consider this deal closed. Our contact numbers are as follows should you have have any questions: Greg McElwee H (201) 653-4348 M (201) 637-6283 Guillame Malle H (212) 996-5177 M (212) 680-5715 Please fax the signed confirmation to the following numbers: (212) 743-4639 (917) 326-7899 Again, thank you for your patience and understanding in this matter. Best Regards, Greg McElwee -----Original Message----- From: Quigley, Dutch [mailto:Dutch.Quigley@ENRON.com] Sent: Friday, November 30, 2001 8:29 PM To: greg.mcelwee@csfb.com Subject: This e-mail is the property of Enron Corp. and/or its relevant affiliate and may contain confidential and privileged material for the sole use of the intended recipient (s). Any review, use, distribution or disclosure by others is"
+   },
+   {
+    "file": "maildir/quigley-d/fin_desk/16.",
+    "from": "feedback@intcx.com",
+    "rcpt": [
+     "iceuserslist@list.intcx.com",
+     "sales@intcx.com",
+     "icehelpdesk@intcx.com"
+    ],
+    "subject": "New Power Markets Coming This Week on ICE",
+    "body": "On Friday, December 7th, IntercontinentalExchange is expanding power offeri= ngs in three areas: 1. Into Southern and Into AEP hubs will be added. 2. Sixteen hourly balance-of-day strips will be added to four Northeast hub= s in Financial Power: NEPool PTF, and NYPOOL J, A, & G. 3. Power rolls (time spreads) will be added to all existing North American = power hubs. Please include these new markets in your portfolios on Friday and contact y= our IntercontinentalExchange sales representative with any questions. Best regards, IntercontinentalExchange =20"
+   }
+  ]
+ },
+ {
+  "custodian": "guzman-m",
+  "messages": [
+   {
+    "file": "maildir/guzman-m/all_documents/1443.",
+    "from": "valeried@timberline.com",
+    "rcpt": [
+     "jkorsmo@rhconst.com",
+     "greg1295@osubeavers.com",
+     "mark.guzman@enron.com"
+    ],
+    "subject": "FW: Good? Samaritan",
+    "body": "A dad walks into a market followed by his ten-year-old son. The kid is spinning a 25 cent piece in the air and catching it between his teeth. As they walk through the market someone bumps into the boy at just the wrong moment and the coin goes straight into his mouth and lodges in his throat. > He immediately starts choking, going blue in the face, and Dad starts panicking, shouting for help. > A middle-aged, non-descript man in a gray suit is sitting at a > coffee bar in the market reading his newspaper and sipping a cup of coffee. At the sound of the commotion, he looks up, puts his coffee cup down on the saucer, neatly folds his newspaper and places it on the counter. Then he gets up from his seat and makes his unhurried way across the market. > Reaching the boy, the man carefully takes hold of the boy's testicles and squeezes gently but firmly. After a few seconds the boy convulses violently and coughs up the 25 cent piece, which the man catches in his free hand. > Releasing the boy, the man hands the coin to the father and walks back"
+   },
+   {
+    "file": "maildir/guzman-m/all_documents/1693.",
+    "from": "ben.pacewic@phs.com",
+    "rcpt": [
+     "chartman@nbsrealtors.com",
+     "mark.guzman@enron.com"
+    ],
+    "subject": "game day",
+    "body": "Kevin has agreed to drive over to my house at 7am and pick us all up in the Winnebago. Guz - you can sleep in the back on the way down and a while after we get there if you want. This may prevent you from falling asleep at the Peacock later in the day. Chris can attest that sleeping in bars is not wise. Guz, I will leave a key under the front door mat. Rueben and Sepp know that you are coming over early. I'll leave some blankets on a couch for you. Almost everyone could sleep in the winny. Gas will be between $5 and $8 each. We will come home Sunday morning. B"
+   },
+   {
+    "file": "maildir/guzman-m/all_documents/1365.",
+    "from": "bill.iii@enron.com",
+    "rcpt": [
+     "pete.davis@enron.com",
+     "portland.shift@enron.com"
+    ],
+    "subject": "Re: Hour Ending 24 Bug",
+    "body": "Pete, This \"bug\" initiates as we roll into the new day, as for the exact time...we will have to watch closely and get back to you on that. The bug or false finals are an exact duplicate of the previous days finals for that schedule. If the current day has a null value for HE 24, no new final will overwrite the bug or false final. Consequently we are left with false finals that have absolutely no relation to anything that occurred on the current day. Going forward, we will do our best to document the occurence of these false finals. This bug is annoying and time consuming, but if recognized it seems that our best course of action is to run the report, identify the false finals as the variance, and then give you a call to manually change the values in CAPS so that it will archive properly. Any more feedback you have concerning this bug would be appreciated. Thank you for your help. Bill"
+   },
+   {
+    "file": "maildir/guzman-m/all_documents/1420.",
+    "from": "tim.belden@enron.com",
+    "rcpt": [
+     "portland.desk@enron.com",
+     "dan.dietrich@enron.com"
+    ],
+    "subject": "IMPORTANT - READ NOW",
+    "body": "The purpose of this message is to update employees on the status of the California Attorney General's order regarding the preservation of business information. Please NOTE THE IMPORTANT POLICIES DESCRIBED BELOW. We have negotiated procedures with the California Attorney General's office allowing each of you to manage your email and hard drive capacity while still preserving business information. Starting today, please implement the following business information retention policies: (1) PERSONAL EMAIL: can be kept, discarded, etc. at will. (2) BUSINESS EMAIL: do not delete any business email sent or received for 24 hours. This 24 hour delay will allow the network to save a backup copy of the email. After 24 hours, BUSINESS EMAIL may be kept, discarded, etc. at will. (3) WORD PROCESSING FILES OR FILE FRAGMENTS: do not delete any SAVED FILE or any FILE FRAGMENT. This policy covers any FILE or FILE FRAGMENT that you have saved on your hard disk or the network. (4) DATABASES: do not delete any information in DATABASES. (5) EXCEL SPREADSHEETS: do not delete any information in EXCEL SPREADSHEETS. (6) CALENDARS OR SCHEDULING PROGRAMS: do not delete any information. (7) OTHER ELECTRONIC DATA: do not delete any OTHER ELECTRONIC DATA. (8) HARD"
+   }
+  ]
+ },
+ {
+  "custodian": "zufferli-j",
+  "messages": [
+   {
+    "file": "maildir/zufferli-j/calendar/7.",
+    "from": "kate.joslyn@enron.com",
+    "rcpt": [
+     "kate.joslyn@enron.com",
+     "john.zufferli@enron.com",
+     "albert.luc@enron.com",
+     "brian.gillis@enron.com"
+    ],
+    "subject": "Transfer of Enron Direct Contracts to ED & Marking of Income",
+    "body": "Would you all be available to resolve how we are going to treat the old ED contracts? We need to address this prior to month end. Thanks Kate"
+   },
+   {
+    "file": "maildir/zufferli-j/inbox/30.",
+    "from": "mark.dupuy@enron.com",
+    "rcpt": [
+     "john.zufferli@enron.com",
+     "robert.hemstock@enron.com"
+    ],
+    "subject": "FW: Proposed Pool Code Changes January 28, 2002",
+    "body": "-----Original Message----- From: =09joan.mcinnis@powerpool.ab.ca@ENRON =20 Sent:=09Monday, January 28, 2002 2:50 PM To:=09dusk@telusplanet.net; pmolloy@iq2power.com; pmolloy@iq2power.com; dlo= wther@enmax.com; dogterom@sustainableenergy.com; cofferei@agrium.com; donal= d.murdock@airliquide.com; awong@albchem.com; kenhornby@aec.ca; powerpool@al= bertanewsprint.com; smithro@alpac.ca; dandrews@watt-ex.com; cjager@altastee= l.com; john_taylor@altagas.ca; rreum@altekpower.com; doug_brown@anadarko.co= m; jim.barrette@apachecorp.com; pbartsch@UtiliCorp.com; jconnery@arcfinanci= al.com; perryw@archean.com; candice_thiessen@transcanada.com; peter.wong@at= coelectric.com; Anders.Renborg@ATCOMidstream.com; wickhamc@novachem.com; jo= hn.ell@atcopower.com; john.ell@atcopower.com; jeff.campbell@huskyenergy.ca;= doug.heath@balancingpool.ca; heather@carea.ab.ca; heather@carea.ab.ca; rna= den@baytex.ab.ca; pat@bellpole.ca; cahobson@bpa.gov; boucherb@telusplanet.n= et; dowhands@bp.com; Brian_Lynam@br-inc.ca; joeno@telusplanet.net; markmc@c= alpinecanada.com; jim.munro@cfol.ab.ca; guido@cgeco.com; john@canhydro.com;= grantb@cnrl.com; d.angle@candelaenergy.com; Jon_Sigurdson@cargill.com; hug= h@topguncoatings.ca; heatehr@carea.ab.ca; slfr@chevron.com; pedwards@mail.c= hr.ab.ca; olenz@city.lethbridge.ab.ca; deaste@city.medicine-hat.ab.ca; dnic= hiporik@collicutt.com; cpspower@cadvision.com; plucas@maximpowercorp.com; m= yra.m.krein@can.conoco.com; brian.s.houghton@can.conoco.com; gtisdale@coral= -energy.com; countryl@telusplanet.net; gcannon@samson.com; john@canhydro.co= m; rvesak@prpddmi.com; richard_boettcher@degussa.com; keith.fardy@devoncana= da.com; john.wallace@deml.com; pgschubert@dow.com; dvp@icrossroads.com; jdp= ollock@duke-energy.com; ewalter@timetronics.com; mike.robinson@dynegy.com; = sjdemaio@efficientenergy.ab.ca; irelands@epenergy.com; eliasonseed@aol.com;= kaare.svidal@cnpl.enbridge.com; maxani@enerplus.com; janice.eby@engageener= gy.com; kwillis@enmax.com; dlowther@enmax.com; kwillis@enmax.com; Dupuy, Ma= rk; Dupuy, Mark; Joslyn, Kate; Dalgleish, Randel; bhahn@epcor.ca; bhahn@epc= or.ca; joeg@encoreenergy.com; jfitzowi@epcor.ca; jimo@encoreenergy.com; gwa= gner@epcor.ca; eholsen@telusplanet.net; rob.baker@eal.ab.ca; vance.wanchula= k@apachecorp.com; heather@carea.ab.ca; geoandpam@shaw.ca; aboytinck@msn.com= ; lasmundson@gibsons.com; gqonions@gouwqualityonions.com; hkh2o@telusplanet= .net; ghowell@compusmart.ab.ca; fred.ware@hbc.com; charles.s.sardo@huskyene= rgy.ca; gwalter@telusplanet.net; cnebrigich@idacorpenergy.com; kevinm@cyber= tech.ca; richard.gallant@esso.com; tdechert@iq2power.com; ahofer@telusplane= t.net; irrican@telusplanet.net; jenifer@telusplanet.net; ken_merritt@keyspa= ncanada.com; ayresg@kochind.com; darryl.havrelock@ibpinc.com; john.davies@l= ethbridgeironworks.com; ldjva@telusplanet.net; bill_welk@luscar.com; nicode= me@energiemaclaren.com; dmortimer@hydro.mb.ca; heather@carea.ab.ca; mulholc= l@mapleleaf.ca; radamson@mariahpower.com; plucas@maximpowercorp.com; v.mant= ey@mercuryelectric.com; jjoys@millarwestern.com; john.maher@mirant.com; jke= rs@pmclp.com; moyerv@ncecalgary.com; dave_axford@nexeninc.com; heather@care= a.ab.ca; jnish@northstonepower.com; terry_rendflesh@transcanada.com; rod_ky= le@transcanada.com; fardyk@axl.ca; rnaden@baytex.ab.ca; jmarsh@olympia-ener= gy.com; peterklok@telusplanet.net; Marie_Gallant@PanCanadianEnergy.com; kuk= ulski@pembina.com; petem@pengrowth.com; kristian.tange@pennwest.com; jdmill= er@petro-canada.ca; george.radan@gen.pge.com; jkers@pmclp.com; mike.macdoug= all@powerex.com; blainem@bigfoot.com; heather@carea.ab.ca;"
+   },
+   {
+    "file": "maildir/zufferli-j/inbox/27.",
+    "from": "greg.johnston@enron.com",
+    "rcpt": [
+     "john.zufferli@enron.com",
+     "eric.le@enron.com",
+     "dianne.seib@enron.com"
+    ],
+    "subject": "FW: Action List (ECC)_v1.DOC",
+    "body": "-----Original Message----- From: \"BRYAN DUGUID\" <bryan.duguid@blakes.com>@ENRON Sent: Tuesday, January 29, 2002 10:22 PM To: Johnston, Greg Subject: Action List (ECC)_v1.DOC Greg, Further to my email to you earlier today, we have tracked down the reasons for the discrepancies in the termination dates in your list versus the chart we have prepared. In many instances, that contract was reviewed by BCG, and it was determined that the wrong termination date was set, given the provisions of the contract. I understand that a memo with respect to this issue likely was forwarded to ECC by Chris Christopher and John Eamon on January 8, 2002 ( a copy of which is attached), which set out that based on our review of the contracts, the following parties and their proper termination dates are: AEC Marketing, physical, gas - February 1, 2002 Calpine Canada Natural Gas Partnership (Encal) physical, gas - February 1, 2002 El Paso Merchant Energy, physical gas - February 1, 2002 Williams Energy Marketing & Trade Co. - February 1, 2002 Our review last night also revealed the following: Baytex physical, gas- ECC list says terminated January 6/02, but the January 4/02 letter from ECC set a termination date of January 8/02,"
+   },
+   {
+    "file": "maildir/zufferli-j/inbox/43.",
+    "from": "carol.moline@powerpool.ab.ca",
+    "rcpt": [
+     "john.davies@lethbridgeironworks.com",
+     "john.zufferli@enron.com"
+    ],
+    "subject": "Power Pool",
+    "body": "This email is acknowledgement from the Power Pool of Alberta of the change in direct sales/forward contract registration for contracts that are currently registered with the Power Pool between Lethbridge Ironworks and Enron Canada Power Corporation for trading after December 29 HE 1 2001. On January 7 the Power Pool received your acknowledgement of Enron's change in the source asset for the direct sales/forward contract registrations for contract # 934 to modify the source from the Sundance 3 unit (SD3) to Enron's unmetered source asset (ECP-). The modified registration terms will be effective December 29 HE 1 2001 and will apply until the expiry date of the contract registration for net settlement purposes. In addition, as has been verbally communicated to you, the Power Pool was required to modify a direct sales/forward contract with Enron Canada Power Corporation that was registered with the Power Pool in 2001 due to the sale of the Sundance 3 unit effective December 29 HE 1 2001. The details of these changes are provided below. Original Contract Number: 933 Terminated: December 28 HE 24 Source: Enron Sundance 3 (Enron's metered asset) Sink: LI1L New Contract Number: 2053 Begin Date: December 29 HE 1 Expiry Date:"
+   }
+  ]
+ },
+ {
+  "custodian": "allen-p",
+  "messages": [
+   {
+    "file": "maildir/allen-p/all_documents/604.",
+    "from": "phillip.allen@enron.com",
+    "rcpt": [
+     "mike.grigsby@enron.com",
+     "jane.tholt@enron.com",
+     "frank.ermis@enron.com",
+     "tori.kuykendall@enron.com"
+    ],
+    "subject": "Meeting with Governor Davis, need for additional comments/suggestions",
+    "body": "---------------------- Forwarded by Phillip K Allen/HOU/ECT on 12/29/2000 10:13 AM --------------------------- From: Steven J Kean@ENRON on 12/28/2000 09:19 PM CST To: Tim Belden/HOU/ECT@ECT, Phillip K Allen/HOU/ECT@ECT, David Parquet/SF/ECT@ECT, Marty Sunde/HOU/EES@EES, William S Bradford/HOU/ECT@ECT, Scott Stoness/HOU/EES@EES, Dennis Benevides/HOU/EES@EES, Robert Badeer/HOU/ECT@ECT, Jeff Dasovich/NA/Enron@Enron, Sandra McCubbin/NA/Enron@Enron, Susan J Mara/NA/Enron@ENRON, Richard Shapiro/NA/Enron@Enron, James D Steffes/NA/Enron@Enron, Paul Kaufman/PDX/ECT@ECT, Mary Hain/HOU/ECT@ECT, Joe Hartsoe/Corp/Enron@ENRON, Mark Palmer/Corp/Enron@ENRON, Karen Denne/Corp/Enron@ENRON cc: Subject: Meeting with Governor Davis, need for additional comments/suggestions We met with Gov Davis on Thursday evening in LA. In attendance were Ken Lay, the Governor, the Governor's staff director (Kari Dohn) and myself. The gov. spent over an hour and a half with us covering our suggestions and his ideas. He would like some additional thoughts from us by Tuesday of next week as he prepares his state of the state address for the following Monday. Attached to the end of this memo is a list of solutions we proposed (based on my discussions with several of you) as well as some background materials Jeff Dasovich and I prepared. Below are my notes from the meeting regarding our proposals, the governor's ideas, as well as my overview of the situation based on the governor's comments: Overview: We"
+   },
+   {
+    "file": "maildir/allen-p/all_documents/471.",
+    "from": "phillip.allen@enron.com",
+    "rcpt": [
+     "gthorse@keyad.com",
+     "djack@keyad.com"
+    ],
+    "subject": "",
+    "body": "Gentlemen, Today I finally received some information on the status of the work done to date. I spoke to Hugo Alexandro at Cuatro Consultants. The property is still in two parcels. Hugo has completed a platt to combine into one lot and is ready to submit it to the city of San Marcos. He has also completed a topographical survey and a tree survey. In addition, he has begun to coordinate with the city on the replatting and a couple of easements on the smaller parcel, as well as, beginning the work on the grading. Hugo is going to fax me a written letter of the scope of work he has been engaged to complete. The total cost of his services are estimated at $38,000 of which $14,000 are due now for work completed. We are trying to resolve the issues of outstanding work and bills incurred by the original developer so we can obtain the title to the land. If we can continue to use Cuatro then it would be one less point of contention. Hugo's number is 512-295-8052. I thought you might want to contact him directly and ask him some questions. I spoke to him about the"
+   },
+   {
+    "file": "maildir/allen-p/all_documents/8.",
+    "from": "critical.notice@enron.com",
+    "rcpt": [
+     "ywang@enron.com",
+     "patti.sullivan@enron.com",
+     "phillip.k.allen@enron.com",
+     "jane.m.tholt@enron.com",
+     "mike.grigsby@enron.com"
+    ],
+    "subject": "New Notice from Transwestern Pipeline Co.",
+    "body": "Transwestern Pipeline Co. posted new notice(s) since our last check at 12/13/2000 4:00:01 PM, the newest notice looks like: Capacity Constraint, Dec 13 2000 4:03PM, Dec 14 2000 9:00AM, Dec 15 2000 8:59AM, 2241, Allocation - San Juan Lateral Please click the following to go to the web site for detail. http://ios.ets.enron.com/infoPostings/shared/et_noncritical_notice.asp?company =60"
+   },
+   {
+    "file": "maildir/allen-p/all_documents/338.",
+    "from": "phillip.allen@enron.com",
+    "rcpt": [
+     "tara.sweitzer@enron.com",
+     "brenda.flores-cuellar@enron.com"
+    ],
+    "subject": "",
+    "body": "Tara, Please make the following changes: FT-West -change master user from Phillip Allen to Keith Holst IM-West-Change master user from Bob Shiring to Phillip Allen Mock both existing profiles. Please make these changes on 1/17/00 at noon. Thank you Phillip"
+   }
+  ]
+ },
+ {
+  "custodian": "dasovich-j",
+  "messages": [
+   {
+    "file": "maildir/dasovich-j/interconnection/10.",
+    "from": "geoff.pollard@enron.com",
+    "rcpt": [
+     "jeff.dasovich@enron.com",
+     "john.larsen@enron.com"
+    ],
+    "subject": "FW: SFSU Cogen Relocation - Gas Metering",
+    "body": "Jeff, I am seeking your advice/assistance on an issue with PG&E at San Francisco State University. The attached message indicates that PG&E in unable to meet our schedule requirements for the installation of meters on our generator relocation project at SFSU. We have been working since April to try and ensure this problem would not occur. PG&E has consistently either not responded or been slow to respond. When we did hear back from them, they always assured us that there would be no problem, but they never made firm committments in their responses. Even now they are not providing firm dates. The delays they are causing will create substantial customer satisfaction problems, and subjects us to Liquidated Damages of $850 per day. I have a call into Bob Kinert at PG&E to inform him of our mutual customer satisfaction issue. I am hoping he will be able to take action to improve the schedule. What steps do you reccommend if Bob is of little or no assistance? Thanks for your timely support. Geoff Geoff Pollard, PE Account Manager UC/CSU Program Enron Energy Services 925-543-3763 -----Original Message----- From: Larsen, John Sent: Thursday, December 09, 1999 11:22 AM To: Pollard, Geoff Subject:"
+   },
+   {
+    "file": "maildir/dasovich-j/interconnection/9.",
+    "from": "dirk.vanulden@enron.com",
+    "rcpt": [
+     "jeff.dasovich@enron.com",
+     "rob.cone@enron.com",
+     "richard.crevelt@enron.com"
+    ],
+    "subject": "FW: URGENT- CSUF Interconnection Study and CEQA",
+    "body": "What is the matter with Bob? What does he mean by 'Enron/CSU has not made the decision'? Did we say that and if so, who? Dirk -----Original Message----- From: Fantz, Donald [SMTP:DIF1@pge.com] Sent: Thursday, December 16, 1999 8:49 AM To: 'Dirk VanUlden@Enron' Subject: FW: URGENT- CSUF Interconnection Study and CEQA Dirk, FYI....I didn't see you on the cc: ....Don Fantz From: Kinert, Robert Sent: Wednesday, December 15, 1999 4:52 PM To: 'Dick Smith'; 'Rob Cone' Cc: Fantz, Donald; Hagen, John H; Colicchia, Rocco; Raymond, Galen Subject: URGENT- CSUF Interconnection Study and CEQA Dick and Rob: Clearly, all of us at PG&E, CSUF and Enron want the Detailed Interconnection Study for CSUF finalized and released as soon as possible. Given your project's time line it is important for us to avoid any unnecessary delays. There are several critical path issues related to CEQA that urgently need to be resolved. In particular, we were very concerned to learn a few days ago from Enron that CSUF has not made a decision about including our interconnection work in its CEQA process. That decision has a very substantial impact on our work, and in particular jeopardizes our ability to even begin our work by"
+   },
+   {
+    "file": "maildir/dasovich-j/interconnection/11.",
+    "from": "dirk.vanulden@enron.com",
+    "rcpt": [
+     "rob.cone@enron.com",
+     "robertb@csufresno.edu",
+     "dicks@csufresno.edu",
+     "jeff.dasovich@enron.com"
+    ],
+    "subject": "FW: PG&E drawing request",
+    "body": "What is so proprietary about their distribution drawings? Should we start kicking butt? Dirk -----Original Message----- From: \"Fantz, Donald\" <DIF1@pge.com>@ENRON@EES Sent: Thursday, December 02, 1999 7:46 PM To: Cone, Rob Cc: \"'Dick Smith'\" <dick_smith@csufresno.edu>@ENRON@EES; vanUlden, Dirk; \"Hagen, John H\" <JHH4@pge.com>@ENRON@EES; \"Kinert, Robert\" <RCK3@pge.com>@ENRON@EES Subject: RE: PG&E drawing request Rob, I apologize for the misunderstanding of what we would provide you. Our drawings are proprietary. After furture discussions with our experts, they feel that what we have provided, should do what you need. Mr. Raymond will not be providing the drawing but should be able to offer the guidance, to get where we need to go, to further the project. I have been advised that the description that we provided you will adequately cover the \"ground\" needed in the CEQA. Mr. Raymond (Ph. # 559.263.5239) can advise if you have further issues. He is an excellent resource and has done a lot of work on our end with similar projects. This is why we are confident with what we provided. If the above does not further the issue please call me immediately at 559.263.5528. I will be out of the office on vacation tomorrow. Don Fantz > From: Rob Cone[SMTP:Rob_Cone@enron.com] >"
+   },
+   {
+    "file": "maildir/dasovich-j/interconnection/15.",
+    "from": "dirk.vanulden@enron.com",
+    "rcpt": [
+     "cmy1@pge.com",
+     "cunningh@sjsuvm1.sjsu.edu",
+     "skrein@csc.com",
+     "jeff.dasovich@enron.com"
+    ],
+    "subject": "Metering Issues at SJSU",
+    "body": "Calvin - thanks for explaining the situation at SJSU. Steve Krein, our metering expert and the architect of the meter installation at SJSU, mentioned that there currently is no extra phone line so yours will have to be a new, additional one. Further, as PG&E insisted on the bi-directional meter, PG&E ought to pick up the incremental cost of that device versus a standard meter. Then, once the PG&E meter has been installed (Steve thinks there is a meter location left on the board), we will need to reprogram the meter for which PG&E will be charged. In light of all of this effort, couldn't PG&E relent and accept the Enron IDS files? This appears to be an uneconomic investment. Dirk A.van Ulden (925) 543-3879 Fax (925) 543-3550 Dirk_vanUlden@enron.com"
+   }
+  ]
+ }
+]
