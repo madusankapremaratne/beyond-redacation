@@ -15,3 +15,5 @@ enron_mail.tar.gz
 **/.kotlin/
 **/local.properties
 **/*.apk
+
+paper/
