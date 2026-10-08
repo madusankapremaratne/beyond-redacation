@@ -6,7 +6,9 @@ Branch: `jev`
 
 Reviewed baseline: `c7f052b7c37321c199f79c79275763796d227c48` (`main`)
 
-Status: proposed work; this commit adds a plan only. No new experiments, API calls, performance results, or publication claims are implied.
+Status: P0 evidence audit completed on 8 October 2026 with unresolved readiness gates. See [audit report](P0_EVIDENCE_AUDIT.md), [claim matrix](claims-evidence-matrix.md), [related work](related-work-matrix.md), and [refined comparison protocol](audit/p0-comparison-protocol.md). Original experiment caches/model digests and the authoritative current manuscript remain missing. No new model experiments or live Jev implementation are implied.
+
+P0 changes the novelty assessment: PrivScope already covers task necessity and abstraction hierarchies; PlanTwin already covers structured abstraction and cumulative disclosure budgets. A new combination is not sufficient novelty. The proposed study must demonstrate incremental value against these close baselines, with independently grounded graph leakage, task utility and release coverage. The refined P0 protocol governs subsequent study design where it differs from this initial plan.
 
 ## 1. Decision and intended contribution
 
@@ -152,7 +154,7 @@ Indicative schedule: eight weeks after data, API access and annotation capacity 
 
 | Phase | Timing | Work and planned files | Exit criterion |
 | --- | --- | --- | --- |
-| P0: evidence audit | Week 1 | `docs/claims-evidence-matrix.md`, `docs/related-work-matrix.md`, pinned environment; recover original result artifacts | Every manuscript claim classified as supported, provisional or unsupported; comparison protocol agreed |
+| P0: evidence audit | Audit completed 8 Oct 2026 | Claim/reference/related-work matrices, artifact manifests, reproducibility audit and proposed protocol delivered | Available claims audited; historical runtime pinning, missing result recovery, current manuscript and collaborator protocol agreement remain unresolved |
 | P1: labels/protocol | Weeks 1–2 | `evaluation/protocols/jev_protocol.md`, manifests, annotation guide, split validator | Pilot adjudicated; no duplicate/thread overlap; metrics and held-out analysis frozen |
 | P2: controller | Weeks 2–3 | `framework/decision_schema.py`, `framework/disclosure_policy.py`, `framework/disclosure_ledger.py`, `framework/candidate_generation.py`, `framework/controller.py` | Deterministic rules path works with local fixtures; no release on missing required evidence |
 | P3: judge adapters | Weeks 3–4 | `framework/judges/base.py`, `rules.py`, `local_llm.py`, `jev.py`; explicit offline/hosted modes; optional dependency and environment examples | Adapters preserve typed distributions/errors; minimized payload contract verified; Jev version recorded |
@@ -160,7 +162,7 @@ Indicative schedule: eight weeks after data, API access and annotation capacity 
 | P5: held-out study | Weeks 5–7 | Locked run configurations, raw-output hashes, paired results, ablations and audit logs | All predefined arms complete or failures reported; measured CIs/cost/latency; test set used once |
 | P6: paper package | Week 8 | Evidence-linked tables/figures, limitations, artifact instructions and manuscript revision | Claims match actual data and deployment mode; no unsupported on-device or novelty claims |
 
-All files named above are planned additions, not created by this planning commit. Keep notebooks 07–09 reproducible. Add reusable Python modules and let new notebooks call them. Check dependencies such as spaCy and its model explicitly; they are used in code but not fully represented in the current requirements list.
+P0 audit documents and manifests have now been added; P1–P6 implementation files remain planned additions. Keep notebooks 07–09 reproducible. Add reusable Python modules and let new notebooks call them. Check dependencies such as spaCy and its model explicitly; they are used in code but not fully represented in the current requirements list.
 
 Cache keys must include dataset/item hash, split, candidate, prompt/schema/policy version, model identifier/digest, settings, history hash and pipeline revision. Record request/response times, retries, token usage when provided and unknown cost when unavailable. Do not infer an immutable model from `latest`. Private mappings and raw private logs stay local and excluded from git; publish only reviewed artifacts and regeneration metadata.
 
@@ -179,7 +181,7 @@ Jev access is a P3 dependency, not a reason to block P0–P2. If unavailable, co
 
 Before asserting novelty, search primary papers on task-aware anonymization, semantic generalization, graph/relational privacy, cumulative inference, adaptive disclosure, selective prediction and privacy-aware routing. Maintain query/date/source records and a comparison matrix covering threat model, task dependence, multi-turn exposure, decision model, independent gold labels and privacy–utility analysis.
 
-A concrete overlap is **Just Ask Jev / RLCDAlignBench**, whose September 2026 preprint includes privacy-violation detection and varies judge context [S4]. Therefore “Jev as a privacy judge” must not be claimed as new. The full paper and implementation must be compared during P0; this plan checked its abstract, not a complete replication. Our proposed distinction—cumulative disclosure control before release with independently measured graph leakage and task utility—still needs validation against broader prior art.
+A concrete overlap is **Just Ask Jev / RLCDAlignBench**, whose September 2026 preprint includes privacy-violation detection and varies judge context [S4]. Therefore “Jev as a privacy judge” must not be claimed as new. P0 has now inspected the full Jev paper, especially §G.6, alongside PrivScope and PlanTwin; no replication is claimed. Our proposed distinction—cumulative disclosure control before release with independently measured graph leakage and task utility—still needs validation against broader prior art.
 
 Proceed to a stronger methodological paper only if adaptive control yields a reproducible improvement over fixed generalization and rules/local-LLM controllers under matched conditions. If Jev adds only speed/cost value, report that as an engineering finding. If it adds no value, retain the broader privacy study and report the null result. If gains rely on sending protected content to a hosted judge, they do not validate the private-runtime claim.
 
@@ -195,4 +197,4 @@ Sources checked on 8 October 2026. Documentation is mutable; capture versions/ac
 - **[S4]** Guo et al., [Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures](https://arxiv.org/abs/2609.29429), preprint, 24 September 2026: overlapping Jev privacy-judge evaluation; not proof of this proposed controller's effectiveness.
 - **[S5]** Repository sources at the baseline commit: [generalization](../framework/generalization.py), [extraction](../framework/extraction.py), [README](../README.md), [notebook 07](../evaluation/07_Evaluation_Harness_N50.ipynb), [notebook 08](../evaluation/08_Relation_Aware_Evaluation_N50.ipynb), [notebook 09](../evaluation/09_Edge_Runtime_Benchmark_Comparison.ipynb).
 
-**First implementation step:** complete P0 and the labelled pilot protocol before adding a live Jev gate. This planning commit does not initiate paid inference, upload datasets, or change runtime behavior.
+**Next implementation step:** resolve the documented evidence blockers and finalize the P1 labeled pilot protocol before adding a live Jev gate. The P0 audit does not initiate paid inference, upload datasets, or change runtime behavior.

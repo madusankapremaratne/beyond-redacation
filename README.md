@@ -1,18 +1,20 @@
 # Beyond Redaction: Hybrid EdgeLLM Architectures for Query-Time Privacy
 
+> **Evidence status — 8 October 2026:** [P0 audit](docs/P0_EVIDENCE_AUDIT.md) distinguishes implemented behavior, saved results and unsupported claims. N=50 and device summaries below are historical records, not independently reproduced results. SER/RER are overlap proxies; complete structural privacy, preserved task utility and full mobile LLM execution are not established. Read the [claim matrix](docs/claims-evidence-matrix.md) before using these results in a manuscript.
+
 This repository contains the official experimental framework, dataset validation pipelines, and evaluation benchmarks for the *Beyond Redaction* research project.
 
 > New to this project? [`overview.md`](overview.md) is a short, non-technical What / Why / How, with the architecture and current results — start there before this README.
 
 ## 🎯 Research Core & Thesis
 
-Traditional privacy-preserving methods focus strictly on *Instance-Level Anonymization* (protecting explicit PII data strings using regex or basic Named Entity Recognition). However, they are fundamentally blind to **Inference-Time Structural Leakage**—where cumulative, unredacted corporate context across multiple queries allows cloud providers to algorithmically reconstruct sensitive organizational matrices and employee profiles over time.
+Literal identifier masking does not by itself establish protection against inference from surrounding context. This project investigates structural disclosure in hybrid local–cloud LLM workflows. Broader anonymization and cumulative-disclosure methods already exist; see the [primary-source comparison](docs/related-work-matrix.md). Cumulative reconstruction has not yet been evaluated by this repository.
 
-*Beyond Redaction* introduces a dual-layer defense mechanism running entirely on-device across heterogeneous edge platforms (Android, iOS, and macOS via Ollama):
+*Beyond Redaction* explores a dual-layer defense design. The repository contains a local Ollama-based prototype and native deterministic detection/substitution components; the complete LLM pipeline has not been demonstrated on Android and iOS:
 1. **EdgeLLM Proxy Execution:** Traps the user query lifecycle locally, breaking the centralized collection of multi-turn transaction histories.
 2. **Intent-Preserving Semantic Generalization:** Instead of brute-force token deletion (which destroys semantic utility when dealing with dense entity clusters), the local edge runtime intelligently abstracts operational concepts, entity networks, and corporate context before they exit the security perimeter. 
 
-The cloud-bound LLM receives a highly generalized prompt that preserves processing utility while ensuring the underlying organizational infrastructure remains completely closed to reverse-engineering.
+The prototype sends generalized text to downstream inference. Its effect on downstream task utility and cumulative structural reconstruction requires independent evaluation; no complete reverse-engineering protection is established.
 
 
 
@@ -114,7 +116,7 @@ Relation-aware generalization improved SER on 29/50 samples, was worse on 8/50, 
 
 #### Deterministic pipeline latency (N=20, real hardware, 2026-08-24)
 
-| Platform | Cold start (ms) | Steady-state mean (ms) | Steady-state median (ms) | Peak memory (mean, MB) |
+| Platform | Cold start (ms) | Steady-state mean (ms) | Steady-state median (ms) | Post-call app memory (mean, MB; definitions differ) |
 | --- | --- | --- | --- | --- |
 | macOS (Python/spaCy) | 10.5 | 19.04 | 14.18 | n/a |
 | **iOS** (NLTagger, real device) | 114.0 | **1.20** | **0.83** | 72.7 |
@@ -145,7 +147,7 @@ import urllib.request
 import pandas as pd
 from tqdm import tqdm
 
-TAR_URL = "[https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz](https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz)"
+TAR_URL = "https://www.cs.cmu.edu/~enron/enron_mail_20150507.tar.gz"
 TAR_FILE = "enron_mail.tar.gz"
 
 # Download canonical archive directly to workspace

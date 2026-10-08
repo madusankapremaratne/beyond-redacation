@@ -1,0 +1,249 @@
+{
+  "repository": "madusankapremaratne/sovereign-learner",
+  "audited_commit": "fe193db297e807668a96a559ea48feffbb0de903",
+  "files": [
+    {
+      "path": "results/reports/oulad_experiments_20260122_112323.json",
+      "git_blob_sha": "f49cbcd20714d12f43eb594f816f9f13b3531e2c"
+    },
+    {
+      "path": "experiments/exp02_oulad_hybrid_learning.py",
+      "git_blob_sha": "5756e08a52cb057e39f13d707d06128c6354aea3"
+    },
+    {
+      "path": "experiments/exp04_agentic_evaluation.py",
+      "git_blob_sha": "7679cb3ffa5b8d1d6fa67e54d72a61fb3b585f5f"
+    },
+    {
+      "path": "experiments/exp01_semantic_generalization.py",
+      "git_blob_sha": "2ab7cbd1fab9e436902ec4f7a24f6ffd184b3cba"
+    }
+  ],
+  "cloud_mode_reports": [
+    {
+      "path": "results/experiment_report_20260122_203623.json",
+      "blob_sha": "8f1ac00a331be96bade534eda14b8e218465d640",
+      "cloud_mode": "simulated",
+      "total_queries": 1200
+    },
+    {
+      "path": "results/reports/experiment_report_20260113_213327.json",
+      "blob_sha": "baa261417fe19a2064b838613e1b684a88694942",
+      "cloud_mode": "simulated",
+      "total_queries": 5
+    },
+    {
+      "path": "results/reports/experiment_report_20260113_213407.json",
+      "blob_sha": "80f7ef5be1e569ce10cdddafea4a9fc10469c1a6",
+      "cloud_mode": "simulated",
+      "total_queries": 5
+    },
+    {
+      "path": "results/reports/experiment_report_20260113_213515.json",
+      "blob_sha": "8100e98a7513e612bd209e128158a57dfc292703",
+      "cloud_mode": "simulated",
+      "total_queries": 5
+    },
+    {
+      "path": "results/reports/experiment_report_20260113_213622.json",
+      "blob_sha": "315690259944027dcd551ae953add4b90f24ee43",
+      "cloud_mode": "real",
+      "total_queries": 10
+    },
+    {
+      "path": "results/reports/experiment_report_20260113_213803.json",
+      "blob_sha": "c81c8c986810cafcc674c24f8b2e51f85c4a32a9",
+      "cloud_mode": "simulated",
+      "total_queries": 50
+    },
+    {
+      "path": "results/reports/experiment_report_20260114_072220.json",
+      "blob_sha": "93bf78a8ae63fe7d0c682c397162b6217659b465",
+      "cloud_mode": "simulated",
+      "total_queries": 1
+    },
+    {
+      "path": "results/reports/experiment_report_20260114_095634.json",
+      "blob_sha": "f1c6a518ddb36715be3d11ee07f75358035b9042",
+      "cloud_mode": "simulated",
+      "total_queries": 1
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_112256.json",
+      "blob_sha": "6d9c0a8f22ad4076c93369ee454b255c263dd8be",
+      "cloud_mode": "simulated",
+      "total_queries": 55
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_113353.json",
+      "blob_sha": "ecebbf51ea1d0d7b1815116e4a2e5a71fc46a0bb",
+      "cloud_mode": "simulated",
+      "total_queries": 55
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_113715.json",
+      "blob_sha": "59f63473b3ad6ace99b5a8e5e2e223de923a61c1",
+      "cloud_mode": "simulated",
+      "total_queries": 1255
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_114219.json",
+      "blob_sha": "87faa1e4d234a24dd9541af8673fc0c78fc20191",
+      "cloud_mode": "simulated",
+      "total_queries": 1255
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_115053.json",
+      "blob_sha": "8be9e85b9cfe17f3d4ad46c05115ac4204702d2a",
+      "cloud_mode": "simulated",
+      "total_queries": 1255
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_115502.json",
+      "blob_sha": "4b0a6865186bb23e556566e1683e26adb45c0af1",
+      "cloud_mode": "simulated",
+      "total_queries": 1200
+    },
+    {
+      "path": "results/reports/experiment_report_20260122_120140.json",
+      "blob_sha": "0a7107bc28a197909b8edc4b37c8e25c224dfb79",
+      "cloud_mode": "simulated",
+      "total_queries": 1200
+    },
+    {
+      "path": "results/reports/final_blind_benchmark.json",
+      "blob_sha": "87faa1e4d234a24dd9541af8673fc0c78fc20191",
+      "cloud_mode": "simulated",
+      "total_queries": 1255
+    },
+    {
+      "path": "results/reports/final_lowercase_benchmark.json",
+      "blob_sha": "8be9e85b9cfe17f3d4ad46c05115ac4204702d2a",
+      "cloud_mode": "simulated",
+      "total_queries": 1255
+    }
+  ],
+  "selected_oulad_report": {
+    "experiment_1": {
+      "experiment": "Passive Struggle Detection",
+      "hypothesis": "Full local access outperforms sanitized cloud access",
+      "results": {
+        "full_local": {
+          "condition": "full_local",
+          "total_students": 8769,
+          "struggling_students": 4154,
+          "f1_score": 0.9100025068939583,
+          "precision": 0.9492677824267782,
+          "recall": 0.8738565238324506,
+          "accuracy": 0.9181206522978674,
+          "features_used": [
+            "total_clicks",
+            "avg_clicks_per_resource",
+            "std_clicks",
+            "resources_accessed",
+            "active_days",
+            "activity_span",
+            "clicks_per_day",
+            "avg_score",
+            "std_score",
+            "assessments_submitted",
+            "studied_credits",
+            "num_of_prev_attempts"
+          ]
+        },
+        "sanitized_cloud": {
+          "condition": "sanitized_cloud",
+          "total_students": 8769,
+          "struggling_students": 4154,
+          "f1_score": 0.8106653620352251,
+          "precision": 0.8239681750372949,
+          "recall": 0.7977852672123255,
+          "accuracy": 0.8234690386589121,
+          "features_used": [
+            "resources_accessed",
+            "assessments_submitted",
+            "studied_credits"
+          ]
+        }
+      },
+      "gaps": {
+        "f1_gap": 0.09933714485873324,
+        "f1_gap_percent": 12.253779365796664,
+        "accuracy_gap": 0.09465161363895536
+      },
+      "conclusion": "Local access achieves 0.099 higher F1 (12.3% improvement)"
+    },
+    "experiment_2": {
+      "experiment": "Complex Query Resolution",
+      "hypothesis": "Hybrid approach outperforms local-only and cloud-only",
+      "results": {
+        "local_only": {
+          "condition": "local_only",
+          "mse": 291.0914330764515,
+          "r2": 0.22870818551389793,
+          "execution_time_ms": 621.4158535003662,
+          "features_used": [
+            "simple_clicks",
+            "weight",
+            "gender",
+            "highest_education"
+          ]
+        },
+        "cloud_sanitized": {
+          "condition": "cloud_sanitized",
+          "mse": 357.5146797589225,
+          "r2": 0.052709510745871824,
+          "execution_time_ms": 86.52591705322266,
+          "features_used": [
+            "weight"
+          ]
+        },
+        "hybrid_sovereign": {
+          "condition": "hybrid_sovereign",
+          "mse": 247.00619373265758,
+          "r2": 0.3455188517920723,
+          "execution_time_ms": 864.4869327545166,
+          "features_used": [
+            "simple_clicks",
+            "complex_clicks",
+            "weight",
+            "gender",
+            "highest_education"
+          ]
+        }
+      },
+      "improvements": {
+        "improvement_vs_cloud_percent": 30.910195380168016,
+        "improvement_vs_local_percent": 15.144808240445704,
+        "speedup_vs_cloud_percent": 0
+      },
+      "conclusion": "Hybrid reduces error by 15.1% vs Local (despite Local being 0.7x faster) and 30.9% vs Cloud"
+    },
+    "experiment_3": {
+      "experiment": "Competency Vector Portability",
+      "hypothesis": "Sovereign transfer reduces cold-start and improves prediction",
+      "results": {
+        "cold_start": {
+          "condition": "cold_start",
+          "total_students": 3538,
+          "avg_convergence_interactions": 258.8841153193895,
+          "prediction_accuracy": 0.5,
+          "mse": 105486.91817051469
+        },
+        "sovereign_transfer": {
+          "condition": "sovereign_transfer",
+          "total_students": 3538,
+          "avg_convergence_interactions": 133.61007885811193,
+          "prediction_accuracy": 0.6706755228942904,
+          "mse": 31562.433148126343
+        }
+      },
+      "improvements": {
+        "convergence_reduction_percent": 48.39000504404257,
+        "accuracy_improvement": 0.17067552289429044
+      },
+      "conclusion": "Sovereign transfer reduces convergence time by 48.4% and improves accuracy by 17.1%"
+    }
+  },
+  "warning": "Recorded data, not rerun experiments. Portability calculations are assumption-driven; see code and claims matrix."
+}

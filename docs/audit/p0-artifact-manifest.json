@@ -1,0 +1,378 @@
+{
+  "audit_date": "2026-10-08",
+  "repository": "madusankapremaratne/beyond-redacation",
+  "audited_commit": "eed6b58aa86b95cca5d5a3c0e7d9a8d0120aca68",
+  "audited_tree": "399c84356fd38d8b62ca4fbd5b94db67a98bfcdc",
+  "hash_type": "Git blob SHA-1 object identifier (not SHA-256)",
+  "files": [
+    {
+      "path": ".env.example",
+      "git_blob_sha": "23460f5bf3b87610cdc971351a7812073fd1eba1",
+      "bytes": 235,
+      "mode": "100644"
+    },
+    {
+      "path": ".gitignore",
+      "git_blob_sha": "f25aa1e3ac284a9347d5d4f15e68bfa324555987",
+      "bytes": 181,
+      "mode": "100644"
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "e48b640c1655e963767345c114c41e7c6b583375",
+      "bytes": 19336,
+      "mode": "100644"
+    },
+    {
+      "path": "docs/JEV_RESEARCH_PLAN.md",
+      "git_blob_sha": "ee2d2ac692706509bc328dc8d1b1697c49088add",
+      "bytes": 26215,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/.gitignore",
+      "git_blob_sha": "e2b40ba895a091da3c34c6d366b9c47069537d07",
+      "bytes": 41,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/app/build.gradle.kts",
+      "git_blob_sha": "32fe7aed568f7253e27c920bc274d76d8a2e3c4a",
+      "bytes": 753,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/app/src/main/AndroidManifest.xml",
+      "git_blob_sha": "61f9f6062e65dc5bdf9dba860250a2f42ffcee8e",
+      "bytes": 582,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/app/src/main/assets/benchmark_samples.json",
+      "git_blob_sha": "341a0db75e0f797b1c395134b1e244dbe7210b31",
+      "bytes": 13060,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/app/src/main/java/com/beyondredaction/edgeruntimebenchmark/BenchmarkRunner.kt",
+      "git_blob_sha": "dd4464ab0591cd21b66004c5f8a6146f73307300",
+      "bytes": 3776,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/app/src/main/java/com/beyondredaction/edgeruntimebenchmark/GeneralizationEngine.kt",
+      "git_blob_sha": "eff19148e96b78029ca9a3907c4697e0b902ae7b",
+      "bytes": 7053,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/app/src/main/java/com/beyondredaction/edgeruntimebenchmark/MainActivity.kt",
+      "git_blob_sha": "a4a420c9be4a9f49c6c048ba3d8b9da6cf8e6533",
+      "bytes": 1064,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/build.gradle.kts",
+      "git_blob_sha": "97cb89e49f0b51b7e701987c214fa482956ff7bf",
+      "bytes": 154,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/gradle/wrapper/gradle-wrapper.jar",
+      "git_blob_sha": "b1b8ef56b44f16b14dc800fa8103a6d89abb526f",
+      "bytes": 48462,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/gradle/wrapper/gradle-wrapper.properties",
+      "git_blob_sha": "eb84db68da78a33cd3bee31277adb883f04e918c",
+      "bytes": 281,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/gradlew",
+      "git_blob_sha": "249efbb032ce46a80c687c0723eb172e85f6a136",
+      "bytes": 8656,
+      "mode": "100755"
+    },
+    {
+      "path": "edge-runtime/android/gradlew.bat",
+      "git_blob_sha": "8508ef684d4e1f8473dcbbfdacf52a131beaee0e",
+      "bytes": 2848,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/android/settings.gradle.kts",
+      "git_blob_sha": "70e3df831493ac78bb71422a6bfbf8cb48a75271",
+      "bytes": 273,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/.gitignore",
+      "git_blob_sha": "40e514a2c96e0dfcd6e912c544f0b2dbe3e1f742",
+      "bytes": 39,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/EdgeRuntimeBenchmark.xcodeproj/project.pbxproj",
+      "git_blob_sha": "1f38fc13c98da5bcb80be808e63003db01f2e68c",
+      "bytes": 12570,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/EdgeRuntimeBenchmark.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "git_blob_sha": "919434a6254f0e9651f402737811be6634a03e9c",
+      "bytes": 135,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/Resources/benchmark_samples.json",
+      "git_blob_sha": "341a0db75e0f797b1c395134b1e244dbe7210b31",
+      "bytes": 13060,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/Sources/BenchmarkRunner.swift",
+      "git_blob_sha": "0ce04aa189a09ceb31b6796e240692971719f0ac",
+      "bytes": 4766,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/Sources/EdgeRuntimeBenchmarkApp.swift",
+      "git_blob_sha": "7d931998ca64835b24e69326c9e3b8a70731bd67",
+      "bytes": 1126,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/Sources/GeneralizationEngine.swift",
+      "git_blob_sha": "4197f57a6a4b57f35213ad4ba650c8173bfa90e0",
+      "bytes": 9606,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/Sources/UIDeviceInfo.swift",
+      "git_blob_sha": "15d9671638fe1e6a2e6540941282f4a0a2b5a901",
+      "bytes": 347,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/ios/EdgeRuntimeBenchmark/project.yml",
+      "git_blob_sha": "526c3c006d6848ee0e72fca40a0243a031f14f62",
+      "bytes": 692,
+      "mode": "100644"
+    },
+    {
+      "path": "edge-runtime/shared/benchmark_samples.json",
+      "git_blob_sha": "341a0db75e0f797b1c395134b1e244dbe7210b31",
+      "bytes": 13060,
+      "mode": "100644"
+    },
+    {
+      "path": "evaluation/04_Adversarial_Profile_Reconstruction.ipynb",
+      "git_blob_sha": "d482663f9cd7e60e7b47d3fd28753728cdd6162f",
+      "bytes": 7183,
+      "mode": "100644"
+    },
+    {
+      "path": "evaluation/05_Semantic_Generalization_Defensive_Layer.ipynb",
+      "git_blob_sha": "25aa41a4be02f96b4813bb621686c622c7ea9e60",
+      "bytes": 11934,
+      "mode": "100644"
+    },
+    {
+      "path": "evaluation/06_Adversarial_Evaluation_Comparison.ipynb",
+      "git_blob_sha": "6b7167e4d008e549c903a9aa05abdd4c7f961800",
+      "bytes": 5579,
+      "mode": "100644"
+    },
+    {
+      "path": "evaluation/07_Evaluation_Harness_N50.ipynb",
+      "git_blob_sha": "2f5171f36c564f1d52602cb041a4029b10200a8c",
+      "bytes": 37543,
+      "mode": "100644"
+    },
+    {
+      "path": "evaluation/08_Relation_Aware_Evaluation_N50.ipynb",
+      "git_blob_sha": "20a156a70ebf0f7cc242591729a1358e930b57c0",
+      "bytes": 28982,
+      "mode": "100644"
+    },
+    {
+      "path": "evaluation/09_Edge_Runtime_Benchmark_Comparison.ipynb",
+      "git_blob_sha": "15ebb7b57d26dc72f3e907d71d00d1c7169f3fdd",
+      "bytes": 11373,
+      "mode": "100644"
+    },
+    {
+      "path": "framework/__init__.py",
+      "git_blob_sha": "926e3b7bad06dd08cfa1012517786c3204cdb3e0",
+      "bytes": 934,
+      "mode": "100644"
+    },
+    {
+      "path": "framework/extraction.py",
+      "git_blob_sha": "0485d8cd8544abe1cf4497abe45d81d285151a3b",
+      "bytes": 9070,
+      "mode": "100644"
+    },
+    {
+      "path": "framework/generalization.py",
+      "git_blob_sha": "98247d466f62432e609096b850b65098dea66623",
+      "bytes": 9840,
+      "mode": "100644"
+    },
+    {
+      "path": "overview.md",
+      "git_blob_sha": "c4976245bc0e2c6d1c69b00b7a2f93eaed3620de",
+      "bytes": 4675,
+      "mode": "100644"
+    },
+    {
+      "path": "requirements.txt",
+      "git_blob_sha": "6eb5808f1376d496550148cca4098b5f8478bf07",
+      "bytes": 192,
+      "mode": "100644"
+    },
+    {
+      "path": "utils/__init__.py",
+      "git_blob_sha": "10be847e82272dd5576772e2884fbe1a89af5c7e",
+      "bytes": 162,
+      "mode": "100644"
+    },
+    {
+      "path": "utils/env.py",
+      "git_blob_sha": "0a5cbe02ac4933b1c60ae0c07276735300e7753b",
+      "bytes": 1586,
+      "mode": "100644"
+    },
+    {
+      "path": "validation/01_Enron_Structural_Validation.ipynb",
+      "git_blob_sha": "4b77b953cbbc799e26f75e7558a34fac53b6379d",
+      "bytes": 89625,
+      "mode": "100644"
+    },
+    {
+      "path": "validation/02_Privacy_Baseline_Profiling.ipynb",
+      "git_blob_sha": "e78906861fc3647970258c94cdc0300fdf21145e",
+      "bytes": 75447,
+      "mode": "100644"
+    },
+    {
+      "path": "validation/03_Context_Window_Simulation.ipynb",
+      "git_blob_sha": "6775770074b0e14ba71e31b0e2a4bf3b480a098e",
+      "bytes": 95839,
+      "mode": "100644"
+    },
+    {
+      "path": "validation/plots/edge_context_constraints.png",
+      "git_blob_sha": "965dbfe0f83f352c1e17ef329e6e8f77e486d140",
+      "bytes": 64951,
+      "mode": "100644"
+    },
+    {
+      "path": "validation/plots/enron_privacy_leakage_profile.png",
+      "git_blob_sha": "08e7e454968e39b7f6e9315ed23a8ee8f67038ae",
+      "bytes": 49320,
+      "mode": "100644"
+    },
+    {
+      "path": "validation/plots/enron_structural_profile.png",
+      "git_blob_sha": "ca46a7234ed2837c825f749d1bdb2ee7ef0ca427",
+      "bytes": 59690,
+      "mode": "100644"
+    }
+  ],
+  "notebooks": [
+    {
+      "path": "evaluation/04_Adversarial_Profile_Reconstruction.ipynb",
+      "blob_sha": "d482663f9cd7e60e7b47d3fd28753728cdd6162f",
+      "cells": 1,
+      "executed_cells": 0,
+      "outputs": 0
+    },
+    {
+      "path": "evaluation/05_Semantic_Generalization_Defensive_Layer.ipynb",
+      "blob_sha": "25aa41a4be02f96b4813bb621686c622c7ea9e60",
+      "cells": 1,
+      "executed_cells": 0,
+      "outputs": 0
+    },
+    {
+      "path": "evaluation/06_Adversarial_Evaluation_Comparison.ipynb",
+      "blob_sha": "6b7167e4d008e549c903a9aa05abdd4c7f961800",
+      "cells": 1,
+      "executed_cells": 0,
+      "outputs": 0
+    },
+    {
+      "path": "evaluation/07_Evaluation_Harness_N50.ipynb",
+      "blob_sha": "2f5171f36c564f1d52602cb041a4029b10200a8c",
+      "cells": 8,
+      "executed_cells": 7,
+      "outputs": 18
+    },
+    {
+      "path": "evaluation/08_Relation_Aware_Evaluation_N50.ipynb",
+      "blob_sha": "20a156a70ebf0f7cc242591729a1358e930b57c0",
+      "cells": 8,
+      "executed_cells": 7,
+      "outputs": 20
+    },
+    {
+      "path": "evaluation/09_Edge_Runtime_Benchmark_Comparison.ipynb",
+      "blob_sha": "15ebb7b57d26dc72f3e907d71d00d1c7169f3fdd",
+      "cells": 5,
+      "executed_cells": 4,
+      "outputs": 4
+    },
+    {
+      "path": "validation/01_Enron_Structural_Validation.ipynb",
+      "blob_sha": "4b77b953cbbc799e26f75e7558a34fac53b6379d",
+      "cells": 1,
+      "executed_cells": 1,
+      "outputs": 7
+    },
+    {
+      "path": "validation/02_Privacy_Baseline_Profiling.ipynb",
+      "blob_sha": "e78906861fc3647970258c94cdc0300fdf21145e",
+      "cells": 1,
+      "executed_cells": 1,
+      "outputs": 7
+    },
+    {
+      "path": "validation/03_Context_Window_Simulation.ipynb",
+      "blob_sha": "6775770074b0e14ba71e31b0e2a4bf3b480a098e",
+      "cells": 1,
+      "executed_cells": 1,
+      "outputs": 7
+    }
+  ],
+  "historical_environment": {
+    "recovered": false,
+    "defense_alias": "llama3.2:latest",
+    "adversary_alias": "qwen3-local:latest",
+    "weight_digests": null,
+    "tokenizer_digest": null,
+    "package_lock": null
+  },
+  "missing_artifacts": [
+    "N50 per-sample caches and score CSVs",
+    "raw device measurement JSON",
+    "archive checksum and sample-to-source mapping",
+    "historical runtime/model digests",
+    "authoritative current Enron manuscript"
+  ],
+  "private_recovery": {
+    "proof_of_concept_files": [
+      "adversarial_baseline_reconstruction.json",
+      "adversarial_protected_reconstruction.json",
+      "protected_generalized_context.txt"
+    ],
+    "paired_lineage_verified": false,
+    "raw_files_committed": false,
+    "checksums": null,
+    "archive_observed_bytes": 443254787,
+    "archive_downloaded": false,
+    "manuscript": "Earlier eight-page educational Beyond Redaction manuscript; PDF byte hash unavailable"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "audit_date": "2026-10-08",
+  "scope": "Evidence audit; not independent experiment replication",
+  "baseline_commit": "eed6b58aa86b95cca5d5a3c0e7d9a8d0120aca68",
+  "historical_commit": "fe193db297e807668a96a559ea48feffbb0de903",
+  "resumed_checks": {
+    "passed": 32,
+    "checks": [
+      "base tree is complete",
+      "blob identity: README.md",
+      "blob identity: edge-runtime/android/app/src/main/java/com/beyondredaction/edgeruntimebenchmark/BenchmarkRunner.kt",
+      "blob identity: edge-runtime/ios/EdgeRuntimeBenchmark/Sources/BenchmarkRunner.swift",
+      "blob identity: edge-runtime/shared/benchmark_samples.json",
+      "blob identity: evaluation/04_Adversarial_Profile_Reconstruction.ipynb",
+      "blob identity: evaluation/05_Semantic_Generalization_Defensive_Layer.ipynb",
+      "blob identity: evaluation/06_Adversarial_Evaluation_Comparison.ipynb",
+      "blob identity: evaluation/07_Evaluation_Harness_N50.ipynb",
+      "blob identity: evaluation/08_Relation_Aware_Evaluation_N50.ipynb",
+      "blob identity: evaluation/09_Edge_Runtime_Benchmark_Comparison.ipynb",
+      "blob identity: framework/extraction.py",
+      "blob identity: framework/generalization.py",
+      "blob identity: overview.md",
+      "blob identity: requirements.txt",
+      "blob identity: validation/01_Enron_Structural_Validation.ipynb",
+      "blob identity: validation/02_Privacy_Baseline_Profiling.ipynb",
+      "blob identity: validation/03_Context_Window_Simulation.ipynb",
+      "07 saved mean and denominator",
+      "08 saved mean delta and paired counts",
+      "08 relation denominator and zero summary",
+      "09 saved latency/memory values",
+      "cleaner premature header boundary",
+      "SER string overlap proxy",
+      "RER ignores relation label",
+      "20 samples with residual headers",
+      "native sample copies byte-identical",
+      "OULAD recorded F1 differs from manuscript",
+      "OULAD MSE matches rounding",
+      "portability assumptions present",
+      "routing assigns expected zone in simulated pipeline",
+      "historical report mode inventory"
+    ],
+    "notebooks": [
+      {
+        "path": "evaluation/04_Adversarial_Profile_Reconstruction.ipynb",
+        "blob_sha": "d482663f9cd7e60e7b47d3fd28753728cdd6162f",
+        "cells": 1,
+        "executed_cells": 0,
+        "outputs": 0
+      },
+      {
+        "path": "evaluation/05_Semantic_Generalization_Defensive_Layer.ipynb",
+        "blob_sha": "25aa41a4be02f96b4813bb621686c622c7ea9e60",
+        "cells": 1,
+        "executed_cells": 0,
+        "outputs": 0
+      },
+      {
+        "path": "evaluation/06_Adversarial_Evaluation_Comparison.ipynb",
+        "blob_sha": "6b7167e4d008e549c903a9aa05abdd4c7f961800",
+        "cells": 1,
+        "executed_cells": 0,
+        "outputs": 0
+      },
+      {
+        "path": "evaluation/07_Evaluation_Harness_N50.ipynb",
+        "blob_sha": "2f5171f36c564f1d52602cb041a4029b10200a8c",
+        "cells": 8,
+        "executed_cells": 7,
+        "outputs": 18
+      },
+      {
+        "path": "evaluation/08_Relation_Aware_Evaluation_N50.ipynb",
+        "blob_sha": "20a156a70ebf0f7cc242591729a1358e930b57c0",
+        "cells": 8,
+        "executed_cells": 7,
+        "outputs": 20
+      },
+      {
+        "path": "evaluation/09_Edge_Runtime_Benchmark_Comparison.ipynb",
+        "blob_sha": "15ebb7b57d26dc72f3e907d71d00d1c7169f3fdd",
+        "cells": 5,
+        "executed_cells": 4,
+        "outputs": 4
+      },
+      {
+        "path": "validation/01_Enron_Structural_Validation.ipynb",
+        "blob_sha": "4b77b953cbbc799e26f75e7558a34fac53b6379d",
+        "cells": 1,
+        "executed_cells": 1,
+        "outputs": 7
+      },
+      {
+        "path": "validation/02_Privacy_Baseline_Profiling.ipynb",
+        "blob_sha": "e78906861fc3647970258c94cdc0300fdf21145e",
+        "cells": 1,
+        "executed_cells": 1,
+        "outputs": 7
+      },
+      {
+        "path": "validation/03_Context_Window_Simulation.ipynb",
+        "blob_sha": "6775770074b0e14ba71e31b0e2a4bf3b480a098e",
+        "cells": 1,
+        "executed_cells": 1,
+        "outputs": 7
+      }
+    ],
+    "model_calls": 0,
+    "device_reruns": 0
+  },
+  "recomputed": {
+    "f1_gap_percentage_points": 9.933714485873324,
+    "mse_reduction_percent": 30.910195380168016,
+    "n50_tied": 13,
+    "name_flag_07_percent": 10.869565217391305,
+    "name_flag_08_percent": 8.695652173913043,
+    "attaq_count_source": "Counts transcribed from recovered historical manuscript; not recovered attack traces",
+    "attaq_queries": 1402,
+    "attaq_neutralized": 1354,
+    "attaq_arr_percent": 96.57631954350927,
+    "attaq_pii_neutralized_percent": 95.65217391304348
+  },
+  "earlier_python_execution": {
+    "status": "Successfully executed before workspace became unavailable; not rerun after resumption",
+    "python_version": "3.12.14",
+    "kind": "Pure functions extracted with AST; synthetic fixtures, not prevalence estimates",
+    "notebooks_parsed": 9,
+    "cleaner_retains_headers": true,
+    "ser_generic_substring": 1,
+    "rer_anonymous_preserved_edge": 0,
+    "rer_disconnected_named_endpoints": 1,
+    "cascading_replacement": "Person-B-A works with Person-B"
+  },
+  "not_revalidated_as_experiments": [
+    "N50 raw score recomputation",
+    "hardware benchmarks",
+    "historical model environment",
+    "manuscript EXP01/03/05/06/07 runs"
+  ],
+  "document_checks": {
+    "prepared_files": 12,
+    "local_markdown_links_checked": 28,
+    "broken_links": 0,
+    "current_claims": 26,
+    "historical_claim_groups": 15,
+    "related_work_entries": 20,
+    "historical_references": 21,
+    "json_records_parsed": 3,
+    "scientific_code_or_notebook_changes": 0
+  }
+}
